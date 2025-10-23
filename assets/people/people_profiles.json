@@ -279,5 +279,92 @@
       "assets/people/15/figure_15_cover_img_2.webp",
       "assets/people/15/figure_15_cover_img_3.webp"
     ]
+  },
+  {
+    "NiveUserName": "DynamicAlex",
+    "NiveUserIcon": "assets/people/16/figure_16_cover_img_1.webp",
+    "NiveShowPhoto": "assets/people/16/figure_16_cover_img_2.webp",
+    "NiveMotto": "ESTP - The energetic dancer who brings power to every move. Passionate about sharing dynamic choreography that showcases strength and athleticism.",
+    "NiveShowFollowNum": 6,
+    "NiveShowLike": 12,
+    "NiveSayhi": "Hey there! Ready to experience some powerful dance moves and share the energy? Let's make this session unforgettable! 💪",
+    "NiveIsVideo": true,
+    "NivePlayVideo": "assets/people/16/figure_16_cover_video_1.mp4",
+    "NiveHobby": "Fitness",
+    "NiveShowPostImgArray": [
+      "assets/people/16/figure_16_cover_img_1.webp",
+      "assets/people/16/figure_16_cover_img_2.webp",
+      "assets/people/16/figure_16_cover_img_3.webp",
+      "assets/people/16/figure_16_cover_video_1_thumbnail.webp"
+    ]
+  },
+  {
+    "NiveUserName": "CharmingMarcus",
+    "NiveUserIcon": "assets/people/17/figure_17_cover_img_1.webp",
+    "NiveShowPhoto": "assets/people/17/figure_17_cover_img_2.webp",
+    "NiveMotto": "ESFP - The charismatic dancer who loves entertaining and connecting. Passionate about sharing smooth moves that captivate audiences and spread joy.",
+    "NiveShowFollowNum": 8,
+    "NiveShowLike": 15,
+    "NiveSayhi": "Hello handsome! Ready to share some smooth dance moves and create magical moments together? Let's light up the dance floor! ✨",
+    "NiveIsVideo": true,
+    "NivePlayVideo": "assets/people/17/figure_17_cover_video_1.mp4",
+    "NiveHobby": "Music",
+    "NiveShowPostImgArray": [
+      "assets/people/17/figure_17_cover_img_1.webp",
+      "assets/people/17/figure_17_cover_img_2.webp",
+      "assets/people/17/figure_17_cover_img_3.webp",
+      "assets/people/17/figure_17_cover_video_1_thumbnail.webp"
+    ]
+  },
+  {
+    "NiveUserName": "MysteriousKai",
+    "NiveUserIcon": "assets/people/18/figure_18_cover_img_1.webp",
+    "NiveShowPhoto": "assets/people/18/figure_18_cover_img_2.webp",
+    "NiveMotto": "INTJ - The strategic dancer who crafts intricate choreography. Passionate about sharing complex movements that tell compelling stories and inspire deep thinking.",
+    "NiveShowFollowNum": 5,
+    "NiveShowLike": 9,
+    "NiveSayhi": "Hey there, deep thinker! Ready to explore sophisticated dance moves and discover hidden meanings together? Let's create something profound! 🎭",
+    "NiveIsVideo": false,
+    "NivePlayVideo": "",
+    "NiveHobby": "Philosophy",
+    "NiveShowPostImgArray": [
+      "assets/people/18/figure_18_cover_img_1.webp",
+      "assets/people/18/figure_18_cover_img_2.webp",
+      "assets/people/18/figure_18_cover_img_3.webp"
+    ]
+  },
+  {
+    "NiveUserName": "BoldTyler",
+    "NiveUserIcon": "assets/people/19/figure_19_cover_img_1.webp",
+    "NiveShowPhoto": "assets/people/19/figure_19_cover_img_2.webp",
+    "NiveMotto": "ENTJ - The confident dancer who leads with authority. Passionate about sharing powerful choreography that commands attention and inspires others to greatness.",
+    "NiveShowFollowNum": 7,
+    "NiveShowLike": 14,
+    "NiveSayhi": "Hello leader! Ready to share commanding dance moves and take charge of our dance journey? Let's dominate the floor! 👑",
+    "NiveIsVideo": false,
+    "NivePlayVideo": "",
+    "NiveHobby": "Leadership",
+    "NiveShowPostImgArray": [
+      "assets/people/19/figure_19_cover_img_1.webp",
+      "assets/people/19/figure_19_cover_img_2.webp",
+      "assets/people/19/figure_19_cover_img_3.webp"
+    ]
+  },
+  {
+    "NiveUserName": "GentleRyan",
+    "NiveUserIcon": "assets/people/20/figure_20_cover_img_1.webp",
+    "NiveShowPhoto": "assets/people/20/figure_20_cover_img_2.webp",
+    "NiveMotto": "ISFJ - The caring dancer who values meaningful connections. Passionate about sharing gentle choreography that brings comfort and creates lasting memories.",
+    "NiveShowFollowNum": 4,
+    "NiveShowLike": 8,
+    "NiveSayhi": "Hi there, kind soul! Ready to share heartfelt dance moves and create warm memories together? Let's dance with love! 💙",
+    "NiveIsVideo": false,
+    "NivePlayVideo": "",
+    "NiveHobby": "Volunteering",
+    "NiveShowPostImgArray": [
+      "assets/people/20/figure_20_cover_img_1.webp",
+      "assets/people/20/figure_20_cover_img_2.webp",
+      "assets/people/20/figure_20_cover_img_3.webp"
+    ]
   }
 ]

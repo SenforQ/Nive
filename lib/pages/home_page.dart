@@ -199,12 +199,14 @@ class _HomePageState extends State<HomePage> {
                               controller: _pageController,
                               itemCount: _filteredProfiles.length,
                               itemBuilder: (context, index) {
-                                final profile = _filteredProfiles[index];
+                                // 倒序显示
+                                final reversedIndex = _filteredProfiles.length - 1 - index;
+                                final profile = _filteredProfiles[reversedIndex];
                                 return Center(
                                   child: Container(
                                     width: 230,
                                     margin: const EdgeInsets.symmetric(horizontal: 8),
-                                    child: _buildProfileCard(profile, index),
+                                    child: _buildProfileCard(profile, reversedIndex),
                                   ),
                                 );
                               },
