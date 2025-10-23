@@ -460,7 +460,7 @@ class _WalletPageState extends State<WalletPage> {
 
           // 购买选项区域
           Positioned(
-            top: 207,
+            top: 237,
             left: 20,
             right: 20,
             bottom: safeAreaBottom + 32,
