@@ -543,16 +543,8 @@ class _WalletPageState extends State<WalletPage> {
                     '${product.coins} Coins',
                     style: const TextStyle(
                       color: Colors.white,
-                      fontSize: 20,
+                      fontSize: 16,
                       fontWeight: FontWeight.bold,
-                    ),
-                  ),
-                  const SizedBox(height: 4),
-                  Text(
-                    'Perfect for unlocking activities',
-                    style: TextStyle(
-                      color: Colors.white.withValues(alpha: 0.7),
-                      fontSize: 14,
                     ),
                   ),
                 ],

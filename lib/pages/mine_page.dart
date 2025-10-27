@@ -88,97 +88,103 @@ class _MinePageState extends State<MinePage> {
   @override
   Widget build(BuildContext context) {
     final screenWidth = MediaQuery.of(context).size.width;
-    final screenHeight = MediaQuery.of(context).size.height;
     final bottomPadding = MediaQuery.of(context).padding.bottom;
     
     return Scaffold(
       backgroundColor: const Color(0xFF0A090F),
-      body: Stack(
-        children: [
-          // 顶部背景图片
-          Positioned(
-            top: 0,
-            left: 0,
-            right: 0,
-            child: SizedBox(
-              width: screenWidth,
-              height: 300,
-              child: Image.asset(
-                'assets/mine_top_default_bg.webp',
-                width: screenWidth,
-                height: 300,
-                fit: BoxFit.cover,
-              ),
-            ),
-          ),
-          
-          // 渐变叠加层
-          Positioned(
-            top: 300 - 131,
-            left: 0,
-            right: 0,
-            child: Container(
-              height: 131,
-              decoration: BoxDecoration(
-                gradient: LinearGradient(
-                  begin: Alignment.topCenter,
-                  end: Alignment.bottomCenter,
-                  colors: [
-                    const Color(0xFF0A090F).withValues(alpha: 0.0),
-                    const Color(0xFF0A090F).withValues(alpha: 1.0),
-                  ],
-                ),
-              ),
-            ),
-          ),
-          
-          // 用户头像和信息（自由布局）
-          Positioned(
-            left: 20,
-            top: 250,
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              mainAxisSize: MainAxisSize.min,
+      body: SingleChildScrollView(
+        child: Column(
+          children: [
+            // 顶部背景和用户信息
+            Stack(
               children: [
-                // 用户头像
-                Container(
-                  width: 80,
-                  height: 80,
-                  decoration: BoxDecoration(
-                    shape: BoxShape.circle,
-                    border: Border.all(
-                      color: Colors.white.withValues(alpha: 0.2),
-                      width: 2,
+                // 背景图片
+                SizedBox(
+                  width: screenWidth,
+                  height: 300,
+                  child: Image.asset(
+                    'assets/mine_top_default_bg.webp',
+                    width: screenWidth,
+                    height: 300,
+                    fit: BoxFit.cover,
+                  ),
+                ),
+                // 渐变叠加层
+                Positioned(
+                  bottom: 0,
+                  left: 0,
+                  right: 0,
+                  child: Container(
+                    height: 131,
+                    decoration: BoxDecoration(
+                      gradient: LinearGradient(
+                        begin: Alignment.topCenter,
+                        end: Alignment.bottomCenter,
+                        colors: [
+                          const Color(0xFF0A090F).withValues(alpha: 0.0),
+                          const Color(0xFF0A090F).withValues(alpha: 1.0),
+                        ],
+                      ),
                     ),
                   ),
-                  child: ClipOval(
-                    child: _isLoading
-                        ? const Center(
-                            child: CircularProgressIndicator(
-                              color: Colors.white,
-                              strokeWidth: 2,
-                            ),
-                          )
-                        : _userData?.avatarPath != null
-                            ? FutureBuilder<String?>(
-                                future: UserDataService.getFullAvatarPath(_userData!.avatarPath!),
-                                builder: (context, snapshot) {
-                                  if (snapshot.connectionState == ConnectionState.waiting) {
-                                    return const Center(
-                                      child: CircularProgressIndicator(
-                                        color: Colors.white,
-                                        strokeWidth: 2,
-                                      ),
-                                    );
-                                  }
-                                  
-                                  if (snapshot.hasData && snapshot.data != null) {
-                                    return Image.file(
-                                      File(snapshot.data!),
-                                      width: 80,
-                                      height: 80,
-                                      fit: BoxFit.cover,
-                                      errorBuilder: (context, error, stackTrace) {
+                ),
+                // 用户信息
+                Positioned(
+                  left: 20,
+                  bottom: 20,
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      // 用户头像
+                      Container(
+                        width: 80,
+                        height: 80,
+                        decoration: BoxDecoration(
+                          shape: BoxShape.circle,
+                          border: Border.all(
+                            color: Colors.white.withValues(alpha: 0.2),
+                            width: 2,
+                          ),
+                        ),
+                        child: ClipOval(
+                          child: _isLoading
+                              ? const Center(
+                                  child: CircularProgressIndicator(
+                                    color: Colors.white,
+                                    strokeWidth: 2,
+                                  ),
+                                )
+                              : _userData?.avatarPath != null
+                                  ? FutureBuilder<String?>(
+                                      future: UserDataService.getFullAvatarPath(_userData!.avatarPath!),
+                                      builder: (context, snapshot) {
+                                        if (snapshot.connectionState == ConnectionState.waiting) {
+                                          return const Center(
+                                            child: CircularProgressIndicator(
+                                              color: Colors.white,
+                                              strokeWidth: 2,
+                                            ),
+                                          );
+                                        }
+                                        
+                                        if (snapshot.hasData && snapshot.data != null) {
+                                          return Image.file(
+                                            File(snapshot.data!),
+                                            width: 80,
+                                            height: 80,
+                                            fit: BoxFit.cover,
+                                            errorBuilder: (context, error, stackTrace) {
+                                              return Image.asset(
+                                                'assets/user_default.webp',
+                                                width: 80,
+                                                height: 80,
+                                                fit: BoxFit.cover,
+                                              );
+                                            },
+                                          );
+                                        }
+                                        
                                         return Image.asset(
                                           'assets/user_default.webp',
                                           width: 80,
@@ -186,100 +192,88 @@ class _MinePageState extends State<MinePage> {
                                           fit: BoxFit.cover,
                                         );
                                       },
-                                    );
-                                  }
-                                  
-                                  return Image.asset(
-                                    'assets/user_default.webp',
-                                    width: 80,
-                                    height: 80,
-                                    fit: BoxFit.cover,
-                                  );
-                                },
-                              )
-                            : Image.asset(
-                                'assets/user_default.webp',
-                                width: 80,
-                                height: 80,
-                                fit: BoxFit.cover,
-                              ),
-                  ),
-                ),
-                
-                const SizedBox(height: 8),
-                
-                // 用户名称和性别标识
-                Row(
-                  mainAxisSize: MainAxisSize.min,
-                  children: [
-                        Text(
-                          _userData?.name.isNotEmpty == true ? _userData!.name : 'Nive',
-                          style: const TextStyle(
-                            fontSize: 20,
-                            fontWeight: FontWeight.bold,
-                            color: Color(0xFFFFFFFF),
-                          ),
+                                    )
+                                  : Image.asset(
+                                      'assets/user_default.webp',
+                                      width: 80,
+                                      height: 80,
+                                      fit: BoxFit.cover,
+                                    ),
                         ),
-                            // 性别标识
-                            _getGenderIcon(_userData?.gender == 'male' ? Gender.male : 
-                                          _userData?.gender == 'female' ? Gender.female : Gender.none),
-                  ],
-                ),
-                
-                const SizedBox(height: 8),
-                
-                // 个性签名
-                SizedBox(
-                  width: 200, // 限制宽度以确保换行
-                  child: Text(
-                    _userData?.signature.isNotEmpty == true ? _userData!.signature : 'No signature set yet...',
-                    style: const TextStyle(
-                      fontSize: 14,
-                      color: Color(0xFFFFFFFF),
-                      height: 1.2,
-                    ),
-                    maxLines: 2,
-                    overflow: TextOverflow.ellipsis,
+                      ),
+                      
+                      const SizedBox(height: 8),
+                      
+                      // 用户名称和性别标识
+                      Row(
+                        mainAxisSize: MainAxisSize.min,
+                        children: [
+                          Text(
+                            _userData?.name.isNotEmpty == true ? _userData!.name : 'Nive',
+                            style: const TextStyle(
+                              fontSize: 20,
+                              fontWeight: FontWeight.bold,
+                              color: Color(0xFFFFFFFF),
+                            ),
+                          ),
+                          // 性别标识
+                          _getGenderIcon(_userData?.gender == 'male' ? Gender.male : 
+                                        _userData?.gender == 'female' ? Gender.female : Gender.none),
+                        ],
+                      ),
+                      
+                      const SizedBox(height: 8),
+                      
+                      // 个性签名
+                      SizedBox(
+                        width: 200, // 限制宽度以确保换行
+                        child: Text(
+                          _userData?.signature.isNotEmpty == true ? _userData!.signature : 'No signature set yet...',
+                          style: const TextStyle(
+                            fontSize: 14,
+                            color: Color(0xFFFFFFFF),
+                            height: 1.2,
+                          ),
+                          maxLines: 2,
+                          overflow: TextOverflow.ellipsis,
+                        ),
+                      ),
+                    ],
                   ),
                 ),
               ],
             ),
-          ),
-          
-          // 功能列表
-          Positioned(
-            left: 20,
-            right: 20,
-            top: 400, // 在用户信息下方
-            height: screenHeight - 400 - 79 - bottomPadding - 12, // 动态计算高度
-            child: SingleChildScrollView(
+            
+            // 功能列表
+            Padding(
+              padding: const EdgeInsets.only(left: 20, right: 20, top: 20),
               child: Column(
                 children: [
-                _buildListItem(
-                  context, 
-                  'assets/mine_vip.webp', 
-                  'Member Subscription',
-                  onTap: () {
-                    Navigator.of(context).push(
-                      MaterialPageRoute(
-                        builder: (context) => const VipPage(),
-                      ),
-                    );
-                  },
-                ),
-                const SizedBox(height: 12),
-                _buildListItem(
-                  context, 
-                  'assets/mine_wallet.webp', 
-                  'Wallet',
-                  onTap: () {
-                    Navigator.of(context).push(
-                      MaterialPageRoute(
-                        builder: (context) => const WalletPage(),
-                      ),
-                    );
-                  },
-                ),
+                  _buildListItem(
+                    context, 
+                    'assets/mine_vip.webp', 
+                    'Member Subscription',
+                    onTap: () {
+                      Navigator.of(context).push(
+                        MaterialPageRoute(
+                          builder: (context) => const VipPage(),
+                        ),
+                      );
+                    },
+                  ),
+                  const SizedBox(height: 12),
+                  _buildListItem(
+                    context, 
+                    'assets/mine_wallet.webp', 
+                    'Wallet',
+                    onTap: () {
+                      Navigator.of(context).push(
+                        MaterialPageRoute(
+                          builder: (context) => const WalletPage(),
+                        ),
+                      );
+                    },
+                  ),
                   const SizedBox(height: 12),
                   _buildListItem(
                     context, 
@@ -323,12 +317,12 @@ class _MinePageState extends State<MinePage> {
                       );
                     },
                   ),
+                  SizedBox(height: bottomPadding + 120), // 底部留出TabBar和底部安全区域的空间
                 ],
               ),
             ),
-          ),
-
-        ],
+          ],
+        ),
       ),
     );
   }
