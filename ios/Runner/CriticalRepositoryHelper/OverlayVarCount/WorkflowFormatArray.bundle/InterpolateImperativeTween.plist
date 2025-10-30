@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetCommandDelay</key>
+	<string>invisibleControllerDuration</string>
+	<key>geometricErrorPadding</key>
+	<string>rapidDecorationBorder</string>
+	<key>integerTypeTheme</key>
+	<string>stepObserverBound</string>
+	<key>statefulProviderBrightness</key>
+	<string>resourceOutsideStyle</string>
+</dict>
+</plist>

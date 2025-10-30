@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directCallbackAppearance</key>
+	<string>numericalEntitySkewy</string>
+	<key>geometricSpotCoord</key>
+	<string>screenProxySpacing</string>
+	<key>globalHandlerOffset</key>
+	<string>resolverStrategyDensity</string>
+	<key>gradientStrategyRotation</key>
+	<string>associatedMultiplicationDepth</string>
+	<key>greatBrushAlignment</key>
+	<string>listenerForPrototype</string>
+	<key>priorityWithoutBuffer</key>
+	<string>toolChainColor</string>
+	<key>requestOutsidePrototype</key>
+	<string>grainWorkFrequency</string>
+	<key>resultProxyAppearance</key>
+	<string>dynamicRadiusColor</string>
+	<key>textfieldKindAlignment</key>
+	<string>currentBuilderCenter</string>
+</dict>
+</plist>

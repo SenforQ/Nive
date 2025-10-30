@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateProxyDepth</key>
+	<string>denseRectForce</string>
+	<key>effectSinceStyle</key>
+	<string>borderAgainstAction</string>
+	<key>logVarSpeed</key>
+	<string>mediocreTangentRotation</string>
+	<key>statefulModelBrightness</key>
+	<string>completionMediatorCenter</string>
+</dict>
+</plist>

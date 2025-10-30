@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicOptionDensity</key>
+	<string>alignmentTypeTop</string>
+	<key>borderProxyIndex</key>
+	<string>queryAtParameter</string>
+	<key>constProviderDepth</key>
+	<string>observerAroundTask</string>
+	<key>cubitStyleDelay</key>
+	<string>materialFutureOpacity</string>
+	<key>desktopWidgetColor</key>
+	<string>sliderAdapterTransparency</string>
+	<key>lastStatelessLocation</key>
+	<string>baselineWithoutParameter</string>
+	<key>pageviewInValue</key>
+	<string>resizableNodeSkewy</string>
+	<key>responsiveKernelOrientation</key>
+	<string>channelsOperationDensity</string>
+	<key>scenePatternDensity</key>
+	<string>alignmentParameterType</string>
+</dict>
+</plist>

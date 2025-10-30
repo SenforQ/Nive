@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnContainTask</key>
+	<string>navigatorStyleVisible</string>
+	<key>kernelContainShape</key>
+	<string>mobileEffectBound</string>
+	<key>materialAssetValidation</key>
+	<string>futureValueTop</string>
+	<key>responsiveUtilInterval</key>
+	<string>interactiveIntensityOrigin</string>
+	<key>segueOfAction</key>
+	<string>interactiveDropdownbuttonBound</string>
+	<key>stackLevelCenter</key>
+	<string>providerOperationFeedback</string>
+</dict>
+</plist>

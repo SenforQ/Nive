@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchTierScale</key>
+	<string>menuLevelIndex</string>
+	<key>commandInFacade</key>
+	<string>monsterStyleMode</string>
+	<key>dependencyVarValidation</key>
+	<string>specifyWorkflowKind</string>
+	<key>invisibleContainerRate</key>
+	<string>viewAlongVariable</string>
+	<key>layerContextHue</key>
+	<string>slashPerPattern</string>
+	<key>pageviewBesideAdapter</key>
+	<string>profileAwayMethod</string>
+	<key>sceneCyclePressure</key>
+	<string>durationAgainstParam</string>
+	<key>utilDuringMediator</key>
+	<string>consultativeTitleSpeed</string>
+</dict>
+</plist>

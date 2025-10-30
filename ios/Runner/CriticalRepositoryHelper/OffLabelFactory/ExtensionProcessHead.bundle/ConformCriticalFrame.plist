@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopBlocMode</key>
+	<string>stackOutsidePrototype</string>
+	<key>grainFromAction</key>
+	<string>mediumExceptionIndex</string>
+	<key>layoutInterpreterInteraction</key>
+	<string>navigatorLevelContrast</string>
+	<key>mobxNumberOrientation</key>
+	<string>cubitDuringPlatform</string>
+	<key>navigatorTierFlags</key>
+	<string>techniquePrototypeDepth</string>
+	<key>storageIncludeStyle</key>
+	<string>viewOutsidePrototype</string>
+	<key>widgetInsideMemento</key>
+	<string>routerCommandDepth</string>
+</dict>
+</plist>

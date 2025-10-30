@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitFromActivity</key>
+	<string>inkwellNearLayer</string>
+	<key>durationInterpreterRate</key>
+	<string>shaderActionSaturation</string>
+	<key>normalTaskCenter</key>
+	<string>transitionAtStyle</string>
+	<key>prevAnimatedcontainerCenter</key>
+	<string>sensorOutsideDecorator</string>
+	<key>singleAllocatorHead</key>
+	<string>chartModeAlignment</string>
+	<key>staticFeatureState</key>
+	<string>completionPerStyle</string>
+	<key>synchronousRectFormat</key>
+	<string>spriteStageVisible</string>
+</dict>
+</plist>

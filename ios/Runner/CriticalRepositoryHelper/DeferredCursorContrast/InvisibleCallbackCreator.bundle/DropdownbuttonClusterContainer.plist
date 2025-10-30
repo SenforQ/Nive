@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesCycleHue</key>
+	<string>timerSingletonSkewx</string>
+	<key>cardOperationStyle</key>
+	<string>entityPrototypeStyle</string>
+	<key>curveAtLayer</key>
+	<string>variantAtState</string>
+	<key>declarativeAsyncInteraction</key>
+	<string>visibleChallengeResponse</string>
+	<key>interactiveButtonFeedback</key>
+	<string>delicateLossOrigin</string>
+	<key>interfacePlatformCount</key>
+	<string>layoutOrShape</string>
+	<key>numericalEqualizationDuration</key>
+	<string>cycleProxyAcceleration</string>
+	<key>statefulTitleRight</key>
+	<string>euclideanRoleDuration</string>
+	<key>statelessFrameworkDensity</key>
+	<string>cupertinoBuilderDirection</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentBufferMargin</key>
+	<string>modulusAsChain</string>
+	<key>baseAtAction</key>
+	<string>reactiveTransitionHead</string>
+	<key>denseBrushDirection</key>
+	<string>mobileCubitAlignment</string>
+	<key>mutableTransitionFeedback</key>
+	<string>autoSampleTension</string>
+	<key>overlayAmongActivity</key>
+	<string>asyncStatefulPosition</string>
+</dict>
+</plist>

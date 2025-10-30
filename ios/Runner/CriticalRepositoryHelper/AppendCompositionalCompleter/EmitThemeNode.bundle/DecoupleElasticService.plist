@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleProviderScale</key>
+	<string>stateTempleTail</string>
+	<key>assetSystemDensity</key>
+	<string>unactivatedDependencyDistance</string>
+	<key>callbackActivitySpeed</key>
+	<string>sceneExceptStage</string>
+	<key>coordinatorChainHue</key>
+	<string>checkboxParameterCoord</string>
+	<key>gridIncludeAction</key>
+	<string>accessoryCommandPosition</string>
+	<key>isolateTempleContrast</key>
+	<string>routerContextMode</string>
+	<key>navigatorMementoStyle</key>
+	<string>buttonExceptMemento</string>
+	<key>sortedPositionedMargin</key>
+	<string>protocolShapeDepth</string>
+	<key>taskDespiteChain</key>
+	<string>characterWithoutWork</string>
+</dict>
+</plist>

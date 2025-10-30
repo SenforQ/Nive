@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandThanStyle</key>
+	<string>entropyTierBottom</string>
+	<key>customizedRowTheme</key>
+	<string>dialogsFlyweightHead</string>
+	<key>exceptionJobMode</key>
+	<string>publicTaskDepth</string>
+	<key>offsetMementoFlags</key>
+	<string>declarativeStatelessDepth</string>
+	<key>robustPositionedStatus</key>
+	<string>permissiveZoneFeedback</string>
+	<key>sizedboxDuringScope</key>
+	<string>platePerSystem</string>
+</dict>
+</plist>

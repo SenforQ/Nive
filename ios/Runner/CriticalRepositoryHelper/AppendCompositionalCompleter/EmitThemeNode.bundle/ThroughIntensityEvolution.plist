@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetVariableEdge</key>
+	<string>scrollContextOrigin</string>
+	<key>capsuleAsCycle</key>
+	<string>tabviewCompositeIndex</string>
+	<key>dedicatedViewOffset</key>
+	<string>animationPrototypeState</string>
+	<key>dependencyParamBorder</key>
+	<string>widgetPrototypeForce</string>
+	<key>eventSingletonForce</key>
+	<string>publicRowShade</string>
+	<key>factoryWithCommand</key>
+	<string>projectNumberFlags</string>
+	<key>lastStreamTheme</key>
+	<string>originalLayoutBottom</string>
+	<key>rowFromFlyweight</key>
+	<string>intensityBridgeScale</string>
+	<key>storageWithoutFunction</key>
+	<string>transitionAmongType</string>
+</dict>
+</plist>

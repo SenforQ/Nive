@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveEventDensity</key>
+	<string>featureBridgeFrequency</string>
+	<key>apertureOrSingleton</key>
+	<string>storeParameterFlags</string>
+	<key>constraintMementoShape</key>
+	<string>grainAboutMode</string>
+	<key>cupertinoFactoryOffset</key>
+	<string>nativeScrollForce</string>
+	<key>expandedMementoTint</key>
+	<string>significantIsolateHue</string>
+	<key>labelFromPlatform</key>
+	<string>progressbarViaParameter</string>
+	<key>newestAlignmentRate</key>
+	<string>futureAndScope</string>
+	<key>originalServiceDelay</key>
+	<string>semanticInteractorSkewx</string>
+	<key>subsequentFragmentOrigin</key>
+	<string>localizationParameterTheme</string>
+	<key>viewExceptNumber</key>
+	<string>cupertinoServiceDistance</string>
+</dict>
+</plist>

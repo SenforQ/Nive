@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityAmongCycle</key>
+	<string>appbarForLevel</string>
+	<key>eventForFacade</key>
+	<string>normalCupertinoDuration</string>
+	<key>optimizerAtTask</key>
+	<string>lastScaffoldInterval</string>
+	<key>seamlessRadiusMargin</key>
+	<string>liteTweenFrequency</string>
+	<key>singleWidgetLeft</key>
+	<string>smallParticleName</string>
+	<key>stateUntilSystem</key>
+	<string>catalystCycleDistance</string>
+</dict>
+</plist>

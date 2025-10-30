@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryEnvironmentMode</key>
+	<string>viewJobBehavior</string>
+	<key>advancedLayoutHue</key>
+	<string>columnBridgeOrientation</string>
+	<key>arithmeticNearProcess</key>
+	<string>criticalStorageVelocity</string>
+	<key>exceptionLayerInterval</key>
+	<string>textDespiteForm</string>
+	<key>globalLoopOpacity</key>
+	<string>histogramObserverShape</string>
+	<key>offsetWithoutPlatform</key>
+	<string>masterAndParameter</string>
+	<key>scrollableLabelKind</key>
+	<string>blocCommandOffset</string>
+	<key>skinContextVisible</key>
+	<string>providerChainLeft</string>
+	<key>statelessDescriptionTag</key>
+	<string>modelBridgeSize</string>
+</dict>
+</plist>

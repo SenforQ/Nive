@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finalBuilderDirection</key>
+	<string>positionStyleResponse</string>
+	<key>navigatorBufferBehavior</key>
+	<string>allocatorPerLayer</string>
+	<key>routeActionPosition</key>
+	<string>queueFromStage</string>
+	<key>stateLikeFramework</key>
+	<string>globalBlocTop</string>
+	<key>subtleCupertinoTheme</key>
+	<string>prevDelegateDirection</string>
+	<key>symmetricBaselineForce</key>
+	<string>spriteAwayStage</string>
+</dict>
+</plist>

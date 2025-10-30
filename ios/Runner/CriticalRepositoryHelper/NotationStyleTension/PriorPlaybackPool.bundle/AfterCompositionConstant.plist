@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferSystemTheme</key>
+	<string>mediumCardHead</string>
+	<key>configurationPrototypeOffset</key>
+	<string>monsterInsideTask</string>
+	<key>difficultPaddingStyle</key>
+	<string>layerFlyweightBehavior</string>
+	<key>firstArithmeticDelay</key>
+	<string>geometricBehaviorSpacing</string>
+	<key>graphicWorkShape</key>
+	<string>localizationInComposite</string>
+	<key>layoutChainAppearance</key>
+	<string>metadataPrototypePressure</string>
+	<key>priorityContextResponse</key>
+	<string>remainderTaskInset</string>
+</dict>
+</plist>

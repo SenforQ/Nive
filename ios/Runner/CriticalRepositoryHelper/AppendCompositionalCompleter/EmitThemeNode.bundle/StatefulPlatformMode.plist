@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisActivityFeedback</key>
+	<string>storeIncludeTier</string>
+	<key>buttonValueTag</key>
+	<string>featureFormInterval</string>
+	<key>disabledIconInteraction</key>
+	<string>statefulSizedboxLocation</string>
+	<key>euclideanStorageValidation</key>
+	<string>keyCharacterBound</string>
+	<key>groupModeBottom</key>
+	<string>logarithmCompositeFlags</string>
+	<key>positionPlatformBrightness</key>
+	<string>globalBoxshadowMomentum</string>
+	<key>reducerProcessForce</key>
+	<string>offsetOfStructure</string>
+	<key>retainedRouteKind</key>
+	<string>bitrateSingletonRate</string>
+	<key>signParamOffset</key>
+	<string>semanticCompleterResponse</string>
+</dict>
+</plist>

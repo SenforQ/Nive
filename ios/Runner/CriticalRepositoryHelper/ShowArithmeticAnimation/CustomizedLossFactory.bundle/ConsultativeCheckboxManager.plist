@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionViewStyle</key>
+	<string>keyNodeBehavior</string>
+	<key>aspectAgainstContext</key>
+	<string>effectInContext</string>
+	<key>chapterIncludeState</key>
+	<string>disparateGraphMargin</string>
+	<key>functionalConfigurationTransparency</key>
+	<string>commandProxyPosition</string>
+	<key>fusedRoleAcceleration</key>
+	<string>newestTitleShade</string>
+	<key>injectionDecoratorEdge</key>
+	<string>buttonStateCenter</string>
+	<key>usecaseStyleRight</key>
+	<string>mobileAwayFunction</string>
+</dict>
+</plist>

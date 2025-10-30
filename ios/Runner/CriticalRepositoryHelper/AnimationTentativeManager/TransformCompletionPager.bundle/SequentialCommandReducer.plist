@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferInterpreterStyle</key>
+	<string>asynchronousSegmentFeedback</string>
+	<key>granularCoordinatorOrigin</key>
+	<string>awaitWithNumber</string>
+	<key>kernelBesideParameter</key>
+	<string>materialCellSpacing</string>
+	<key>modelFormBrightness</key>
+	<string>animationAlongSystem</string>
+	<key>promiseBesideJob</key>
+	<string>transformerDespiteJob</string>
+	<key>temporaryConstraintColor</key>
+	<string>queryVarCoord</string>
+	<key>temporaryFutureBound</key>
+	<string>typicalStampOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateObserverInset</key>
+	<string>overlayCommandInteraction</string>
+	<key>channelAwayPattern</key>
+	<string>radioVarDelay</string>
+	<key>completerStyleSize</key>
+	<string>constraintInsideProcess</string>
+	<key>directlyIntegerSaturation</key>
+	<string>eagerSensorBorder</string>
+	<key>providerPerValue</key>
+	<string>intermediateSlashLeft</string>
+	<key>variantInsideProcess</key>
+	<string>constMenuSize</string>
+</dict>
+</plist>

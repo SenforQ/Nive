@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedProtocolLocation</key>
+	<string>scrollableFrameBound</string>
+	<key>crudeSceneDensity</key>
+	<string>concurrentTransitionSpeed</string>
+	<key>custompaintNearBridge</key>
+	<string>boxContainComposite</string>
+	<key>effectValueOrigin</key>
+	<string>hierarchicalGraphicTag</string>
+	<key>managerInterpreterState</key>
+	<string>customTableOffset</string>
+	<key>sizeSinceComposite</key>
+	<string>interpolationOutsideNumber</string>
+	<key>techniqueInterpreterCount</key>
+	<string>streamOperationSaturation</string>
+	<key>tensorHandlerForce</key>
+	<string>explicitExceptionOrigin</string>
+</dict>
+</plist>

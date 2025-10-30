@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTransitionAcceleration</key>
+	<string>multiplicationAsChain</string>
+	<key>brushWithPattern</key>
+	<string>allocatorTierInset</string>
+	<key>capacitiesOutsidePlatform</key>
+	<string>sliderStageMomentum</string>
+	<key>denseTitleCount</key>
+	<string>typicalBoxshadowInset</string>
+	<key>sliderPhaseBrightness</key>
+	<string>columnObserverTop</string>
+	<key>statelessFutureHead</key>
+	<string>routeChainTop</string>
+	<key>textAdapterAlignment</key>
+	<string>mobileTextureVisibility</string>
+</dict>
+</plist>

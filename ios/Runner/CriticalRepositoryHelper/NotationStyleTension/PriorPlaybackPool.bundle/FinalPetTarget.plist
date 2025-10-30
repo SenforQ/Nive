@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mediaqueryAwayMode</key>
+	<string>animationAndState</string>
+	<key>modulusByCommand</key>
+	<string>pointScopeContrast</string>
+	<key>profileScopeAlignment</key>
+	<string>intensityContextVelocity</string>
+	<key>streamVersusBuffer</key>
+	<string>sceneThanMode</string>
+	<key>unarySincePrototype</key>
+	<string>stepDuringMediator</string>
+	<key>usedFeatureValidation</key>
+	<string>animationJobMode</string>
+</dict>
+</plist>

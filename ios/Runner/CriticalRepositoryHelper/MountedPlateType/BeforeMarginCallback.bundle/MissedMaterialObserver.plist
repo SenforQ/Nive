@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicGradientFeedback</key>
+	<string>widgetAlongValue</string>
+	<key>dialogsParamType</key>
+	<string>draggableBinaryLeft</string>
+	<key>directlyTransformerDelay</key>
+	<string>gateAsFunction</string>
+	<key>eagerScrollTail</key>
+	<string>enabledDurationFeedback</string>
+	<key>interfaceStructureSpacing</key>
+	<string>baseByStructure</string>
+	<key>missedServiceRotation</key>
+	<string>memberAboutFramework</string>
+	<key>observerVarColor</key>
+	<string>transitionSystemSize</string>
+</dict>
+</plist>

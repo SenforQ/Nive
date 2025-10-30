@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expandedLevelDelay</key>
+	<string>methodInsideBridge</string>
+	<key>graphProxySkewy</key>
+	<string>anchorUntilStructure</string>
+	<key>independentCanvasDirection</key>
+	<string>currentBoxAlignment</string>
+	<key>inkwellVisitorPosition</key>
+	<string>imperativeAllocatorAcceleration</string>
+	<key>repositoryPhaseAlignment</key>
+	<string>curveAsEnvironment</string>
+</dict>
+</plist>

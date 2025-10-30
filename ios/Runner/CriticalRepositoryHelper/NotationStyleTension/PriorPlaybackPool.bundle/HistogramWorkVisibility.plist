@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>offsetNearNumber</key>
+	<string>taskAdapterDistance</string>
+	<key>pointVariableBottom</key>
+	<string>groupProxyColor</string>
+	<key>prevIndicatorTop</key>
+	<string>themeAndCycle</string>
+	<key>sizeWithoutState</key>
+	<string>gridCommandBorder</string>
+	<key>sizedboxVariableType</key>
+	<string>assetCommandForce</string>
+	<key>tangentProxyDistance</key>
+	<string>specifyResolverOffset</string>
+	<key>webInteractorCenter</key>
+	<string>bufferKindScale</string>
+</dict>
+</plist>

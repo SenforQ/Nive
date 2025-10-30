@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncFunctionInset</key>
+	<string>activatedStatelessTag</string>
+	<key>staticResolverSpeed</key>
+	<string>segmentVersusStructure</string>
+	<key>tensorViewDuration</key>
+	<string>lastHistogramFlags</string>
+</dict>
+</plist>

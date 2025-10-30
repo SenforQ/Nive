@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstGraphVisibility</key>
+	<string>tickerActionResponse</string>
+	<key>inactiveIsolateDirection</key>
+	<string>largeInteractorBound</string>
+	<key>instructionBesideCommand</key>
+	<string>tappableButtonVisible</string>
+	<key>previewTaskBehavior</key>
+	<string>histogramBesidePrototype</string>
+	<key>resizableSignatureInset</key>
+	<string>bufferOperationTension</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintProxyInterval</key>
+	<string>stampLevelLeft</string>
+	<key>radioAsTier</key>
+	<string>streamAroundSingleton</string>
+	<key>statelessMarginRight</key>
+	<string>sliderBeyondValue</string>
+	<key>storageForCycle</key>
+	<string>durationOrFramework</string>
+	<key>zoneSingletonVisible</key>
+	<string>asyncStateType</string>
+</dict>
+</plist>

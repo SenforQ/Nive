@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationDecoratorTheme</key>
+	<string>scrollFlyweightLocation</string>
+	<key>eventPlatformPadding</key>
+	<string>scrollablePetInterval</string>
+	<key>progressbarLayerAlignment</key>
+	<string>sizeSingletonFlags</string>
+	<key>reducerParameterTail</key>
+	<string>descriptionFunctionDuration</string>
+	<key>tabbarAwaySingleton</key>
+	<string>riverpodBeyondPlatform</string>
+	<key>transformerOutsideSingleton</key>
+	<string>skinNearState</string>
+	<key>widgetForOperation</key>
+	<string>geometricStateFlags</string>
+</dict>
+</plist>

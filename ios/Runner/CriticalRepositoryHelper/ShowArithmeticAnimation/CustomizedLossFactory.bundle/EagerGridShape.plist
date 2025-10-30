@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationViaTask</key>
+	<string>explicitViewKind</string>
+	<key>asyncAwaitTail</key>
+	<string>responsiveAlertTheme</string>
+	<key>concreteStampBehavior</key>
+	<string>interactiveDurationRotation</string>
+	<key>constraintPerKind</key>
+	<string>resultFacadeTag</string>
+	<key>cosineParamSkewx</key>
+	<string>finalBoxRate</string>
+	<key>diversifiedQueueSkewy</key>
+	<string>containerAdapterTheme</string>
+	<key>entityFrameworkOpacity</key>
+	<string>bufferPerMethod</string>
+	<key>isolateActivityValidation</key>
+	<string>stepDecoratorType</string>
+	<key>localizationFlyweightFrequency</key>
+	<string>scrollableAssetDistance</string>
+</dict>
+</plist>

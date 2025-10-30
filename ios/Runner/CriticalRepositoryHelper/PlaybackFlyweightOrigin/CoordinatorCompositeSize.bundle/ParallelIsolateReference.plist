@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicConstraintScale</key>
+	<string>memberAtBridge</string>
+	<key>invisibleSampleMode</key>
+	<string>modalPhaseIndex</string>
+	<key>protectedStateFrequency</key>
+	<string>collectionBeyondTask</string>
+	<key>providerAboutProcess</key>
+	<string>reductionFromTask</string>
+	<key>resourceThanCycle</key>
+	<string>cellFacadeAlignment</string>
+	<key>rowDecoratorShape</key>
+	<string>particleMediatorScale</string>
+	<key>serviceKindRate</key>
+	<string>sensorOperationInteraction</string>
+	<key>tangentPrototypeInterval</key>
+	<string>storyboardProxyDistance</string>
+	<key>tappableTangentFormat</key>
+	<string>ternaryAgainstOperation</string>
+	<key>visibleInjectionEdge</key>
+	<string>allocatorCommandKind</string>
+</dict>
+</plist>

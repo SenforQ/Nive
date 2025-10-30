@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleInterpreterFeedback</key>
+	<string>alphaInsidePrototype</string>
+	<key>difficultOptimizerValidation</key>
+	<string>unactivatedAnimationDelay</string>
+	<key>localDecorationRate</key>
+	<string>singletonNearBridge</string>
+	<key>logarithmAtStructure</key>
+	<string>directButtonPadding</string>
+	<key>notifierByProcess</key>
+	<string>newestParticleSpacing</string>
+	<key>offsetThroughComposite</key>
+	<string>requiredAspectratioFeedback</string>
+</dict>
+</plist>

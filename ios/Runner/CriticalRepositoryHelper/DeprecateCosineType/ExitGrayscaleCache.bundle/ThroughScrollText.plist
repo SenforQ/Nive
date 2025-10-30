@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticEnvironmentDepth</key>
+	<string>largeExceptionPadding</string>
+	<key>decorationFrameworkSkewy</key>
+	<string>heroOutsideCommand</string>
+	<key>greatUsageSkewy</key>
+	<string>segueStrategyMomentum</string>
+	<key>hyperbolicSizeTail</key>
+	<string>behaviorValueInterval</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTaskTail</key>
+	<string>directCallbackFrequency</string>
+	<key>displayableSubscriptionInset</key>
+	<string>buttonStateBottom</string>
+	<key>largeGridScale</key>
+	<string>queryBesideFramework</string>
+	<key>materialSliderState</key>
+	<string>spriteStyleSkewx</string>
+	<key>scrollLayerFlags</key>
+	<string>originalTexturePadding</string>
+	<key>storyboardOutsideMode</key>
+	<string>bufferStateInteraction</string>
+	<key>subscriptionAroundStructure</key>
+	<string>delegateMementoPadding</string>
+	<key>uniqueThreadHue</key>
+	<string>tableWithoutSystem</string>
+</dict>
+</plist>

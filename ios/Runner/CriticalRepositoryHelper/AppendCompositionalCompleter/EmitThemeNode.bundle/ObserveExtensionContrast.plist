@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistEnvironmentFlags</key>
+	<string>graphBridgePosition</string>
+	<key>controllerStructureResponse</key>
+	<string>enabledGesturePressure</string>
+	<key>progressbarOperationDelay</key>
+	<string>enabledGrayscaleDensity</string>
+	<key>queryActivityLeft</key>
+	<string>inheritedViewVisible</string>
+	<key>rapidSegmentPadding</key>
+	<string>denseCurveRight</string>
+	<key>reducerModeForce</key>
+	<string>intensityOfTier</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorOutsideStructure</key>
+	<string>localSineDirection</string>
+	<key>cellByStyle</key>
+	<string>spritePhaseOrientation</string>
+	<key>commonFrameStatus</key>
+	<string>loopIncludeTemple</string>
+	<key>cubeVarBrightness</key>
+	<string>radiusAmongSingleton</string>
+	<key>eagerAssetMargin</key>
+	<string>profilePrototypeFlags</string>
+	<key>giftAmongNumber</key>
+	<string>bufferThroughSingleton</string>
+	<key>immutableDropdownbuttonSkewx</key>
+	<string>visiblePresenterVisibility</string>
+	<key>interfacePhaseInterval</key>
+	<string>operationInStructure</string>
+	<key>methodIncludeLayer</key>
+	<string>collectionByPattern</string>
+	<key>transitionBeyondState</key>
+	<string>standalonePlaybackVelocity</string>
+</dict>
+</plist>

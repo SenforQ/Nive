@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaIncludeSystem</key>
+	<string>equalizationShapeContrast</string>
+	<key>animatedSpotDuration</key>
+	<string>captionFlyweightBehavior</string>
+	<key>associatedManagerType</key>
+	<string>usecaseDespiteBuffer</string>
+	<key>dedicatedSubpixelShade</key>
+	<string>basicBlocBehavior</string>
+	<key>gridviewCycleAlignment</key>
+	<string>tensorSubscriptionVisible</string>
+	<key>mobileCollectionVisibility</key>
+	<string>agileTweenOrientation</string>
+	<key>nativeLabelTop</key>
+	<string>viewByFunction</string>
+	<key>observerOrProxy</key>
+	<string>invisiblePetForce</string>
+</dict>
+</plist>

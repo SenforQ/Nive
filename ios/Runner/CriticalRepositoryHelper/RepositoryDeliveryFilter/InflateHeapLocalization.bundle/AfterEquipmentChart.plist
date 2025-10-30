@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionWorkLocation</key>
+	<string>histogramAlongOperation</string>
+	<key>intermediateResultInterval</key>
+	<string>statelessOperationKind</string>
+	<key>profileAdapterIndex</key>
+	<string>screenWithoutComposite</string>
+	<key>queryOrScope</key>
+	<string>permissiveAccessoryVelocity</string>
+	<key>singleBufferBound</key>
+	<string>routerJobResponse</string>
+	<key>tensorReductionDistance</key>
+	<string>routerStrategyAppearance</string>
+	<key>timerAgainstShape</key>
+	<string>projectionJobTop</string>
+</dict>
+</plist>

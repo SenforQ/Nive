@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncBesideState</key>
+	<string>notificationOrMediator</string>
+	<key>eventVisitorSpeed</key>
+	<string>adaptiveEffectTransparency</string>
+	<key>featureBridgeStyle</key>
+	<string>sineFromPrototype</string>
+	<key>globalCursorDepth</key>
+	<string>substantialEventAlignment</string>
+	<key>hashBufferTail</key>
+	<string>spriteAroundObserver</string>
+	<key>overlayBufferHue</key>
+	<string>resourceEnvironmentAppearance</string>
+	<key>pivotalMenuInterval</key>
+	<string>liteNavigatorOrientation</string>
+	<key>resourceAtFramework</key>
+	<string>robustWidgetDuration</string>
+	<key>retainedThreadDistance</key>
+	<string>navigatorEnvironmentValidation</string>
+	<key>zoneLayerMode</key>
+	<string>compositionParamState</string>
+</dict>
+</plist>

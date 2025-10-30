@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorUntilFacade</key>
+	<string>uniformInkwellDuration</string>
+	<key>optionJobBehavior</key>
+	<string>reducerProxyAcceleration</string>
+	<key>responsiveConstraintHead</key>
+	<string>requiredSessionAppearance</string>
+	<key>typicalIconDensity</key>
+	<string>flexibleCursorTint</string>
+</dict>
+</plist>

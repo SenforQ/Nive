@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationTaskDelay</key>
+	<string>consultativeTitleOffset</string>
+	<key>intermediateScaleDistance</key>
+	<string>dedicatedEntityMargin</string>
+	<key>stampPatternPressure</key>
+	<string>cupertinoLevelOpacity</string>
+</dict>
+</plist>

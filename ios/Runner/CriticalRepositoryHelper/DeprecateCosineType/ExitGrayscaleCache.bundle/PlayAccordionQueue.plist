@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationUntilMode</key>
+	<string>logOperationStatus</string>
+	<key>decorationAsFunction</key>
+	<string>effectCompositeRight</string>
+	<key>disparateStreamCenter</key>
+	<string>firstInteractorScale</string>
+	<key>enabledMetadataAlignment</key>
+	<string>lastBoxMode</string>
+	<key>mediocreEventScale</key>
+	<string>baselineViaTask</string>
+	<key>optimizerMethodDirection</key>
+	<string>arithmeticRadiusTheme</string>
+	<key>optionForBridge</key>
+	<string>constraintShapeTint</string>
+	<key>precisionDuringChain</key>
+	<string>storeFormDistance</string>
+	<key>projectOfStyle</key>
+	<string>usecaseOrStructure</string>
+	<key>semanticsAboutAdapter</key>
+	<string>tabviewActionBottom</string>
+</dict>
+</plist>

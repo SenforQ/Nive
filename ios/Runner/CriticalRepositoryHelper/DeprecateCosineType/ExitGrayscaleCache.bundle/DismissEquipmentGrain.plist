@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoGateInteraction</key>
+	<string>menuAboutStage</string>
+	<key>behaviorFormSize</key>
+	<string>viewSinceNumber</string>
+	<key>cyclePatternSize</key>
+	<string>elasticLabelTheme</string>
+	<key>entityStageFeedback</key>
+	<string>optionInsideDecorator</string>
+	<key>gridTempleStatus</key>
+	<string>completerMediatorEdge</string>
+	<key>intermediateTouchVisible</key>
+	<string>resizableMetadataBound</string>
+	<key>managerAboutForm</key>
+	<string>singletonThanCycle</string>
+	<key>offsetAndFunction</key>
+	<string>sliderJobSpacing</string>
+</dict>
+</plist>

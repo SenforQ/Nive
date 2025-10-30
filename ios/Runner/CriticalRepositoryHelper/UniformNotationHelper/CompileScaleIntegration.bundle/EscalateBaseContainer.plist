@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousOffsetKind</key>
+	<string>fixedLabelFormat</string>
+	<key>displayablePromiseName</key>
+	<string>mediaqueryBeyondSystem</string>
+	<key>graphChainType</key>
+	<string>temporaryRectSkewy</string>
+	<key>ignoredButtonTint</key>
+	<string>configurationInState</string>
+	<key>overlayDuringPhase</key>
+	<string>documentForAdapter</string>
+	<key>permissiveSensorOffset</key>
+	<string>seamlessTechniqueSaturation</string>
+	<key>sampleNearInterpreter</key>
+	<string>sequentialConstraintSpeed</string>
+	<key>specifyResolverContrast</key>
+	<string>permissiveAnchorIndex</string>
+	<key>stateParameterType</key>
+	<string>transitionDecoratorSkewy</string>
+	<key>themeBufferEdge</key>
+	<string>monsterFlyweightRight</string>
+</dict>
+</plist>

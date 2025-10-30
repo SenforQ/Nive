@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDecoratorHead</key>
+	<string>discardedAppbarTheme</string>
+	<key>backwardFrameBound</key>
+	<string>equipmentMementoBorder</string>
+	<key>constBufferAppearance</key>
+	<string>drawerContainMemento</string>
+	<key>resultVisitorTag</key>
+	<string>tweenTempleShade</string>
+	<key>tableSinceScope</key>
+	<string>titleScopeDelay</string>
+</dict>
+</plist>

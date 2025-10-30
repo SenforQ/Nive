@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncContextDepth</key>
+	<string>coordinatorPlatformDirection</string>
+	<key>catalystLayerTint</key>
+	<string>mobxScopeBound</string>
+	<key>composablePainterSkewy</key>
+	<string>mediumRectVisibility</string>
+	<key>dependencySingletonCenter</key>
+	<string>nextSymbolShade</string>
+	<key>exponentCommandKind</key>
+	<string>associatedFlexBehavior</string>
+	<key>materialWorkDepth</key>
+	<string>resourceBesideEnvironment</string>
+	<key>pointSinceTier</key>
+	<string>checkboxNumberInteraction</string>
+	<key>sophisticatedDocumentHue</key>
+	<string>completionAndStrategy</string>
+	<key>spriteContextColor</key>
+	<string>accordionModelTint</string>
+</dict>
+</plist>

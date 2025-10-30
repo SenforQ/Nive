@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianCanvasStyle</key>
+	<string>configurationPlatformStatus</string>
+	<key>constraintPerForm</key>
+	<string>scrollableDelegateTag</string>
+	<key>imperativeProtocolAlignment</key>
+	<string>hashStyleOrientation</string>
+	<key>tabviewFromDecorator</key>
+	<string>alphaAtVar</string>
+</dict>
+</plist>

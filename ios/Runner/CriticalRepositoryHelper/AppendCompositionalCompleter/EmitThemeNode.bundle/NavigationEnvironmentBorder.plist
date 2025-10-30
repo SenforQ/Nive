@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseQueueBrightness</key>
+	<string>currentPositionCenter</string>
+	<key>frameVarResponse</key>
+	<string>singletonStrategyState</string>
+	<key>functionalSizeIndex</key>
+	<string>oldRouteFeedback</string>
+	<key>gateByKind</key>
+	<string>sensorWithoutCycle</string>
+	<key>invisibleIconFeedback</key>
+	<string>synchronousTweenForce</string>
+	<key>lossAndMediator</key>
+	<string>enabledContractionTension</string>
+	<key>metadataBridgeTransparency</key>
+	<string>previewContainStage</string>
+	<key>requiredVectorInterval</key>
+	<string>entropyLevelRotation</string>
+	<key>sampleUntilJob</key>
+	<string>immediateQueryPressure</string>
+</dict>
+</plist>

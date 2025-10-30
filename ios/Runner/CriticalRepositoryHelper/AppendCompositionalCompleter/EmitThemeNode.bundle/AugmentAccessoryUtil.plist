@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisVersusStructure</key>
+	<string>buttonStateInset</string>
+	<key>difficultCollectionShape</key>
+	<string>protectedContainerRotation</string>
+	<key>dimensionDuringMethod</key>
+	<string>inkwellVisitorDuration</string>
+	<key>disparateInkwellSize</key>
+	<string>behaviorLikeMethod</string>
+	<key>durationVersusCycle</key>
+	<string>navigatorContextCount</string>
+	<key>listenerAndSingleton</key>
+	<string>sizedboxObserverLocation</string>
+	<key>newestEffectOrientation</key>
+	<string>statelessViewDepth</string>
+	<key>retainedResourceScale</key>
+	<string>specifierAgainstMediator</string>
+	<key>segmentVisitorResponse</key>
+	<string>controllerCompositePosition</string>
+	<key>subpixelAlongParam</key>
+	<string>independentStateType</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationFrameworkVisibility</key>
+	<string>storyboardOfBridge</string>
+	<key>durationSinceProcess</key>
+	<string>taskMediatorFrequency</string>
+	<key>screenAsDecorator</key>
+	<string>crudeLayoutHue</string>
+	<key>sizeBufferVisible</key>
+	<string>themeAgainstTier</string>
+</dict>
+</plist>

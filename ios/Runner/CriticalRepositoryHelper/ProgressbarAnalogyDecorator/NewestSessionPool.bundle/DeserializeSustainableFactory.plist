@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseResourceBehavior</key>
+	<string>grainDespiteActivity</string>
+	<key>eagerZoneState</key>
+	<string>draggableOperationStyle</string>
+	<key>entityContainChain</key>
+	<string>previewTypeFlags</string>
+	<key>labelInterpreterHue</key>
+	<string>scaffoldLevelDuration</string>
+	<key>optionAgainstOperation</key>
+	<string>blocLayerType</string>
+	<key>sizedboxForAction</key>
+	<string>bufferThanMemento</string>
+	<key>tabbarEnvironmentRate</key>
+	<string>decorationAroundStructure</string>
+	<key>widgetProcessMargin</key>
+	<string>columnAdapterLocation</string>
+</dict>
+</plist>

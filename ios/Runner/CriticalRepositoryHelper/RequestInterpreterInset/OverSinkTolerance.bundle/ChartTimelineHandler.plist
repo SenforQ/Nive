@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedMovementBottom</key>
+	<string>nibMethodBorder</string>
+	<key>gradientAndVariable</key>
+	<string>constraintTypeForce</string>
+	<key>intuitiveLayoutOrientation</key>
+	<string>usedMonsterLocation</string>
+</dict>
+</plist>

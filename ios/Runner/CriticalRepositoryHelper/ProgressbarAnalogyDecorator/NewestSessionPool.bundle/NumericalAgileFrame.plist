@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionVarOrientation</key>
+	<string>stackByAction</string>
+	<key>gridContainMediator</key>
+	<string>criticalGrainTransparency</string>
+	<key>numericalDecorationTop</key>
+	<string>declarativeBlocRotation</string>
+	<key>resourceExceptState</key>
+	<string>backwardPageviewMode</string>
+	<key>resourceInsideFramework</key>
+	<string>inactiveAnimatedcontainerVelocity</string>
+	<key>sizeAwayCycle</key>
+	<string>grainForStructure</string>
+	<key>titleCycleTint</key>
+	<string>dropdownbuttonWithoutWork</string>
+	<key>usedVectorHead</key>
+	<string>zoneInLayer</string>
+</dict>
+</plist>

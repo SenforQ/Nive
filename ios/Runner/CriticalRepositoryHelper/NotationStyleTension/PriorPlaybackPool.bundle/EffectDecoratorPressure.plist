@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationOutsideWork</key>
+	<string>mobilePlatformOrigin</string>
+	<key>movementSingletonMode</key>
+	<string>semanticsByTier</string>
+	<key>scrollableSkinAlignment</key>
+	<string>uniformSpineCount</string>
+	<key>sliderLayerInteraction</key>
+	<string>unaryMethodCount</string>
+	<key>smallSinePosition</key>
+	<string>chapterNearForm</string>
+	<key>tensorTimerAlignment</key>
+	<string>hyperbolicIconBottom</string>
+	<key>tweenPerScope</key>
+	<string>particleShapeLeft</string>
+</dict>
+</plist>

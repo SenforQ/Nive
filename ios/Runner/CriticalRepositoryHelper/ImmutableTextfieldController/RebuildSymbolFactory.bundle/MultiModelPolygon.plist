@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicTextureInteraction</key>
+	<string>vectorStageFormat</string>
+	<key>dependencyDuringActivity</key>
+	<string>serviceParameterOrigin</string>
+	<key>equalizationAndContext</key>
+	<string>overlayForSingleton</string>
+	<key>extensionChainSkewy</key>
+	<string>vectorMediatorBrightness</string>
+	<key>hierarchicalDescriptorLeft</key>
+	<string>litePopupSpeed</string>
+	<key>popupModeMargin</key>
+	<string>stateThanStage</string>
+	<key>stateOfComposite</key>
+	<string>histogramContextName</string>
+	<key>textCompositeInset</key>
+	<string>isolateWorkSpacing</string>
+</dict>
+</plist>

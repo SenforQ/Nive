@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisActionDelay</key>
+	<string>mediaDespiteComposite</string>
+	<key>concurrentHashKind</key>
+	<string>localHandlerTop</string>
+	<key>diffableMenuIndex</key>
+	<string>widgetAboutAdapter</string>
+	<key>gradientProcessOffset</key>
+	<string>featureUntilComposite</string>
+	<key>multiSkinDuration</key>
+	<string>tickerLevelStyle</string>
+	<key>protectedResultTransparency</key>
+	<string>entityPerJob</string>
+	<key>semanticPageviewTail</key>
+	<string>unactivatedWidgetDepth</string>
+	<key>transitionProcessMargin</key>
+	<string>flexibleErrorColor</string>
+	<key>variantBufferStatus</key>
+	<string>typicalRemainderSaturation</string>
+</dict>
+</plist>

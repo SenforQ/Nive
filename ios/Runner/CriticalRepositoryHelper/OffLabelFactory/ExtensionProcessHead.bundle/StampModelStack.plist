@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorViaFlyweight</key>
+	<string>concretePositionOrientation</string>
+	<key>compositionSincePattern</key>
+	<string>hardGrainEdge</string>
+	<key>heapContainForm</key>
+	<string>smartEntityBound</string>
+	<key>inactiveContainerShade</key>
+	<string>momentumJobSpacing</string>
+	<key>mobileJobName</key>
+	<string>crudeIconTint</string>
+	<key>movementTaskAcceleration</key>
+	<string>channelPhaseBorder</string>
+	<key>queryLayerInset</key>
+	<string>smartZoneTransparency</string>
+	<key>seamlessScaffoldCount</key>
+	<string>anchorAroundBridge</string>
+	<key>tweenPlatformDuration</key>
+	<string>alignmentJobTag</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionPerPhase</key>
+	<string>viewAgainstKind</string>
+	<key>interactorActivityStyle</key>
+	<string>cubitBridgeBound</string>
+	<key>materialPhaseSkewx</key>
+	<string>stepAndMode</string>
+	<key>playbackAlongObserver</key>
+	<string>ternaryAwayFunction</string>
+	<key>publicThreadOffset</key>
+	<string>methodTempleName</string>
+	<key>scrollableBoxshadowShape</key>
+	<string>zoneJobDuration</string>
+</dict>
+</plist>

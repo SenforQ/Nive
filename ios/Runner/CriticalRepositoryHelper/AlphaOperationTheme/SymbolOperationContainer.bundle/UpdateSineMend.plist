@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorProcessCount</key>
+	<string>widgetSingletonPressure</string>
+	<key>loopFormOffset</key>
+	<string>singleSpriteOrientation</string>
+	<key>newestSizeColor</key>
+	<string>routePhaseCenter</string>
+	<key>providerVersusFlyweight</key>
+	<string>sharedQueueBottom</string>
+	<key>publicChecklistValidation</key>
+	<string>currentPresenterBehavior</string>
+	<key>radiusTaskBehavior</key>
+	<string>reactiveOptimizerVisible</string>
+	<key>tappableMovementHue</key>
+	<string>navigatorModeState</string>
+</dict>
+</plist>

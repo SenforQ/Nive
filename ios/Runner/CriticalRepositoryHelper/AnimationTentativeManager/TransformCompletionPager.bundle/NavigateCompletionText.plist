@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePlaybackVisibility</key>
+	<string>errorLayerTransparency</string>
+	<key>catalystActionDelay</key>
+	<string>offsetDuringMediator</string>
+	<key>cellOperationTint</key>
+	<string>ignoredEntropyType</string>
+	<key>constraintAsMode</key>
+	<string>tabviewValueMode</string>
+	<key>disabledDurationStyle</key>
+	<string>storeAmongPlatform</string>
+	<key>localAllocatorSkewy</key>
+	<string>pivotalFlexStatus</string>
+	<key>variantMethodVisibility</key>
+	<string>checkboxEnvironmentRate</string>
+</dict>
+</plist>

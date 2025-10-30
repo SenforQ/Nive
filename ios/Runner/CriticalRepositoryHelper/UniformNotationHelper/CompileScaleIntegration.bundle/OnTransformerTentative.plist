@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateAsBuffer</key>
+	<string>spotOrPlatform</string>
+	<key>documentVersusMemento</key>
+	<string>musicStyleOpacity</string>
+	<key>expandedDecoratorBound</key>
+	<string>permanentTitleStatus</string>
+	<key>resizableDrawerVelocity</key>
+	<string>tweenAdapterPosition</string>
+	<key>taskStateBound</key>
+	<string>resizableLoopPressure</string>
+	<key>textNumberPadding</key>
+	<string>asyncWithJob</string>
+</dict>
+</plist>

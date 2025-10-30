@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaAndPattern</key>
+	<string>transitionProxyShade</string>
+	<key>callbackModeSaturation</key>
+	<string>constraintStyleDuration</string>
+	<key>contractionProcessTheme</key>
+	<string>reactiveSessionSkewy</string>
+	<key>nodeModeVisibility</key>
+	<string>keyButtonLocation</string>
+	<key>reusableCubitDistance</key>
+	<string>spotIncludeVariable</string>
+	<key>sensorThroughPattern</key>
+	<string>resizableRadioResponse</string>
+	<key>temporaryCubitTop</key>
+	<string>navigationTierRate</string>
+	<key>themeVisitorBehavior</key>
+	<string>rapidGraphSpeed</string>
+</dict>
+</plist>

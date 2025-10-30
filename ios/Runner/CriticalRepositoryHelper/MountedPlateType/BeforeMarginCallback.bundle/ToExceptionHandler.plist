@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentMediatorShade</key>
+	<string>activatedNavigatorHue</string>
+	<key>errorTaskType</key>
+	<string>indicatorAtVar</string>
+	<key>factoryFacadeTint</key>
+	<string>firstTabviewTail</string>
+	<key>gesturedetectorProxyVelocity</key>
+	<string>grainNumberRight</string>
+	<key>iconSinceInterpreter</key>
+	<string>utilFrameworkLocation</string>
+	<key>otherConstraintEdge</key>
+	<string>parallelRequestOffset</string>
+	<key>shaderVariableSaturation</key>
+	<string>normalRepositoryDistance</string>
+</dict>
+</plist>

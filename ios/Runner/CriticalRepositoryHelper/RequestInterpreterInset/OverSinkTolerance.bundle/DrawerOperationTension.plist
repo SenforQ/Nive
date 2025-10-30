@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateMethodInterval</key>
+	<string>specifierStyleRate</string>
+	<key>descriptionFlyweightVisibility</key>
+	<string>widgetParamRight</string>
+	<key>easySubpixelStatus</key>
+	<string>sliderIncludeSystem</string>
+	<key>explicitResponseKind</key>
+	<string>compositionalNodeStyle</string>
+	<key>interpolationBeyondPhase</key>
+	<string>inactiveFeatureInset</string>
+	<key>opaqueCharacterInterval</key>
+	<string>layoutTypeMargin</string>
+	<key>radiusIncludeDecorator</key>
+	<string>intensitySinceMethod</string>
+	<key>transformerStyleScale</key>
+	<string>customizedSingletonScale</string>
+	<key>viewValueSkewx</key>
+	<string>mobileStyleName</string>
+</dict>
+</plist>

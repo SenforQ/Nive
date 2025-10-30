@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleNotifierType</key>
+	<string>listviewUntilParameter</string>
+	<key>chapterOrNumber</key>
+	<string>tabbarCommandCenter</string>
+	<key>clipperUntilChain</key>
+	<string>uniformBehaviorAppearance</string>
+	<key>labelAtMemento</key>
+	<string>unactivatedExtensionIndex</string>
+	<key>layoutAmongType</key>
+	<string>stampPatternContrast</string>
+	<key>variantProcessVisible</key>
+	<string>techniqueChainEdge</string>
+	<key>widgetLayerOffset</key>
+	<string>interfaceFormDistance</string>
+</dict>
+</plist>

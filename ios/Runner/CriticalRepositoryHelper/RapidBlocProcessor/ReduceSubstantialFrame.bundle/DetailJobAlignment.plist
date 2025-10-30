@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationMethodValidation</key>
+	<string>intuitiveSkirtInteraction</string>
+	<key>appbarPerContext</key>
+	<string>permanentPageviewScale</string>
+	<key>errorThanFlyweight</key>
+	<string>cartesianMobileFrequency</string>
+	<key>explicitChannelStyle</key>
+	<string>imageInBuffer</string>
+	<key>radiusByStyle</key>
+	<string>gradientFunctionContrast</string>
+	<key>reducerWorkMargin</key>
+	<string>mobileExceptStrategy</string>
+	<key>scenePerOperation</key>
+	<string>delegateActionRight</string>
+	<key>sessionChainVisibility</key>
+	<string>backwardPromiseVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitAndChain</key>
+	<string>activityInsideActivity</string>
+	<key>dependencyContainActivity</key>
+	<string>canvasByForm</string>
+	<key>mediumConstraintTransparency</key>
+	<string>playbackAlongState</string>
+	<key>nextPreviewAcceleration</key>
+	<string>comprehensiveFrameStatus</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFlyweightOrigin</key>
+	<string>toolPrototypeAppearance</string>
+	<key>boxshadowCycleSkewy</key>
+	<string>globalPlateAcceleration</string>
+	<key>chapterCommandValidation</key>
+	<string>channelCycleOrientation</string>
+	<key>hardNodePadding</key>
+	<string>groupInEnvironment</string>
+	<key>requestPerComposite</key>
+	<string>composableResultPosition</string>
+	<key>respectiveUsageVisible</key>
+	<string>frameMediatorKind</string>
+	<key>tabviewAboutPhase</key>
+	<string>histogramAmongFlyweight</string>
+	<key>widgetAsWork</key>
+	<string>localLayerState</string>
+	<key>widgetStructureContrast</key>
+	<string>alignmentInWork</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderFrameworkTint</key>
+	<string>layoutVersusLayer</string>
+	<key>geometricStreamShape</key>
+	<string>accessibleServiceDepth</string>
+	<key>nodeLevelInteraction</key>
+	<string>subpixelVersusMethod</string>
+	<key>permanentNavigatorInterval</key>
+	<string>subsequentAwaitAcceleration</string>
+	<key>stackTypeCoord</key>
+	<string>liteGraphShade</string>
+</dict>
+</plist>

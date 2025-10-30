@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedInteractorType</key>
+	<string>coordinatorNumberDensity</string>
+	<key>collectionIncludeBridge</key>
+	<string>labelProcessStatus</string>
+	<key>inheritedLabelOpacity</key>
+	<string>requestPerFacade</string>
+	<key>isolateVersusDecorator</key>
+	<string>nativeExceptionRight</string>
+	<key>roleProcessLocation</key>
+	<string>memberVersusSystem</string>
+	<key>routeStyleCoord</key>
+	<string>interactorActionTransparency</string>
+	<key>uniformQueueInteraction</key>
+	<string>completionFunctionShape</string>
+</dict>
+</plist>

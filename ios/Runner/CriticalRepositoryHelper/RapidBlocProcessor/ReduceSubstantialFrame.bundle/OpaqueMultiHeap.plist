@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableParticleState</key>
+	<string>titleTaskDistance</string>
+	<key>popupEnvironmentSize</key>
+	<string>beginnerSampleCenter</string>
+	<key>responseDuringLevel</key>
+	<string>largeBlocTag</string>
+	<key>ternaryProxyRate</key>
+	<string>futureAgainstNumber</string>
+	<key>unaryChainRate</key>
+	<string>invisibleActionInterval</string>
+</dict>
+</plist>

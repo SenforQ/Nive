@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderSinceSingleton</key>
+	<string>animationContainValue</string>
+	<key>deferredLayoutDepth</key>
+	<string>awaitStageVelocity</string>
+	<key>directClipperDirection</key>
+	<string>sequentialBuilderFeedback</string>
+	<key>intensityMethodLocation</key>
+	<string>borderSingletonSpacing</string>
+	<key>intuitiveGateIndex</key>
+	<string>particleContextMargin</string>
+	<key>listenerByMethod</key>
+	<string>commandVersusShape</string>
+	<key>observerInChain</key>
+	<string>baselineLayerSkewx</string>
+	<key>rectJobDistance</key>
+	<string>constLayoutCenter</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioStyleName</key>
+	<string>navigatorInsidePattern</string>
+	<key>ephemeralStreamOrientation</key>
+	<string>binaryNumberSkewx</string>
+	<key>permissiveTransitionShade</key>
+	<string>subsequentAlignmentContrast</string>
+	<key>petBufferSize</key>
+	<string>assetLevelTheme</string>
+	<key>resolverOfMode</key>
+	<string>workflowCommandSkewx</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicRichtextStyle</key>
+	<string>compositionLevelEdge</string>
+	<key>labelAdapterIndex</key>
+	<string>menuContainAction</string>
+	<key>loopPerKind</key>
+	<string>configurationAlongObserver</string>
+	<key>navigatorDuringCommand</key>
+	<string>reusableCompositionMode</string>
+	<key>optimizerOfDecorator</key>
+	<string>difficultCompletionCount</string>
+	<key>responsiveGraphicVisibility</key>
+	<string>unsortedPlaybackAppearance</string>
+	<key>resultContextOrientation</key>
+	<string>permissiveHeapVisibility</string>
+	<key>taskFunctionForce</key>
+	<string>decorationAboutSingleton</string>
+	<key>unactivatedStatefulName</key>
+	<string>aspectBridgeHead</string>
+</dict>
+</plist>

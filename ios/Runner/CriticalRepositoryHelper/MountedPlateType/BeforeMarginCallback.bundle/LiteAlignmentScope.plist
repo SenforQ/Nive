@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorContainMode</key>
+	<string>stampBufferBound</string>
+	<key>cupertinoSemanticsLeft</key>
+	<string>effectThroughAction</string>
+	<key>flexSinceType</key>
+	<string>sessionOrObserver</string>
+	<key>shaderNumberBottom</key>
+	<string>decorationAgainstInterpreter</string>
+</dict>
+</plist>

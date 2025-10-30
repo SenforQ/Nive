@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveParameterFlags</key>
+	<string>dynamicResponseResponse</string>
+	<key>ignoredRepositoryEdge</key>
+	<string>cardWorkEdge</string>
+	<key>smartUsecaseFeedback</key>
+	<string>anchorSinceValue</string>
+	<key>stepWithStyle</key>
+	<string>imageLevelTension</string>
+	<key>uniqueBehaviorForce</key>
+	<string>uniqueCacheFrequency</string>
+	<key>unsortedOptionBound</key>
+	<string>elasticGraphSpeed</string>
+</dict>
+</plist>

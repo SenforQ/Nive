@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedCardDirection</key>
+	<string>animationBridgeFeedback</string>
+	<key>constViewBehavior</key>
+	<string>imageLayerDensity</string>
+	<key>enabledSkinRotation</key>
+	<string>localizationMediatorVisible</string>
+	<key>graphAndFramework</key>
+	<string>resultLevelDensity</string>
+	<key>injectionFlyweightSaturation</key>
+	<string>asynchronousTextfieldSpeed</string>
+	<key>navigationAgainstBridge</key>
+	<string>cubitJobTint</string>
+	<key>rectSystemStyle</key>
+	<string>resizableMobileType</string>
+</dict>
+</plist>

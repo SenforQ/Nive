@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeBaselineEdge</key>
+	<string>observerWorkEdge</string>
+	<key>alignmentOutsideDecorator</key>
+	<string>signatureShapeTheme</string>
+	<key>getxPrototypeIndex</key>
+	<string>textfieldLikeWork</string>
+	<key>mediumSpineLocation</key>
+	<string>explicitPreviewHue</string>
+	<key>semanticBulletFlags</key>
+	<string>directSpriteAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterUntilParam</key>
+	<string>criticalRectDelay</string>
+	<key>extensionFrameworkValidation</key>
+	<string>baselineNumberResponse</string>
+	<key>fragmentFlyweightOpacity</key>
+	<string>adaptiveHistogramLeft</string>
+	<key>intensityEnvironmentBottom</key>
+	<string>independentStreamOffset</string>
+	<key>marginLayerStatus</key>
+	<string>fixedControllerVisible</string>
+</dict>
+</plist>

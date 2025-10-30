@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorInsideVisitor</key>
+	<string>mutableSignatureVisible</string>
+	<key>customPopupFlags</key>
+	<string>permissiveLayerHead</string>
+	<key>customizedStoryboardFeedback</key>
+	<string>sliderOutsideOperation</string>
+	<key>gateAgainstAction</key>
+	<string>routeDecoratorInteraction</string>
+	<key>matrixLikeWork</key>
+	<string>pageviewEnvironmentAppearance</string>
+	<key>transitionStageShade</key>
+	<string>painterBridgeAppearance</string>
+</dict>
+</plist>

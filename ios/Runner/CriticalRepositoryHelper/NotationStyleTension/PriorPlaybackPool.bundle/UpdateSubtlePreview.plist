@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedRowType</key>
+	<string>observerAgainstProxy</string>
+	<key>draggableCollectionInteraction</key>
+	<string>masterForAdapter</string>
+	<key>fusedLossLocation</key>
+	<string>advancedObserverColor</string>
+	<key>nodeMethodBorder</key>
+	<string>gestureValueDepth</string>
+	<key>sampleObserverDepth</key>
+	<string>fragmentContextSpeed</string>
+	<key>transformerMementoKind</key>
+	<string>tickerBesideSystem</string>
+</dict>
+</plist>

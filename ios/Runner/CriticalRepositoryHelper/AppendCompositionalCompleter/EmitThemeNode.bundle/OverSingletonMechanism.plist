@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationAtSingleton</key>
+	<string>statelessSegueOrientation</string>
+	<key>greatStatelessAcceleration</key>
+	<string>similarSkinVisible</string>
+	<key>indicatorBeyondActivity</key>
+	<string>displayableZoneVelocity</string>
+	<key>resolverOperationVelocity</key>
+	<string>unactivatedSizeTag</string>
+	<key>serviceWorkDirection</key>
+	<string>scaffoldJobFormat</string>
+	<key>topicAgainstCommand</key>
+	<string>greatObserverTail</string>
+</dict>
+</plist>

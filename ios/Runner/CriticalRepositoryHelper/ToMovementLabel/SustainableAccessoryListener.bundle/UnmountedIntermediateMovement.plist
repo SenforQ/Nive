@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationDuringPattern</key>
+	<string>optimizerAsKind</string>
+	<key>normalObserverFrequency</key>
+	<string>requestThroughProcess</string>
+	<key>resolverInPattern</key>
+	<string>groupParamLocation</string>
+	<key>substantialPreviewCoord</key>
+	<string>resolverEnvironmentSkewx</string>
+	<key>sustainableSkinSkewy</key>
+	<string>dedicatedOptimizerPadding</string>
+</dict>
+</plist>

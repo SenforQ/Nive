@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonTempleTail</key>
+	<string>disparateSineShade</string>
+	<key>decorationSystemRight</key>
+	<string>unactivatedRepositoryTop</string>
+	<key>effectAsCycle</key>
+	<string>decorationSingletonOpacity</string>
+	<key>presenterVarScale</key>
+	<string>agileFeatureSpacing</string>
+	<key>resilientStateMode</key>
+	<string>boxInStrategy</string>
+</dict>
+</plist>

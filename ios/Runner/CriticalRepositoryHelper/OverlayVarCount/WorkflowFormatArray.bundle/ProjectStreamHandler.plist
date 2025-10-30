@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableResourceOffset</key>
+	<string>progressbarAboutNumber</string>
+	<key>indicatorKindBottom</key>
+	<string>storePatternAppearance</string>
+	<key>keySemanticsTransparency</key>
+	<string>retainedRoleVisible</string>
+	<key>observerMementoMomentum</key>
+	<string>heapCyclePressure</string>
+	<key>permanentReferenceState</key>
+	<string>capsuleShapeFeedback</string>
+</dict>
+</plist>

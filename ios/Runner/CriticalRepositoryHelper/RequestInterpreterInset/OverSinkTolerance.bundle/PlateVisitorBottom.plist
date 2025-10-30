@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorInsideFunction</key>
+	<string>allocatorAlongVisitor</string>
+	<key>baselineVarValidation</key>
+	<string>grainProxyBottom</string>
+	<key>diffableZoneContrast</key>
+	<string>streamCommandVisible</string>
+	<key>effectMethodShade</key>
+	<string>cosineVersusAdapter</string>
+	<key>ephemeralCallbackPadding</key>
+	<string>previewAgainstWork</string>
+	<key>expandedFromVisitor</key>
+	<string>finalTweenTop</string>
+	<key>lastMatrixBrightness</key>
+	<string>menuPatternFrequency</string>
+	<key>scaleAsAdapter</key>
+	<string>transformerWithoutParam</string>
+	<key>temporaryControllerHue</key>
+	<string>cosineInsideSystem</string>
+</dict>
+</plist>

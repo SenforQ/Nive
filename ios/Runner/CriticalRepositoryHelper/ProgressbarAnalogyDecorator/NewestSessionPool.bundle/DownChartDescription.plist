@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAtTask</key>
+	<string>synchronousCurveVisible</string>
+	<key>capacitiesOfInterpreter</key>
+	<string>secondTabviewScale</string>
+	<key>deferredBitrateValidation</key>
+	<string>usedMatrixCount</string>
+	<key>globalManagerPadding</key>
+	<string>movementAmongMemento</string>
+	<key>modulusBridgeContrast</key>
+	<string>sharedStampLocation</string>
+	<key>synchronousPetRate</key>
+	<string>segmentBeyondMemento</string>
+</dict>
+</plist>

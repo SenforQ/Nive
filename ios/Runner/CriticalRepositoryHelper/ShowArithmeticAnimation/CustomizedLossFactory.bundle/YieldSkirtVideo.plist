@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedMethodBorder</key>
+	<string>masterPatternFrequency</string>
+	<key>handlerJobTail</key>
+	<string>requestAgainstWork</string>
+	<key>originalDelegateAppearance</key>
+	<string>richtextPlatformTransparency</string>
+	<key>sceneJobShade</key>
+	<string>durationFacadeRight</string>
+	<key>tweenAgainstFacade</key>
+	<string>spriteInLayer</string>
+</dict>
+</plist>

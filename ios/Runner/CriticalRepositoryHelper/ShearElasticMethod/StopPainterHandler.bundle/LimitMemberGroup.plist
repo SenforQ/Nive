@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>navigationEnvironmentMargin</key>
+	<string>coordinatorAtContext</string>
+	<key>presenterWithAdapter</key>
+	<string>flexWithStrategy</string>
+	<key>textureJobIndex</key>
+	<string>isolateStructureSize</string>
+</dict>
+</plist>

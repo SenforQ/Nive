@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>numericalCubitDepth</key>
+	<string>switchModeFormat</string>
+	<key>parallelPreviewDensity</key>
+	<string>intermediateResultFormat</string>
+	<key>pointActionForce</key>
+	<string>usedHashPosition</string>
+	<key>storageNearDecorator</key>
+	<string>positionedKindSize</string>
+</dict>
+</plist>

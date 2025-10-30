@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mutableBehaviorBorder</key>
+	<string>sceneOperationTransparency</string>
+	<key>nodeProxyMomentum</key>
+	<string>statefulTransitionSpeed</string>
+	<key>touchMediatorTension</key>
+	<string>uniformQueueDepth</string>
+	<key>usagePerInterpreter</key>
+	<string>radiusAsPlatform</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticSymbolInteraction</key>
+	<string>queryForActivity</string>
+	<key>curveAtChain</key>
+	<string>rowContainDecorator</string>
+	<key>declarativeReferenceSaturation</key>
+	<string>inheritedErrorStatus</string>
+	<key>desktopNavigatorType</key>
+	<string>sessionDecoratorState</string>
+	<key>exceptionAmongEnvironment</key>
+	<string>asyncModeStyle</string>
+	<key>graphContextRotation</key>
+	<string>lossLikeProxy</string>
+	<key>streamIncludeFunction</key>
+	<string>missionStyleLocation</string>
+</dict>
+</plist>

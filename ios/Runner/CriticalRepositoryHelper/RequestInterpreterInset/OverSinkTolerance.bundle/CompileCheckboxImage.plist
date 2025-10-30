@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertExceptState</key>
+	<string>liteNormDelay</string>
+	<key>popupAdapterSaturation</key>
+	<string>taskTempleFeedback</string>
+	<key>queueFunctionTail</key>
+	<string>boxStructureValidation</string>
+	<key>reactiveMobxSpacing</key>
+	<string>eagerServiceKind</string>
+	<key>reusableDecorationSpacing</key>
+	<string>borderContainForm</string>
+	<key>reusableTextureCoord</key>
+	<string>iterativeSpriteDepth</string>
+	<key>segueStructureRate</key>
+	<string>streamNearVariable</string>
+	<key>singletonAlongSingleton</key>
+	<string>eventWithoutSingleton</string>
+	<key>taskWithFacade</key>
+	<string>cycleNearContext</string>
+</dict>
+</plist>

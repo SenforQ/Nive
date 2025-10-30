@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaOrVar</key>
+	<string>channelsAtState</string>
+	<key>binaryVersusJob</key>
+	<string>stateIncludeActivity</string>
+	<key>compositionalButtonTint</key>
+	<string>graphicPlatformTheme</string>
+	<key>coordinatorScopeColor</key>
+	<string>specifierOfDecorator</string>
+	<key>directlySegueIndex</key>
+	<string>rectMethodBottom</string>
+	<key>effectSinceFacade</key>
+	<string>decorationOfStage</string>
+	<key>ephemeralWidgetMargin</key>
+	<string>grainCompositeDensity</string>
+	<key>permanentTimerForce</key>
+	<string>denseGridBound</string>
+	<key>protectedContainerHead</key>
+	<string>layoutFrameworkSaturation</string>
+	<key>topicStructureMomentum</key>
+	<string>controllerOutsideVisitor</string>
+</dict>
+</plist>

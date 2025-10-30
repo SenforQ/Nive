@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleChallengeRate</key>
+	<string>equalizationPerVisitor</string>
+	<key>lossWithoutActivity</key>
+	<string>brushVariableFlags</string>
+	<key>reactiveChartOpacity</key>
+	<string>eagerApertureCenter</string>
+	<key>statelessNodeFeedback</key>
+	<string>significantGrainStyle</string>
+</dict>
+</plist>

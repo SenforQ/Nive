@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleAmongProxy</key>
+	<string>nextNavigatorOpacity</string>
+	<key>dynamicResponsePressure</key>
+	<string>hardRectValidation</string>
+	<key>presenterEnvironmentPosition</key>
+	<string>instructionVisitorTint</string>
+</dict>
+</plist>

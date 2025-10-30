@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customDialogsRotation</key>
+	<string>statefulChartState</string>
+	<key>intermediateTransitionFeedback</key>
+	<string>directThreadStatus</string>
+	<key>lostPainterOrigin</key>
+	<string>decorationTypeForce</string>
+	<key>reductionTempleAcceleration</key>
+	<string>scrollableAnimatedcontainerOrientation</string>
+	<key>seamlessTaskMode</key>
+	<string>resourceUntilStage</string>
+	<key>tableFunctionFormat</key>
+	<string>rapidDropdownbuttonSpacing</string>
+</dict>
+</plist>

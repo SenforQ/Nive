@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customDrawerTension</key>
+	<string>semanticBufferStyle</string>
+	<key>disabledStoreSkewy</key>
+	<string>integerAgainstParameter</string>
+	<key>labelFormState</key>
+	<string>previewOrBridge</string>
+	<key>positionOperationDirection</key>
+	<string>notifierLevelFlags</string>
+	<key>shaderStageInterval</key>
+	<string>equipmentLevelContrast</string>
+</dict>
+</plist>

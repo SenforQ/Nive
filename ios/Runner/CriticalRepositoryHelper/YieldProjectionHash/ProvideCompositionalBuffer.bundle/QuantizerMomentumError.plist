@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeCallbackFrequency</key>
+	<string>presenterObserverEdge</string>
+	<key>modulusPhaseDirection</key>
+	<string>threadOperationBrightness</string>
+	<key>responsiveTaskHead</key>
+	<string>graphActionTop</string>
+	<key>seamlessQueueVelocity</key>
+	<string>constraintActivityBrightness</string>
+	<key>taskProxyKind</key>
+	<string>cardFacadeKind</string>
+</dict>
+</plist>

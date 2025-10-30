@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>offsetActionCenter</key>
+	<string>skirtFlyweightInset</string>
+	<key>seamlessSegueTheme</key>
+	<string>grayscaleOutsideVisitor</string>
+	<key>sophisticatedTernaryScale</key>
+	<string>offsetExceptLayer</string>
+</dict>
+</plist>

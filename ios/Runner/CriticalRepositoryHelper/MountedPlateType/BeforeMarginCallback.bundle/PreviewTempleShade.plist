@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentShapePosition</key>
+	<string>dependencyAgainstParameter</string>
+	<key>flexTempleMargin</key>
+	<string>activityOutsideMediator</string>
+	<key>nodeThroughObserver</key>
+	<string>cursorActivityMode</string>
+	<key>pinchableProviderInteraction</key>
+	<string>inactivePresenterFeedback</string>
+	<key>providerTypeDuration</key>
+	<string>featureFormOrigin</string>
+	<key>reductionInStrategy</key>
+	<string>robustDurationRate</string>
+	<key>resourceByVar</key>
+	<string>mediaWorkShade</string>
+</dict>
+</plist>

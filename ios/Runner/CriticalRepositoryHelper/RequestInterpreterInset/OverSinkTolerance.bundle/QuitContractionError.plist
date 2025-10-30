@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gramDuringPlatform</key>
+	<string>singletonPerVisitor</string>
+	<key>materialDelegateSpeed</key>
+	<string>textfieldSystemOrigin</string>
+	<key>signatureStructureSpeed</key>
+	<string>movementAlongObserver</string>
+	<key>stackFrameworkShape</key>
+	<string>shaderViaStyle</string>
+	<key>storeWithoutCommand</key>
+	<string>bufferBesideCycle</string>
+</dict>
+</plist>

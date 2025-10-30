@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticStyleValidation</key>
+	<string>normalLocalizationTag</string>
+	<key>groupTypeDuration</key>
+	<string>delegateFrameworkValidation</string>
+	<key>independentRowShape</key>
+	<string>playbackJobTop</string>
+	<key>unsortedActionCenter</key>
+	<string>independentOptimizerScale</string>
+</dict>
+</plist>

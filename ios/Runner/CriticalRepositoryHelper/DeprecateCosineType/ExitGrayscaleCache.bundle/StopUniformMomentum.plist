@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerFromScope</key>
+	<string>extensionViaBuffer</string>
+	<key>getxLikeState</key>
+	<string>lazyButtonAppearance</string>
+	<key>navigatorCycleDensity</key>
+	<string>rectStyleHead</string>
+	<key>viewNearComposite</key>
+	<string>activityVariableRate</string>
+</dict>
+</plist>

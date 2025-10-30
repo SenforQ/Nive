@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachePerJob</key>
+	<string>capacitiesBufferAlignment</string>
+	<key>dynamicBorderSize</key>
+	<string>agileCompletionBound</string>
+	<key>radiusForComposite</key>
+	<string>factoryCycleDensity</string>
+	<key>tabbarAdapterBound</key>
+	<string>boxFrameworkDensity</string>
+	<key>textInBuffer</key>
+	<string>resizableExceptionTop</string>
+</dict>
+</plist>

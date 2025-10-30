@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityOrSingleton</key>
+	<string>playbackPrototypeSaturation</string>
+	<key>animationPerOperation</key>
+	<string>graphCycleVelocity</string>
+	<key>autoButtonRate</key>
+	<string>semanticGrainTag</string>
+	<key>cupertinoTempleTension</key>
+	<string>modelWithoutObserver</string>
+	<key>nextOffsetSkewx</key>
+	<string>rectContainVisitor</string>
+	<key>radiusActivityRate</key>
+	<string>descriptionInAction</string>
+</dict>
+</plist>

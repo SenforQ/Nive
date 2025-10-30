@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateHistogramTag</key>
+	<string>playbackDespiteStyle</string>
+	<key>newestTransitionInterval</key>
+	<string>callbackPatternCenter</string>
+	<key>pinchableThreadRight</key>
+	<string>ignoredConstraintLeft</string>
+	<key>segmentTaskLeft</key>
+	<string>sampleIncludeContext</string>
+</dict>
+</plist>

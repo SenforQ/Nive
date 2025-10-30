@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorDespiteStyle</key>
+	<string>storageVariableRate</string>
+	<key>boxMediatorInteraction</key>
+	<string>globalMobxState</string>
+	<key>containerTaskSaturation</key>
+	<string>newestOperationName</string>
+	<key>groupActivityHue</key>
+	<string>cardDuringState</string>
+	<key>independentChannelsTension</key>
+	<string>expandedPlatformDuration</string>
+	<key>invisibleModelDepth</key>
+	<string>certificateVersusParameter</string>
+	<key>playbackOfForm</key>
+	<string>semanticsAboutFlyweight</string>
+	<key>resourceSinceMethod</key>
+	<string>beginnerCompositionHue</string>
+</dict>
+</plist>

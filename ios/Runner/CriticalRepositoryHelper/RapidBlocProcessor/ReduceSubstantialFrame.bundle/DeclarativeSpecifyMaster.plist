@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonActivityAlignment</key>
+	<string>arithmeticOutsideProxy</string>
+	<key>injectionVariableMode</key>
+	<string>futureCycleInteraction</string>
+	<key>listviewAroundContext</key>
+	<string>globalDurationRate</string>
+	<key>nativeResolverOpacity</key>
+	<string>taskOrPrototype</string>
+	<key>notificationLevelDelay</key>
+	<string>sliderValueBorder</string>
+</dict>
+</plist>

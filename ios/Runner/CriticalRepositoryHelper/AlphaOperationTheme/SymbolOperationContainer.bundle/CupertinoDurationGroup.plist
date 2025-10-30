@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectAmongFacade</key>
+	<string>touchOperationOrientation</string>
+	<key>flexibleGraphicInteraction</key>
+	<string>deferredBatchInterval</string>
+	<key>instructionForInterpreter</key>
+	<string>desktopRouterValidation</string>
+	<key>nativeListenerName</key>
+	<string>discardedSceneKind</string>
+	<key>positionLikeTask</key>
+	<string>draggableUtilAcceleration</string>
+	<key>sceneSystemPressure</key>
+	<string>controllerFlyweightSpacing</string>
+	<key>signatureAwayMethod</key>
+	<string>brushVersusVisitor</string>
+	<key>timerAdapterPressure</key>
+	<string>petAtProcess</string>
+	<key>webSwiftResponse</key>
+	<string>sortedMobxTransparency</string>
+</dict>
+</plist>

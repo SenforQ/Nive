@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisStrategyBrightness</key>
+	<string>builderWithoutActivity</string>
+	<key>boxshadowMethodVisible</key>
+	<string>particleFlyweightSkewy</string>
+	<key>brushOrType</key>
+	<string>adaptiveRectSpeed</string>
+	<key>bufferVersusSystem</key>
+	<string>mobileMediaOpacity</string>
+	<key>completerOperationSpacing</key>
+	<string>constraintUntilState</string>
+	<key>threadAdapterContrast</key>
+	<string>skirtCommandDepth</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerIncludeVisitor</key>
+	<string>criticalActivityScale</string>
+	<key>coordinatorDuringWork</key>
+	<string>tickerByInterpreter</string>
+	<key>customLayoutSpacing</key>
+	<string>factoryParamColor</string>
+	<key>draggableEntropyRate</key>
+	<string>radiusDuringKind</string>
+	<key>interpolationProcessTint</key>
+	<string>equipmentAsInterpreter</string>
+	<key>localizationSingletonStyle</key>
+	<string>denseButtonFormat</string>
+	<key>mobileMementoAlignment</key>
+	<string>requestCycleVisible</string>
+	<key>primaryChallengeBottom</key>
+	<string>diffableHashCount</string>
+	<key>spotTaskInterval</key>
+	<string>checklistNumberPadding</string>
+</dict>
+</plist>

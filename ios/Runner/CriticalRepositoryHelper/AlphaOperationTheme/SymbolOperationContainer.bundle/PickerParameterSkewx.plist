@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalInterfaceOffset</key>
+	<string>normBeyondBuffer</string>
+	<key>delegateCompositeContrast</key>
+	<string>sizeForEnvironment</string>
+	<key>eventFlyweightSize</key>
+	<string>smallGramFlags</string>
+	<key>getxPrototypeTheme</key>
+	<string>stateStyleTag</string>
+	<key>seamlessBehaviorIndex</key>
+	<string>responseStrategyPressure</string>
+	<key>singleCapsuleVisibility</key>
+	<string>requestSinceType</string>
+	<key>singletonScopeSkewx</key>
+	<string>cubitMethodFrequency</string>
+	<key>smallDescriptorType</key>
+	<string>subscriptionByTask</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableTitleFlags</key>
+	<string>responsePatternAppearance</string>
+	<key>eagerPointInset</key>
+	<string>chapterShapeStyle</string>
+	<key>histogramPatternVisible</key>
+	<string>requestSingletonOrigin</string>
+	<key>mediaUntilComposite</key>
+	<string>compositionForType</string>
+	<key>modalDecoratorContrast</key>
+	<string>requestTierAlignment</string>
+	<key>operationNumberResponse</key>
+	<string>otherAllocatorTop</string>
+	<key>profileStructureTag</key>
+	<string>stateJobSkewy</string>
+</dict>
+</plist>

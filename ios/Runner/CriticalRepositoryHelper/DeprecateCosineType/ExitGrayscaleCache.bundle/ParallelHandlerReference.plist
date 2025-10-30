@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventOutsideActivity</key>
+	<string>graphicModeFeedback</string>
+	<key>extensionScopeDepth</key>
+	<string>boxOperationLocation</string>
+	<key>resizablePrecisionEdge</key>
+	<string>responsiveConsumerInteraction</string>
+	<key>sharedSliderTransparency</key>
+	<string>streamThroughBridge</string>
+	<key>skirtLevelBound</key>
+	<string>grayscaleAwayWork</string>
+</dict>
+</plist>

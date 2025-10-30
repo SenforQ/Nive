@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lossAlongContext</key>
+	<string>finalMethodTransparency</string>
+	<key>methodThroughJob</key>
+	<string>layoutOperationLeft</string>
+	<key>missedStatefulDelay</key>
+	<string>directCardInterval</string>
+	<key>reusableBehaviorBottom</key>
+	<string>adaptiveTabviewRight</string>
+	<key>signFlyweightDistance</key>
+	<string>touchActionName</string>
+	<key>tablePrototypePosition</key>
+	<string>coordinatorAmongShape</string>
+	<key>uniqueMusicOffset</key>
+	<string>alertThroughPrototype</string>
+</dict>
+</plist>

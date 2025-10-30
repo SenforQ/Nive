@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorTypeVisibility</key>
+	<string>mobileAnimatedcontainerRate</string>
+	<key>directlyIndicatorInset</key>
+	<string>cardCommandTop</string>
+	<key>firstPositionedHead</key>
+	<string>easyEntityScale</string>
+	<key>interactorPlatformForce</key>
+	<string>offsetSystemOrigin</string>
+	<key>iterativeMusicEdge</key>
+	<string>configurationDecoratorFlags</string>
+	<key>labelLikeFacade</key>
+	<string>boxshadowLayerContrast</string>
+	<key>positionedVersusStyle</key>
+	<string>logFrameworkOrientation</string>
+	<key>sceneForShape</key>
+	<string>keyUtilBorder</string>
+	<key>singletonSinceFramework</key>
+	<string>spriteScopeDuration</string>
+	<key>usedRichtextOrigin</key>
+	<string>marginLayerName</string>
+</dict>
+</plist>

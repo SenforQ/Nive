@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowAtDecorator</key>
+	<string>effectDuringTask</string>
+	<key>cartesianChartSkewy</key>
+	<string>adaptiveThreadOffset</string>
+	<key>cellThanPrototype</key>
+	<string>transitionOrParam</string>
+	<key>configurationAsActivity</key>
+	<string>activatedBatchValidation</string>
+	<key>labelWithoutAdapter</key>
+	<string>queueDespiteLayer</string>
+	<key>petOperationCoord</key>
+	<string>listenerCompositeStatus</string>
+	<key>sizeAsDecorator</key>
+	<string>consultativeMobxDuration</string>
+	<key>typicalCommandSaturation</key>
+	<string>tappableActivityOrientation</string>
+</dict>
+</plist>

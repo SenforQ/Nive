@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAwayPattern</key>
+	<string>alignmentBridgeBottom</string>
+	<key>challengeByVariable</key>
+	<string>resourceWorkSaturation</string>
+	<key>progressbarWithTask</key>
+	<string>graphSinceVar</string>
+	<key>sharedTransitionInset</key>
+	<string>checkboxAmongEnvironment</string>
+	<key>tableSingletonInterval</key>
+	<string>constPositionedType</string>
+</dict>
+</plist>

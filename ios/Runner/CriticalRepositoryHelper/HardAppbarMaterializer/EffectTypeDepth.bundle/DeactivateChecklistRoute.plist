@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseProxyFormat</key>
+	<string>opaqueBoxshadowOffset</string>
+	<key>completionBesideSystem</key>
+	<string>alignmentLevelOrientation</string>
+	<key>grayscaleProcessRotation</key>
+	<string>grayscaleParameterShade</string>
+	<key>respectiveConstraintLeft</key>
+	<string>blocForLayer</string>
+	<key>servicePatternDistance</key>
+	<string>enabledExtensionCount</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeEventBound</key>
+	<string>musicActivityOpacity</string>
+	<key>errorIncludeMethod</key>
+	<string>providerActionPressure</string>
+	<key>interpolationInsideFramework</key>
+	<string>symmetricDocumentAppearance</string>
+	<key>materialProviderPressure</key>
+	<string>navigatorVarOffset</string>
+	<key>progressbarWithoutWork</key>
+	<string>roleFunctionInteraction</string>
+	<key>singleSpotBehavior</key>
+	<string>scrollableNodeResponse</string>
+	<key>spriteOrMemento</key>
+	<string>mutableProviderBottom</string>
+</dict>
+</plist>

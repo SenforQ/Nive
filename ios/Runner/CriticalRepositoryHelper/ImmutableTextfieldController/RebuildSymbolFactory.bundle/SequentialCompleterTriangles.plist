@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorUntilFacade</key>
+	<string>missedControllerBottom</string>
+	<key>buttonActionSaturation</key>
+	<string>routeLikeTask</string>
+	<key>cubitLikeParam</key>
+	<string>descriptionStructureCount</string>
+	<key>interactorProcessVelocity</key>
+	<string>threadAtPrototype</string>
+	<key>notifierDecoratorAcceleration</key>
+	<string>requestJobShade</string>
+</dict>
+</plist>

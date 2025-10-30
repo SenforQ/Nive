@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSinkBrightness</key>
+	<string>stateAwayLevel</string>
+	<key>constraintOperationType</key>
+	<string>extensionIncludeValue</string>
+	<key>pivotalViewSaturation</key>
+	<string>adaptiveHistogramLocation</string>
+	<key>temporaryApertureState</key>
+	<string>pinchableMaterialState</string>
+</dict>
+</plist>

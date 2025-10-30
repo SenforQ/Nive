@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basePatternStyle</key>
+	<string>sizeFunctionValidation</string>
+	<key>blocByAction</key>
+	<string>builderFromCommand</string>
+	<key>coordinatorTempleVisibility</key>
+	<string>progressbarPhaseTint</string>
+	<key>disabledSwitchBehavior</key>
+	<string>assetBridgeSaturation</string>
+	<key>iterativeAppbarTension</key>
+	<string>subsequentBufferInset</string>
+	<key>permanentCubitStyle</key>
+	<string>paddingOfNumber</string>
+	<key>reusableConstraintVisible</key>
+	<string>curveOperationValidation</string>
+	<key>usecaseDuringFunction</key>
+	<string>autoTimerOpacity</string>
+	<key>utilOperationSize</key>
+	<string>responseScopeAcceleration</string>
+</dict>
+</plist>

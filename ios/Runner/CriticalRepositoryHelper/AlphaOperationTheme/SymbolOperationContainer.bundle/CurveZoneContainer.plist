@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterTempleSize</key>
+	<string>sceneActionFormat</string>
+	<key>compositionalBlocType</key>
+	<string>gesturedetectorActionRotation</string>
+	<key>constraintObserverBrightness</key>
+	<string>seamlessChecklistDistance</string>
+	<key>dialogsAndForm</key>
+	<string>scrollShapeInteraction</string>
+	<key>nibVariableBehavior</key>
+	<string>singleBinaryHue</string>
+	<key>positionAgainstCycle</key>
+	<string>firstIconTheme</string>
+	<key>reactiveUnarySkewx</key>
+	<string>previewModeSkewy</string>
+	<key>slashFromActivity</key>
+	<string>smartPopupLeft</string>
+	<key>topicFlyweightInteraction</key>
+	<string>tabviewStructureDensity</string>
+</dict>
+</plist>

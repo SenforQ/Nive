@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorInPlatform</key>
+	<string>captionShapeTheme</string>
+	<key>lazyGatePadding</key>
+	<string>newestMobxInset</string>
+	<key>metadataNumberSaturation</key>
+	<string>accordionStatelessOrigin</string>
+	<key>pinchableTitleShape</key>
+	<string>prismaticAnimationSize</string>
+</dict>
+</plist>

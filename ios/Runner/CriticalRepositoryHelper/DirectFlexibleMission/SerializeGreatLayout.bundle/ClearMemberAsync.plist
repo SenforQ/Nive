@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAwaitScale</key>
+	<string>directlyMissionCenter</string>
+	<key>columnBesideNumber</key>
+	<string>activeCompletionAppearance</string>
+	<key>coordinatorAtParameter</key>
+	<string>persistentPlaybackInteraction</string>
+	<key>decorationPlatformDirection</key>
+	<string>switchCompositeBorder</string>
+	<key>eagerOffsetSkewy</key>
+	<string>nativeOffsetState</string>
+	<key>equipmentDecoratorLocation</key>
+	<string>radiusPlatformPosition</string>
+	<key>iconStateShape</key>
+	<string>containerOutsideAction</string>
+	<key>lossAwayFramework</key>
+	<string>synchronousZoneBrightness</string>
+	<key>statelessTempleTransparency</key>
+	<string>tweenForWork</string>
+	<key>streamExceptChain</key>
+	<string>numericalSamplePressure</string>
+</dict>
+</plist>

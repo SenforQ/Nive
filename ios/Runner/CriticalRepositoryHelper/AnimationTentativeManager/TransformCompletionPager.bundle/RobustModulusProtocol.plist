@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constMethodTail</key>
+	<string>spriteKindMomentum</string>
+	<key>nextIconContrast</key>
+	<string>sliderAgainstPlatform</string>
+	<key>pinchableFrameRate</key>
+	<string>independentInteractorShade</string>
+	<key>pinchableProviderTail</key>
+	<string>temporaryEventMomentum</string>
+	<key>promiseDespiteValue</key>
+	<string>hyperbolicInterfaceAppearance</string>
+	<key>similarCommandMomentum</key>
+	<string>actionSystemHead</string>
+	<key>titleVersusTier</key>
+	<string>movementMediatorEdge</string>
+</dict>
+</plist>

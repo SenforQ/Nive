@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>paddingBufferBound</key>
+	<string>sizeExceptMediator</string>
+	<key>progressbarSinceStrategy</key>
+	<string>coordinatorBridgeBottom</string>
+	<key>radioProcessAcceleration</key>
+	<string>inactiveSwiftSpeed</string>
+	<key>sceneWithoutOperation</key>
+	<string>localMetadataAcceleration</string>
+	<key>significantSegueDistance</key>
+	<string>sliderParamAcceleration</string>
+</dict>
+</plist>

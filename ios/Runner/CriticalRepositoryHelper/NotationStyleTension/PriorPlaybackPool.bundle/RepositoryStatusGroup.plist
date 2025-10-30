@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateBridgeBottom</key>
+	<string>bufferFlyweightVisible</string>
+	<key>constraintContainSingleton</key>
+	<string>lastApertureHue</string>
+	<key>decorationOutsideProxy</key>
+	<string>activityVersusFacade</string>
+	<key>exceptionStateInterval</key>
+	<string>progressbarIncludeDecorator</string>
+	<key>integerCompositeName</key>
+	<string>operationIncludeParam</string>
+	<key>iterativeStatelessOffset</key>
+	<string>layerMethodSaturation</string>
+	<key>resourceEnvironmentShape</key>
+	<string>transitionAtType</string>
+	<key>storageFlyweightRight</key>
+	<string>characterSingletonShade</string>
+</dict>
+</plist>

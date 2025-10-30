@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSessionContrast</key>
+	<string>customAlphaFeedback</string>
+	<key>scaleDecoratorTop</key>
+	<string>originalScrollCoord</string>
+	<key>storeFrameworkOrigin</key>
+	<string>appbarStageMomentum</string>
+	<key>uniqueMenuDistance</key>
+	<string>decorationInsideAdapter</string>
+</dict>
+</plist>

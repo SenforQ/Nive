@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianAlignmentSize</key>
+	<string>enabledContainerContrast</string>
+	<key>catalystLevelTag</key>
+	<string>customizedSliderRotation</string>
+	<key>channelsTypePadding</key>
+	<string>flexibleQueueSize</string>
+	<key>grayscaleObserverFlags</key>
+	<string>storageExceptStage</string>
+	<key>inkwellContainType</key>
+	<string>directPaddingTheme</string>
+	<key>instructionWithParam</key>
+	<string>notifierKindAppearance</string>
+	<key>multiNavigatorSaturation</key>
+	<string>controllerCycleEdge</string>
+	<key>utilTempleInteraction</key>
+	<string>heapCycleDistance</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionScopeHue</key>
+	<string>asyncPreviewLeft</string>
+	<key>constFactoryFlags</key>
+	<string>dropdownbuttonCompositeRotation</string>
+	<key>coordinatorShapeAcceleration</key>
+	<string>isolateDuringPrototype</string>
+	<key>invisibleInteractorBottom</key>
+	<string>vectorPrototypePressure</string>
+	<key>observerActionPadding</key>
+	<string>responsiveSlashInteraction</string>
+	<key>spotSystemForce</key>
+	<string>priorPlaybackTheme</string>
+</dict>
+</plist>

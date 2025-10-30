@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseScopeInteraction</key>
+	<string>materialOutsideDecorator</string>
+	<key>firstNormValidation</key>
+	<string>ignoredMapVisibility</string>
+	<key>gridFlyweightType</key>
+	<string>scrollParameterRate</string>
+	<key>mediaVariableTension</key>
+	<string>currentLayoutTag</string>
+	<key>parallelMemberRotation</key>
+	<string>controllerStructureMomentum</string>
+	<key>textCycleOrigin</key>
+	<string>layoutContextDistance</string>
+</dict>
+</plist>

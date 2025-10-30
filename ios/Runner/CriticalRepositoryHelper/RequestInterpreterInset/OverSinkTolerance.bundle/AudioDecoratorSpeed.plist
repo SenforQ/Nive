@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardStrategyBorder</key>
+	<string>tableStrategyShade</string>
+	<key>clipperActionKind</key>
+	<string>geometricCallbackBottom</string>
+	<key>commandProxyFlags</key>
+	<string>cubitExceptPhase</string>
+	<key>cursorNearJob</key>
+	<string>unactivatedIconDistance</string>
+	<key>decorationAmongPhase</key>
+	<string>fixedInteractorSaturation</string>
+	<key>normalPlateDirection</key>
+	<string>labelValueState</string>
+	<key>positionedActivityPadding</key>
+	<string>parallelVectorHead</string>
+	<key>repositoryActivityType</key>
+	<string>crucialMethodType</string>
+	<key>spriteInsideOperation</key>
+	<string>reactiveDecorationVelocity</string>
+</dict>
+</plist>

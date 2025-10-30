@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableProjectAlignment</key>
+	<string>tickerKindSize</string>
+	<key>discardedServiceOpacity</key>
+	<string>protectedZoneShade</string>
+	<key>hardNavigatorTag</key>
+	<string>resourceAtStyle</string>
+	<key>mobxStageDelay</key>
+	<string>storageOfMediator</string>
+	<key>resilientNibHue</key>
+	<string>publicMissionSpeed</string>
+	<key>semanticTweenAppearance</key>
+	<string>usageTierForce</string>
+</dict>
+</plist>

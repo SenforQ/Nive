@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionExceptActivity</key>
+	<string>indicatorShapeDuration</string>
+	<key>checkboxExceptLevel</key>
+	<string>entityOperationEdge</string>
+	<key>declarativeContractionPadding</key>
+	<string>beginnerSegueDistance</string>
+	<key>geometricStorageSkewx</key>
+	<string>painterNearMode</string>
+	<key>usageModeOffset</key>
+	<string>spineForDecorator</string>
+</dict>
+</plist>

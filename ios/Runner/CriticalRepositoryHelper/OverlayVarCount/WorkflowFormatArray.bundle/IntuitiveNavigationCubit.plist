@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lazyEffectVelocity</key>
+	<string>enabledGroupCenter</string>
+	<key>responsiveMetadataStyle</key>
+	<string>blocVisitorTint</string>
+	<key>smartFactoryTint</key>
+	<string>arithmeticMatrixStyle</string>
+	<key>sustainableTextureDepth</key>
+	<string>delicateAnchorAcceleration</string>
+</dict>
+</plist>

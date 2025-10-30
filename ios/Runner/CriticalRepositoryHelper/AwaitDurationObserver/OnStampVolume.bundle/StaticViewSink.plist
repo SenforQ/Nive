@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedGrayscaleInteraction</key>
+	<string>serviceBridgeTint</string>
+	<key>deferredAsyncDirection</key>
+	<string>configurationAsCommand</string>
+	<key>dialogsWithStrategy</key>
+	<string>logProcessOffset</string>
+	<key>imageBesideJob</key>
+	<string>materialMediatorInterval</string>
+	<key>notifierLevelPressure</key>
+	<string>remainderScopeCoord</string>
+	<key>serviceThanNumber</key>
+	<string>spriteValueSkewx</string>
+</dict>
+</plist>

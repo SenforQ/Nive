@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackFlyweightLeft</key>
+	<string>exponentThroughFramework</string>
+	<key>customHistogramState</key>
+	<string>requestCycleColor</string>
+	<key>disparateTweenTint</key>
+	<string>customizedAllocatorBrightness</string>
+	<key>localIconShade</key>
+	<string>cardAtShape</string>
+	<key>protocolTaskAcceleration</key>
+	<string>mutableLayoutLocation</string>
+	<key>reactiveDurationStyle</key>
+	<string>scaffoldStrategySpeed</string>
+	<key>routePrototypeMode</key>
+	<string>disparateFrameSpeed</string>
+	<key>smartSineOrientation</key>
+	<string>statefulByJob</string>
+	<key>spineNearVar</key>
+	<string>overlayEnvironmentFrequency</string>
+	<key>statefulTransitionDelay</key>
+	<string>channelNearJob</string>
+</dict>
+</plist>

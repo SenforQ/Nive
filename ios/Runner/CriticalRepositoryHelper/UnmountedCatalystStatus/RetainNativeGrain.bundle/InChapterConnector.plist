@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalImageCount</key>
+	<string>callbackAndFacade</string>
+	<key>handlerFromDecorator</key>
+	<string>skirtFromStrategy</string>
+	<key>ignoredRouterBehavior</key>
+	<string>robustMissionVisible</string>
+	<key>imperativeEffectLeft</key>
+	<string>delegateContainFramework</string>
+	<key>mediumCardPadding</key>
+	<string>stateBufferColor</string>
+	<key>parallelDrawerKind</key>
+	<string>criticalGemInset</string>
+	<key>retainedProviderStyle</key>
+	<string>navigatorVarTransparency</string>
+</dict>
+</plist>

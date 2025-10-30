@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionVariableDuration</key>
+	<string>actionParameterMomentum</string>
+	<key>cubitOutsideAction</key>
+	<string>sceneBesideParameter</string>
+	<key>directlySubscriptionBehavior</key>
+	<string>profileUntilEnvironment</string>
+	<key>effectAlongPattern</key>
+	<string>gradientProxyValidation</string>
+	<key>finalOperationVisibility</key>
+	<string>repositoryMementoType</string>
+	<key>nodeProcessTransparency</key>
+	<string>subscriptionInAction</string>
+	<key>normAwayStructure</key>
+	<string>missedPointFeedback</string>
+	<key>roleThanLevel</key>
+	<string>routerSingletonInset</string>
+	<key>sizeFlyweightSaturation</key>
+	<string>prismaticLoopValidation</string>
+</dict>
+</plist>

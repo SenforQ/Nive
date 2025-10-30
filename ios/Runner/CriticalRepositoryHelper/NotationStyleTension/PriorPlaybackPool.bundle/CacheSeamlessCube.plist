@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeSessionColor</key>
+	<string>inactiveCompositionOffset</string>
+	<key>diffableResolverInteraction</key>
+	<string>intermediateInstructionHue</string>
+	<key>lossKindBehavior</key>
+	<string>draggablePopupVisible</string>
+	<key>mutableTextfieldTag</key>
+	<string>accessibleDescriptionAppearance</string>
+	<key>offsetStrategySkewy</key>
+	<string>observerEnvironmentAppearance</string>
+	<key>reducerWithoutForm</key>
+	<string>diffableProgressbarOpacity</string>
+	<key>threadMementoPressure</key>
+	<string>otherSineHead</string>
+	<key>timerProxyBottom</key>
+	<string>diffableChartHue</string>
+</dict>
+</plist>

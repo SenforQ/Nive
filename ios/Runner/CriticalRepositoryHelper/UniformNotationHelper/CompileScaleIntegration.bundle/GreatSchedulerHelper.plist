@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistOperationOffset</key>
+	<string>tensorWidgetRight</string>
+	<key>completionBufferDistance</key>
+	<string>characterAndStructure</string>
+	<key>expandedExceptPattern</key>
+	<string>isolateLikeType</string>
+	<key>metadataFacadeDistance</key>
+	<string>tabbarCommandHead</string>
+	<key>similarObserverOffset</key>
+	<string>cycleSingletonMode</string>
+	<key>storageUntilSingleton</key>
+	<string>batchMediatorSize</string>
+</dict>
+</plist>

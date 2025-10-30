@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackFrameworkVisibility</key>
+	<string>storyboardFacadeInterval</string>
+	<key>certificateFacadeContrast</key>
+	<string>disabledCubitCount</string>
+	<key>labelFlyweightFeedback</key>
+	<string>scrollableExceptionTop</string>
+	<key>pivotalConsumerShape</key>
+	<string>delegateBeyondBridge</string>
+	<key>platePhaseCenter</key>
+	<string>popupOutsideComposite</string>
+	<key>requestMethodState</key>
+	<string>gemParameterPosition</string>
+	<key>workflowModeColor</key>
+	<string>precisionVarDirection</string>
+</dict>
+</plist>

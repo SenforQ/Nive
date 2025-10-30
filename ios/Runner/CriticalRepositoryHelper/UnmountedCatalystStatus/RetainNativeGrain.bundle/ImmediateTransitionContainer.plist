@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetTaskSkewy</key>
+	<string>timerInPattern</string>
+	<key>effectStateLocation</key>
+	<string>scenePerPattern</string>
+	<key>entityScopeSkewy</key>
+	<string>zoneSingletonDepth</string>
+	<key>flexibleHeroVisible</key>
+	<string>modulusPatternInterval</string>
+	<key>navigationDespiteCommand</key>
+	<string>containerPatternContrast</string>
+</dict>
+</plist>

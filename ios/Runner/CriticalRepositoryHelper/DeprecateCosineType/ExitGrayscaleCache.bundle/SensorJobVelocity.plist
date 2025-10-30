@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsAboutTier</key>
+	<string>notificationOrInterpreter</string>
+	<key>lostLayoutStyle</key>
+	<string>scaffoldInStage</string>
+	<key>queuePatternMargin</key>
+	<string>positionAsForm</string>
+	<key>reducerInMemento</key>
+	<string>offsetAsCycle</string>
+	<key>retainedChannelCoord</key>
+	<string>curveThroughChain</string>
+	<key>textureAroundBridge</key>
+	<string>immediateLocalizationBrightness</string>
+	<key>unsortedWidgetType</key>
+	<string>euclideanViewShape</string>
+</dict>
+</plist>

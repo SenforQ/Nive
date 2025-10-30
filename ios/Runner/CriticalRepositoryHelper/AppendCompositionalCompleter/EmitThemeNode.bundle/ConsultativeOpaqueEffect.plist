@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetForStyle</key>
+	<string>drawerExceptMemento</string>
+	<key>buttonVarDepth</key>
+	<string>inkwellInsideShape</string>
+	<key>channelsInShape</key>
+	<string>rectStateFormat</string>
+	<key>elasticButtonInteraction</key>
+	<string>sliderUntilLayer</string>
+	<key>getxInBridge</key>
+	<string>serviceInsideFramework</string>
+	<key>matrixBridgeScale</key>
+	<string>dropdownbuttonShapeTail</string>
+	<key>providerLayerOrigin</key>
+	<string>hardMenuTransparency</string>
+	<key>sliderAwayMediator</key>
+	<string>particleByParameter</string>
+</dict>
+</plist>

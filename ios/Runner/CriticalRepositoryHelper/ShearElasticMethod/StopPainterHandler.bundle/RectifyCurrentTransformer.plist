@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationOfKind</key>
+	<string>boxStyleEdge</string>
+	<key>gestureOutsideCycle</key>
+	<string>movementNearBridge</string>
+	<key>menuByStrategy</key>
+	<string>ternaryPerShape</string>
+	<key>mutableRadioHead</key>
+	<string>commandMediatorHead</string>
+	<key>parallelAnimatedcontainerHead</key>
+	<string>vectorOutsideForm</string>
+	<key>previewSinceForm</key>
+	<string>hashKindFrequency</string>
+	<key>resolverFormVisible</key>
+	<string>concurrentSpriteStyle</string>
+	<key>responsiveTextSpacing</key>
+	<string>exponentAgainstMethod</string>
+	<key>robustEffectVisibility</key>
+	<string>interactiveChecklistStyle</string>
+	<key>specifyMetadataTag</key>
+	<string>euclideanDurationAlignment</string>
+</dict>
+</plist>

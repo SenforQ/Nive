@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderAwayTemple</key>
+	<string>independentRouteSpacing</string>
+	<key>checkboxPerSingleton</key>
+	<string>optionBridgeIndex</string>
+	<key>labelActionHead</key>
+	<string>sequentialStepValidation</string>
+	<key>specifyCompleterInteraction</key>
+	<string>labelAlongShape</string>
+</dict>
+</plist>

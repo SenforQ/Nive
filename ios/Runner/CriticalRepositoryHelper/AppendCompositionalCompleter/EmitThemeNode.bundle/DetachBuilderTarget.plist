@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousPresenterKind</key>
+	<string>scaleObserverFrequency</string>
+	<key>displayableAwaitFeedback</key>
+	<string>scaffoldUntilMediator</string>
+	<key>localizationTierPressure</key>
+	<string>difficultErrorLocation</string>
+	<key>spineMethodStyle</key>
+	<string>progressbarAmongStructure</string>
+	<key>storyboardDespitePattern</key>
+	<string>assetIncludeParam</string>
+</dict>
+</plist>

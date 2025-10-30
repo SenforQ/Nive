@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintModeOpacity</key>
+	<string>relationalButtonKind</string>
+	<key>positionAroundBridge</key>
+	<string>resourceWithMediator</string>
+	<key>repositoryMementoStyle</key>
+	<string>riverpodIncludeFramework</string>
+</dict>
+</plist>

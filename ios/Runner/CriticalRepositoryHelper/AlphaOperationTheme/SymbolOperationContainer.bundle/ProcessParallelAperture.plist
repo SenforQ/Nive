@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineLikeFacade</key>
+	<string>segmentInChain</string>
+	<key>isolateStructureVisible</key>
+	<string>observerFrameworkTheme</string>
+	<key>mainVariantDelay</key>
+	<string>pivotalBuilderVelocity</string>
+	<key>mediumGateVelocity</key>
+	<string>alertWithoutLevel</string>
+	<key>routeFormBehavior</key>
+	<string>stateLikePattern</string>
+	<key>stampBesideMethod</key>
+	<string>activeUsecaseContrast</string>
+	<key>threadSystemTag</key>
+	<string>repositoryThroughShape</string>
+	<key>tweenFlyweightIndex</key>
+	<string>grayscaleVersusEnvironment</string>
+	<key>usecaseIncludeMediator</key>
+	<string>diffableHandlerInteraction</string>
+</dict>
+</plist>

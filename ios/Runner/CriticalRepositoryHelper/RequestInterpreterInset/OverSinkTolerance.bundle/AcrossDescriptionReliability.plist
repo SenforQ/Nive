@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationObserverDensity</key>
+	<string>immediateConfigurationShade</string>
+	<key>fixedListviewBound</key>
+	<string>specifyThreadType</string>
+	<key>granularFeatureLocation</key>
+	<string>staticContractionDepth</string>
+	<key>labelInBridge</key>
+	<string>pinchableMasterStyle</string>
+	<key>pageviewByWork</key>
+	<string>sharedAlertLeft</string>
+	<key>requestFormBrightness</key>
+	<string>primaryLayerRight</string>
+</dict>
+</plist>

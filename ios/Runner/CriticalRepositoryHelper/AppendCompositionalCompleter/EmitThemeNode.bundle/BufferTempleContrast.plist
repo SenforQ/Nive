@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionDecoratorEdge</key>
+	<string>allocatorVersusMediator</string>
+	<key>exceptionValueStyle</key>
+	<string>callbackOutsidePattern</string>
+	<key>hashContainFacade</key>
+	<string>gesturedetectorWorkDepth</string>
+	<key>imagePrototypeSpacing</key>
+	<string>primaryActionTheme</string>
+	<key>logPatternName</key>
+	<string>animationSingletonBehavior</string>
+	<key>queryAgainstWork</key>
+	<string>popupBufferOpacity</string>
+	<key>spotIncludeProxy</key>
+	<string>oldDecorationDirection</string>
+	<key>switchAgainstLayer</key>
+	<string>lazySpotScale</string>
+	<key>topicExceptKind</key>
+	<string>compositionalStampDuration</string>
+</dict>
+</plist>

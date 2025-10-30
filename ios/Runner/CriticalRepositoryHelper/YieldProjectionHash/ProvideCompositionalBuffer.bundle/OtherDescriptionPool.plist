@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerQueueCenter</key>
+	<string>sharedSegmentOrientation</string>
+	<key>bufferAlongBridge</key>
+	<string>riverpodPlatformStyle</string>
+	<key>inactiveAwaitForce</key>
+	<string>mediocreDelegateBrightness</string>
+	<key>protocolFrameworkIndex</key>
+	<string>brushAwayDecorator</string>
+	<key>requiredResponseBound</key>
+	<string>mutableTransitionStatus</string>
+	<key>resizableCurveBottom</key>
+	<string>specifyContainerCount</string>
+	<key>segmentVariableTint</key>
+	<string>asynchronousActivityBrightness</string>
+</dict>
+</plist>

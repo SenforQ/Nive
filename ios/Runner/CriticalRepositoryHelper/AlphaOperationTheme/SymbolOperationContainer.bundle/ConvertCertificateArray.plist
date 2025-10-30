@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gestureTierDuration</key>
+	<string>controllerBeyondDecorator</string>
+	<key>persistentAllocatorCenter</key>
+	<string>delegateSinceFramework</string>
+	<key>specifyGridSkewy</key>
+	<string>delegateThroughProcess</string>
+	<key>transitionPatternCoord</key>
+	<string>flexibleContainerShade</string>
+	<key>typicalObserverCount</key>
+	<string>scrollableShaderBehavior</string>
+</dict>
+</plist>

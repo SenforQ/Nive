@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hyperbolicTransitionFormat</key>
+	<string>nodeActivityBehavior</string>
+	<key>ignoredMobileTransparency</key>
+	<string>modelNumberTransparency</string>
+	<key>routerOrAdapter</key>
+	<string>concurrentQueryCenter</string>
+	<key>signatureNumberState</key>
+	<string>storageWithFramework</string>
+</dict>
+</plist>

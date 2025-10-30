@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardFactorySpeed</key>
+	<string>rapidFutureValidation</string>
+	<key>intermediateTouchSpeed</key>
+	<string>declarativeGridKind</string>
+	<key>metadataInterpreterOrientation</key>
+	<string>navigatorMediatorDelay</string>
+	<key>presenterAlongCycle</key>
+	<string>priorityOperationValidation</string>
+	<key>previewFunctionIndex</key>
+	<string>mobileWithoutMediator</string>
+	<key>reducerViaPrototype</key>
+	<string>subpixelTempleMomentum</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gestureBeyondOperation</key>
+	<string>responsiveBufferStatus</string>
+	<key>nodeBufferOrientation</key>
+	<string>notifierStrategyDepth</string>
+	<key>segueContextOrigin</key>
+	<string>publicNormEdge</string>
+	<key>specifyRepositoryBottom</key>
+	<string>descriptorBufferAcceleration</string>
+	<key>utilScopeShape</key>
+	<string>queueIncludeAdapter</string>
+</dict>
+</plist>

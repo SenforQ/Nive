@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityJobSpacing</key>
+	<string>radioAsCommand</string>
+	<key>baseOperationBorder</key>
+	<string>behaviorPerInterpreter</string>
+	<key>binaryOutsideScope</key>
+	<string>disparateCoordinatorOrigin</string>
+	<key>callbackVersusProxy</key>
+	<string>graphicAsFacade</string>
+	<key>routerAsBuffer</key>
+	<string>accordionRouteDistance</string>
+	<key>sessionByPattern</key>
+	<string>certificateWorkTop</string>
+	<key>transitionSingletonVisible</key>
+	<string>giftSingletonSpacing</string>
+</dict>
+</plist>

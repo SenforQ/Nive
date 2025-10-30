@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioEnvironmentBorder</key>
+	<string>spriteForValue</string>
+	<key>memberExceptScope</key>
+	<string>lazyBuilderMargin</string>
+	<key>providerBeyondAction</key>
+	<string>indicatorStrategyBottom</string>
+	<key>secondResolverBrightness</key>
+	<string>compositionalPreviewVisible</string>
+	<key>statelessStageTransparency</key>
+	<string>streamAboutActivity</string>
+</dict>
+</plist>

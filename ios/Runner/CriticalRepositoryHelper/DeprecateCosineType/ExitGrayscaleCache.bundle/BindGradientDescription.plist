@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationCompositeIndex</key>
+	<string>alertPatternSpeed</string>
+	<key>eventModeTop</key>
+	<string>eventInValue</string>
+	<key>invisibleDecorationDepth</key>
+	<string>sharedSkirtDistance</string>
+	<key>previewInsideForm</key>
+	<string>oldMemberAppearance</string>
+	<key>priorityThanScope</key>
+	<string>curvePrototypeTheme</string>
+	<key>radiusFunctionName</key>
+	<string>canvasStrategyHue</string>
+	<key>responsePatternSkewx</key>
+	<string>composableEventColor</string>
+	<key>singletonLayerDirection</key>
+	<string>stampInVariable</string>
+	<key>subscriptionExceptCommand</key>
+	<string>currentAppbarAppearance</string>
+</dict>
+</plist>

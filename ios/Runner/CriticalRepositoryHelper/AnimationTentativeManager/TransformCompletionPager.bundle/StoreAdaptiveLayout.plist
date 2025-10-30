@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintTaskPressure</key>
+	<string>semanticWorkflowMode</string>
+	<key>descriptionKindFrequency</key>
+	<string>activityActionHead</string>
+	<key>granularIconStyle</key>
+	<string>largeGrainBorder</string>
+	<key>mobileEnvironmentValidation</key>
+	<string>topicWithStyle</string>
+	<key>resolverOperationName</key>
+	<string>momentumContainBuffer</string>
+	<key>widgetObserverDepth</key>
+	<string>queueOrFacade</string>
+</dict>
+</plist>

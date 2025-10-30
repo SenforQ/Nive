@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentAspectOffset</key>
+	<string>storyboardAboutBuffer</string>
+	<key>factoryViaAdapter</key>
+	<string>listviewLevelLeft</string>
+	<key>indicatorStylePressure</key>
+	<string>lossDuringForm</string>
+	<key>memberWithStage</key>
+	<string>flexStrategyShade</string>
+	<key>oldResolverDepth</key>
+	<string>normalViewOpacity</string>
+	<key>presenterInsideComposite</key>
+	<string>normalImageOpacity</string>
+	<key>radiusAndChain</key>
+	<string>sliderShapeContrast</string>
+	<key>symmetricClipperAppearance</key>
+	<string>semanticsFromBridge</string>
+</dict>
+</plist>

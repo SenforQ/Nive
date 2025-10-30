@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchFormValidation</key>
+	<string>behaviorLayerPadding</string>
+	<key>gestureNearPattern</key>
+	<string>canvasPlatformFeedback</string>
+	<key>greatCupertinoPadding</key>
+	<string>listenerAboutActivity</string>
+	<key>heapStructureOffset</key>
+	<string>intermediateImageFeedback</string>
+	<key>nodePatternResponse</key>
+	<string>tangentAmongFacade</string>
+	<key>sliderByWork</key>
+	<string>asynchronousCellBottom</string>
+	<key>stepInsideState</key>
+	<string>catalystMethodEdge</string>
+	<key>synchronousResolverDepth</key>
+	<string>providerUntilLevel</string>
+	<key>timerParamFeedback</key>
+	<string>singleChannelColor</string>
+</dict>
+</plist>

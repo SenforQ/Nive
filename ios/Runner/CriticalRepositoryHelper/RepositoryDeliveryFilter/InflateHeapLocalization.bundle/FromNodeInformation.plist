@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackAlongValue</key>
+	<string>labelPerPhase</string>
+	<key>cardWorkFeedback</key>
+	<string>difficultSensorSpeed</string>
+	<key>grainVersusBridge</key>
+	<string>symbolStatePadding</string>
+	<key>isolateKindStyle</key>
+	<string>requestSystemScale</string>
+	<key>pivotalSceneInterval</key>
+	<string>notificationExceptParameter</string>
+	<key>subscriptionModeVelocity</key>
+	<string>interfaceFromFacade</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationKindVelocity</key>
+	<string>eagerCompleterRotation</string>
+	<key>controllerInBuffer</key>
+	<string>constEffectMomentum</string>
+	<key>explicitMemberDirection</key>
+	<string>smartSwiftPosition</string>
+	<key>exponentMediatorDirection</key>
+	<string>advancedGramDelay</string>
+	<key>labelJobCoord</key>
+	<string>heapBridgeFormat</string>
+</dict>
+</plist>

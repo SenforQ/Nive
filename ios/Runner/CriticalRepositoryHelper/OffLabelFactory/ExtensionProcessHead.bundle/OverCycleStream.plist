@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentVersusProxy</key>
+	<string>servicePerBridge</string>
+	<key>callbackSingletonShape</key>
+	<string>controllerJobDepth</string>
+	<key>getxAdapterShape</key>
+	<string>frameThanBuffer</string>
+	<key>missedGraphicVelocity</key>
+	<string>monsterAndFacade</string>
+	<key>sharedPriorityMomentum</key>
+	<string>dropdownbuttonVersusStructure</string>
+	<key>tappableDimensionResponse</key>
+	<string>delicateFlexShape</string>
+	<key>transformerAlongLayer</key>
+	<string>asyncErrorStyle</string>
+</dict>
+</plist>

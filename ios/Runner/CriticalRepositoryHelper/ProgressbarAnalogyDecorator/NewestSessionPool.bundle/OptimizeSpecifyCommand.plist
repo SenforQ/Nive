@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionChartCoord</key>
+	<string>normCommandOpacity</string>
+	<key>enabledNavigatorSpacing</key>
+	<string>oldDelegateScale</string>
+	<key>fixedTopicResponse</key>
+	<string>queryWithoutActivity</string>
+	<key>navigationVisitorFeedback</key>
+	<string>buttonOrPattern</string>
+</dict>
+</plist>

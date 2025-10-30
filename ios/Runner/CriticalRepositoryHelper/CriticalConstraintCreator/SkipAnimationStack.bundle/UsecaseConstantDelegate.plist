@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>oldConfigurationDelay</key>
+	<string>catalystByAdapter</string>
+	<key>originalTransformerFormat</key>
+	<string>expandedProcessRotation</string>
+	<key>primaryBrushTheme</key>
+	<string>staticImageInteraction</string>
+	<key>statefulFromFunction</key>
+	<string>widgetTempleDistance</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAndTier</key>
+	<string>originalScaffoldSpeed</string>
+	<key>beginnerGradientBorder</key>
+	<string>overlayByPhase</string>
+	<key>directlyFeatureFlags</key>
+	<string>resizableSineOpacity</string>
+	<key>geometricGroupSpacing</key>
+	<string>tablePrototypeTail</string>
+	<key>mapAsComposite</key>
+	<string>backwardOffsetRate</string>
+	<key>masterWithoutInterpreter</key>
+	<string>containerAtDecorator</string>
+	<key>priorMediaqueryDuration</key>
+	<string>appbarByEnvironment</string>
+	<key>retainedSkirtLocation</key>
+	<string>robustQueryState</string>
+	<key>sequentialNibOrigin</key>
+	<string>gestureParamDistance</string>
+	<key>textfieldLayerHue</key>
+	<string>lastQueueLeft</string>
+</dict>
+</plist>

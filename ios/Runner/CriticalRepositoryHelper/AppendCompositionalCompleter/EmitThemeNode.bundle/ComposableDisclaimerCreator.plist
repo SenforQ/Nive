@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorVersusAction</key>
+	<string>deferredRectFeedback</string>
+	<key>exceptionMediatorOrientation</key>
+	<string>gesturedetectorStateName</string>
+	<key>projectionFacadeTail</key>
+	<string>modelTierVelocity</string>
+	<key>radiusMethodOpacity</key>
+	<string>disabledSubscriptionCenter</string>
+	<key>usageOutsideType</key>
+	<string>previewWithMethod</string>
+</dict>
+</plist>

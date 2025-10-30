@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableStoreDistance</key>
+	<string>switchFromStructure</string>
+	<key>heapNearSingleton</key>
+	<string>scrollStructureCenter</string>
+	<key>inactiveTimerOffset</key>
+	<string>globalCurveKind</string>
+	<key>mediaqueryPerContext</key>
+	<string>clipperInterpreterVisibility</string>
+	<key>missedDecorationTransparency</key>
+	<string>axisBridgeDelay</string>
+	<key>modelContextInset</key>
+	<string>completerParamOffset</string>
+	<key>queryProcessOpacity</key>
+	<string>operationMethodDistance</string>
+	<key>semanticTextureFeedback</key>
+	<string>textureActivityFeedback</string>
+	<key>textureLikeState</key>
+	<string>criticalProviderAppearance</string>
+</dict>
+</plist>

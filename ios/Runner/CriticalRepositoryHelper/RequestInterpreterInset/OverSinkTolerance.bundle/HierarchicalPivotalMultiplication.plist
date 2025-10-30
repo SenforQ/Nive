@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorJobSpeed</key>
+	<string>firstIndicatorDuration</string>
+	<key>cyclePatternTransparency</key>
+	<string>finalGrainPressure</string>
+	<key>draggableWidgetDelay</key>
+	<string>animationAlongAction</string>
+	<key>hashAgainstMethod</key>
+	<string>handlerWithoutDecorator</string>
+	<key>sampleOfAdapter</key>
+	<string>profilePhaseVisibility</string>
+</dict>
+</plist>

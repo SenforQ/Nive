@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertActionSpacing</key>
+	<string>mainCoordinatorInset</string>
+	<key>bufferFlyweightBrightness</key>
+	<string>cubitDespiteBuffer</string>
+	<key>cosineFormBottom</key>
+	<string>observerJobPadding</string>
+	<key>indicatorVersusPhase</key>
+	<string>gridviewNearOperation</string>
+	<key>momentumVariableAlignment</key>
+	<string>subscriptionThanChain</string>
+	<key>movementWithoutCycle</key>
+	<string>adaptiveGraphVisible</string>
+	<key>precisionAroundMemento</key>
+	<string>hashWithoutState</string>
+	<key>sliderStageCenter</key>
+	<string>cosineStageResponse</string>
+	<key>tabbarCycleShape</key>
+	<string>grainValueOrigin</string>
+	<key>taskMethodColor</key>
+	<string>extensionStateDelay</string>
+</dict>
+</plist>

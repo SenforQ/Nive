@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateInsideChain</key>
+	<string>singletonLikeChain</string>
+	<key>factoryMethodKind</key>
+	<string>popupViaSingleton</string>
+	<key>globalTabbarDistance</key>
+	<string>viewFormType</string>
+	<key>labelSystemEdge</key>
+	<string>frameAlongWork</string>
+	<key>priorTransitionHue</key>
+	<string>interactorAlongFlyweight</string>
+	<key>radiusMementoFrequency</key>
+	<string>comprehensiveCoordinatorFormat</string>
+	<key>responsiveCurveBottom</key>
+	<string>rowAndValue</string>
+	<key>temporaryRadiusTag</key>
+	<string>managerDespiteMediator</string>
+</dict>
+</plist>

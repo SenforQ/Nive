@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalControllerPadding</key>
+	<string>inheritedScenePosition</string>
+	<key>priorityPerSystem</key>
+	<string>sessionTaskSkewy</string>
+	<key>scaleOfEnvironment</key>
+	<string>behaviorTemplePadding</string>
+	<key>screenAgainstParam</key>
+	<string>immediateScaffoldHue</string>
+	<key>standaloneExceptionSkewx</key>
+	<string>imperativeTransitionMode</string>
+	<key>tableSincePlatform</key>
+	<string>themeOperationTransparency</string>
+	<key>tappableGateBrightness</key>
+	<string>tabviewLikeWork</string>
+	<key>transitionTierAlignment</key>
+	<string>widgetOrSystem</string>
+</dict>
+</plist>

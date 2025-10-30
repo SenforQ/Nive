@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncOfPattern</key>
+	<string>asynchronousStateAcceleration</string>
+	<key>commandSinceStrategy</key>
+	<string>navigatorThroughMethod</string>
+	<key>sophisticatedAnimationAcceleration</key>
+	<string>seamlessCycleSpacing</string>
+	<key>typicalCollectionAcceleration</key>
+	<string>widgetLayerSkewx</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationEnvironmentDelay</key>
+	<string>draggableBrushSpeed</string>
+	<key>desktopStreamFlags</key>
+	<string>resolverForTier</string>
+	<key>groupSingletonEdge</key>
+	<string>retainedCurveTheme</string>
+	<key>heroFormDirection</key>
+	<string>alignmentBufferDelay</string>
+	<key>intensityMementoTheme</key>
+	<string>denseViewType</string>
+	<key>mutableProviderFormat</key>
+	<string>eagerTableRate</string>
+	<key>pinchableSymbolPressure</key>
+	<string>uniqueMethodRotation</string>
+	<key>rapidSegmentStatus</key>
+	<string>interactiveResultColor</string>
+	<key>tappableCardFormat</key>
+	<string>lastSinkPosition</string>
+	<key>textStrategyLocation</key>
+	<string>errorBridgeBehavior</string>
+</dict>
+</plist>

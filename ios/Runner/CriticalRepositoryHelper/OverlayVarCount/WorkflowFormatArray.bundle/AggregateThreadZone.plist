@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedHeapBehavior</key>
+	<string>chartWithoutStructure</string>
+	<key>arithmeticSegueRate</key>
+	<string>composableFlexRate</string>
+	<key>blocForActivity</key>
+	<string>alphaAdapterCount</string>
+	<key>intermediateChannelsFrequency</key>
+	<string>ternaryStateContrast</string>
+	<key>signNearSingleton</key>
+	<string>stepObserverIndex</string>
+	<key>stackExceptSystem</key>
+	<string>gridAndTask</string>
+</dict>
+</plist>

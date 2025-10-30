@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedResolverBrightness</key>
+	<string>sensorObserverSize</string>
+	<key>constObserverInteraction</key>
+	<string>precisionAboutBuffer</string>
+	<key>cubePerValue</key>
+	<string>liteSizedboxMode</string>
+	<key>elasticProjectFlags</key>
+	<string>intensityVariableKind</string>
+	<key>immutableNodeTop</key>
+	<string>sharedDocumentState</string>
+	<key>presenterLevelSpacing</key>
+	<string>pageviewBesideCycle</string>
+	<key>publicSignTint</key>
+	<string>navigationUntilStructure</string>
+	<key>scrollTaskCenter</key>
+	<string>localizationOfType</string>
+</dict>
+</plist>

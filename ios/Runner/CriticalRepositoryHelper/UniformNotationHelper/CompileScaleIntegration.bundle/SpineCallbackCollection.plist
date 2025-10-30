@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncToolBehavior</key>
+	<string>spinePhaseBrightness</string>
+	<key>certificateModeDelay</key>
+	<string>sliderPerInterpreter</string>
+	<key>entityInsideTier</key>
+	<string>concurrentTopicTail</string>
+	<key>factoryFormPadding</key>
+	<string>observerVarDepth</string>
+	<key>featurePatternTheme</key>
+	<string>allocatorAmongFacade</string>
+	<key>fixedGraphicDelay</key>
+	<string>discardedMemberTail</string>
+	<key>graphObserverName</key>
+	<string>instructionNumberDistance</string>
+	<key>smartActivityForce</key>
+	<string>pivotalLayoutShape</string>
+	<key>toolAsJob</key>
+	<string>animatedEffectName</string>
+</dict>
+</plist>

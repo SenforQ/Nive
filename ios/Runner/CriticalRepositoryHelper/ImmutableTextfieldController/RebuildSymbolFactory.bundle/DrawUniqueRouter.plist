@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitParamPressure</key>
+	<string>borderPlatformMode</string>
+	<key>controllerCommandFrequency</key>
+	<string>sceneAtProxy</string>
+	<key>difficultShaderSkewx</key>
+	<string>expandedStyleValidation</string>
+	<key>documentCycleCoord</key>
+	<string>shaderByStyle</string>
+	<key>queueVersusMode</key>
+	<string>subsequentQueueDistance</string>
+	<key>typicalInterfaceResponse</key>
+	<string>transitionParamColor</string>
+</dict>
+</plist>

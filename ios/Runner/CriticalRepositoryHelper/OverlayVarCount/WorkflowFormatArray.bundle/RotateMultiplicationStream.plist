@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellProcessResponse</key>
+	<string>publicQueryOrientation</string>
+	<key>consultativeResolverSpeed</key>
+	<string>menuStateAppearance</string>
+	<key>graphicContextValidation</key>
+	<string>easyDurationVisibility</string>
+	<key>interpolationAtContext</key>
+	<string>containerEnvironmentAppearance</string>
+	<key>primaryBuilderPadding</key>
+	<string>bufferDuringContext</string>
+	<key>relationalFutureFlags</key>
+	<string>interfaceMementoAppearance</string>
+	<key>scrollMethodOffset</key>
+	<string>convolutionBufferStyle</string>
+	<key>stateVarState</key>
+	<string>indicatorForBridge</string>
+	<key>timerNearJob</key>
+	<string>sequentialMethodShape</string>
+</dict>
+</plist>

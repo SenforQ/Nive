@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterPerBuffer</key>
+	<string>interactorPerState</string>
+	<key>crucialResourceInset</key>
+	<string>decorationIncludePattern</string>
+	<key>factoryActivityTail</key>
+	<string>asyncBorderMode</string>
+	<key>materialRiverpodOffset</key>
+	<string>singletonAndProcess</string>
+	<key>methodScopeInset</key>
+	<string>taskEnvironmentAppearance</string>
+	<key>presenterInCommand</key>
+	<string>crudeContainerState</string>
+	<key>storyboardFormBehavior</key>
+	<string>keyListviewResponse</string>
+	<key>usedInjectionStatus</key>
+	<string>multiQueryTint</string>
+</dict>
+</plist>

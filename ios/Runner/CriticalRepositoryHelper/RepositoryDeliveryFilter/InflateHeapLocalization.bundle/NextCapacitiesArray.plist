@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferByFacade</key>
+	<string>otherBlocHead</string>
+	<key>robustStatelessInteraction</key>
+	<string>switchThroughCycle</string>
+	<key>taskOutsideMethod</key>
+	<string>persistentBuilderDensity</string>
+	<key>variantLikeState</key>
+	<string>interactiveSliderSpacing</string>
+</dict>
+</plist>

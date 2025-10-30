@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorStageShade</key>
+	<string>typicalModelOpacity</string>
+	<key>boxshadowContainParam</key>
+	<string>nodeVersusPlatform</string>
+	<key>cubitParameterInset</key>
+	<string>containerAtForm</string>
+	<key>enabledRadiusContrast</key>
+	<string>subtleContainerInterval</string>
+	<key>robustRadioVisibility</key>
+	<string>advancedSubscriptionMode</string>
+	<key>viewFlyweightAlignment</key>
+	<string>interactiveTopicVisibility</string>
+</dict>
+</plist>

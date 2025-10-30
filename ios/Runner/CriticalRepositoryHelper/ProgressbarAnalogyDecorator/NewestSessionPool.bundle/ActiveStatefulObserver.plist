@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblePresenterSpeed</key>
+	<string>textAtStrategy</string>
+	<key>cubitFrameworkPressure</key>
+	<string>inheritedTextSkewy</string>
+	<key>discardedAwaitPressure</key>
+	<string>builderInsideComposite</string>
+	<key>elasticScaleTint</key>
+	<string>normalCoordinatorCoord</string>
+	<key>interactorMethodRate</key>
+	<string>themeTempleInterval</string>
+	<key>semanticCharacterResponse</key>
+	<string>parallelListviewTransparency</string>
+	<key>statelessBrushValidation</key>
+	<string>resourceObserverStyle</string>
+	<key>tensorCoordinatorRotation</key>
+	<string>bulletVarAppearance</string>
+</dict>
+</plist>

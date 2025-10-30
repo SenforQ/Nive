@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeStateOrigin</key>
+	<string>topicShapeBehavior</string>
+	<key>exceptionWithMode</key>
+	<string>tickerAroundCommand</string>
+	<key>expandedBesideCommand</key>
+	<string>gesturePatternCenter</string>
+	<key>indicatorSingletonResponse</key>
+	<string>awaitUntilScope</string>
+	<key>nextEffectBorder</key>
+	<string>tweenStageVisibility</string>
+	<key>priorModelTheme</key>
+	<string>statefulTweenAcceleration</string>
+	<key>queueAdapterFeedback</key>
+	<string>statelessPrototypeFrequency</string>
+	<key>requestAroundTier</key>
+	<string>queueDecoratorBottom</string>
+	<key>stampOperationFrequency</key>
+	<string>skinWithWork</string>
+	<key>textVarInteraction</key>
+	<string>segmentLikeCommand</string>
+</dict>
+</plist>

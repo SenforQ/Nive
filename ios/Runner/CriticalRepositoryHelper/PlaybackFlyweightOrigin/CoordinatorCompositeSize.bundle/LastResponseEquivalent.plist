@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncWithSingleton</key>
+	<string>customCellMode</string>
+	<key>blocAndActivity</key>
+	<string>tickerOutsideTier</string>
+	<key>borderAgainstLevel</key>
+	<string>requestFlyweightBrightness</string>
+	<key>featureVariableCenter</key>
+	<string>memberFromContext</string>
+	<key>touchCommandRight</key>
+	<string>timerJobSize</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferStyleTheme</key>
+	<string>progressbarPrototypeDensity</string>
+	<key>criticalGraphicFormat</key>
+	<string>concurrentMethodHue</string>
+	<key>displayableParticleRight</key>
+	<string>dimensionLayerDelay</string>
+	<key>mutableAppbarInteraction</key>
+	<string>multiMenuTint</string>
+	<key>reducerBesideFacade</key>
+	<string>unsortedOptimizerInteraction</string>
+	<key>servicePerPattern</key>
+	<string>factoryForComposite</string>
+	<key>sophisticatedModelDuration</key>
+	<string>animatedStreamCoord</string>
+	<key>statefulNavigationDistance</key>
+	<string>modulusAroundActivity</string>
+</dict>
+</plist>

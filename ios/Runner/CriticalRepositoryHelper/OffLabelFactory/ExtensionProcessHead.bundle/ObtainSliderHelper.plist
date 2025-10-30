@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedChartBehavior</key>
+	<string>iterativeChartTop</string>
+	<key>delicateRowFormat</key>
+	<string>optimizerChainDensity</string>
+	<key>nativeButtonBottom</key>
+	<string>dropdownbuttonVariableRotation</string>
+	<key>rectVariableMargin</key>
+	<string>viewOutsideKind</string>
+	<key>tangentAsActivity</key>
+	<string>sensorPatternStatus</string>
+	<key>ternaryMethodDirection</key>
+	<string>persistentSpineShape</string>
+</dict>
+</plist>

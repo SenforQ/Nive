@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonBridgeContrast</key>
+	<string>constraintProxyVelocity</string>
+	<key>checklistTaskFormat</key>
+	<string>lossWorkSkewx</string>
+	<key>modulusBeyondDecorator</key>
+	<string>persistentGraphValidation</string>
+	<key>profileDespiteStage</key>
+	<string>dynamicResourceState</string>
+	<key>respectiveLayoutValidation</key>
+	<string>particleBridgeAppearance</string>
+	<key>scrollableGrainInteraction</key>
+	<string>commandOperationVelocity</string>
+</dict>
+</plist>

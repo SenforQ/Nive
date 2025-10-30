@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedFrameBottom</key>
+	<string>autoDimensionAlignment</string>
+	<key>allocatorOutsideValue</key>
+	<string>singleCommandRight</string>
+	<key>captionActivityVisible</key>
+	<string>sizedboxActionTag</string>
+	<key>deferredCacheOrigin</key>
+	<string>profileUntilObserver</string>
+	<key>loopStyleLocation</key>
+	<string>specifyViewVisible</string>
+	<key>variantPerPlatform</key>
+	<string>taskFlyweightOrientation</string>
+</dict>
+</plist>

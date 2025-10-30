@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushJobMomentum</key>
+	<string>animatedLayoutAlignment</string>
+	<key>builderStateValidation</key>
+	<string>granularRemainderDuration</string>
+	<key>keyResponseEdge</key>
+	<string>interactorInState</string>
+	<key>methodWithFlyweight</key>
+	<string>responsePatternCenter</string>
+	<key>opaquePetInteraction</key>
+	<string>stepByScope</string>
+	<key>otherSpineBottom</key>
+	<string>pointMethodStyle</string>
+	<key>similarCubitBorder</key>
+	<string>directDurationKind</string>
+	<key>subsequentObserverTransparency</key>
+	<string>transitionParameterStyle</string>
+</dict>
+</plist>

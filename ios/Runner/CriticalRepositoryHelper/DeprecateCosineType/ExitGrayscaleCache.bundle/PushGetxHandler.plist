@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncInterfaceBorder</key>
+	<string>gradientActivityTheme</string>
+	<key>localizationCompositeBottom</key>
+	<string>columnFromPattern</string>
+	<key>lossInBuffer</key>
+	<string>mobxBesideMode</string>
+	<key>prevGraphFeedback</key>
+	<string>numericalConstraintResponse</string>
+	<key>previewByBridge</key>
+	<string>lastConsumerKind</string>
+</dict>
+</plist>

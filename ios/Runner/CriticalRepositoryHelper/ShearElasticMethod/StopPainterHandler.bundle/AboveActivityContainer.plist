@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderVisitorForce</key>
+	<string>disabledResultHue</string>
+	<key>hardTaskCenter</key>
+	<string>navigatorVariableSpeed</string>
+	<key>multiplicationKindSkewy</key>
+	<string>granularWidgetTransparency</string>
+	<key>singleDocumentKind</key>
+	<string>equipmentMethodAlignment</string>
+	<key>tickerAdapterBehavior</key>
+	<string>gestureMediatorTheme</string>
+</dict>
+</plist>

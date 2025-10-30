@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionOrTemple</key>
+	<string>criticalEffectScale</string>
+	<key>buttonBeyondWork</key>
+	<string>accordionLabelSkewx</string>
+	<key>decorationKindDistance</key>
+	<string>histogramForState</string>
+	<key>priorityBeyondStage</key>
+	<string>seamlessEffectDirection</string>
+	<key>standaloneSensorEdge</key>
+	<string>nodeAdapterFeedback</string>
+	<key>transitionContainTask</key>
+	<string>precisionParameterBrightness</string>
+	<key>uniqueChapterMargin</key>
+	<string>unsortedSignCount</string>
+</dict>
+</plist>

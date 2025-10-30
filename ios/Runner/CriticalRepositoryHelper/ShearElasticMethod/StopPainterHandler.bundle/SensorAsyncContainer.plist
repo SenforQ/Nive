@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblePositionedSaturation</key>
+	<string>brushStageIndex</string>
+	<key>arithmeticValueAlignment</key>
+	<string>spotOperationPadding</string>
+	<key>crudeCommandOrientation</key>
+	<string>capacitiesAsForm</string>
+	<key>curveLevelShape</key>
+	<string>uniformChecklistShape</string>
+	<key>nibFacadeRotation</key>
+	<string>greatConfigurationBrightness</string>
+	<key>offsetAsState</key>
+	<string>mediaAtActivity</string>
+	<key>persistentParticlePosition</key>
+	<string>taskStrategyDirection</string>
+	<key>pinchableAspectSpeed</key>
+	<string>futureOutsideMethod</string>
+	<key>resourceBufferCount</key>
+	<string>scrollStrategyDirection</string>
+	<key>robustRiverpodInterval</key>
+	<string>presenterBridgeTransparency</string>
+</dict>
+</plist>

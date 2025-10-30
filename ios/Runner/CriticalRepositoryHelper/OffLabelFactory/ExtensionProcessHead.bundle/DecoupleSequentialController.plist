@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerAroundStrategy</key>
+	<string>navigatorFormOrigin</string>
+	<key>compositionalRadioVisible</key>
+	<string>transitionAdapterSkewx</string>
+	<key>criticalRadioPosition</key>
+	<string>asynchronousFutureShade</string>
+	<key>denseSizeBrightness</key>
+	<string>commandBufferIndex</string>
+	<key>durationWithoutInterpreter</key>
+	<string>controllerMediatorSkewx</string>
+	<key>mediumAxisEdge</key>
+	<string>alertSinceMemento</string>
+	<key>swiftPhaseSaturation</key>
+	<string>activityAmongJob</string>
+	<key>widgetVarEdge</key>
+	<string>activatedTransformerCount</string>
+</dict>
+</plist>

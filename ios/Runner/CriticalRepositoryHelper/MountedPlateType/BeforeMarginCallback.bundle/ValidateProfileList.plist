@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAlongSingleton</key>
+	<string>customizedTransitionTheme</string>
+	<key>bulletNearMediator</key>
+	<string>instructionStyleMomentum</string>
+	<key>groupModeStatus</key>
+	<string>nativeMovementType</string>
+	<key>opaqueIndicatorFormat</key>
+	<string>multiReducerState</string>
+	<key>textfieldStateDirection</key>
+	<string>offsetFormSize</string>
+</dict>
+</plist>

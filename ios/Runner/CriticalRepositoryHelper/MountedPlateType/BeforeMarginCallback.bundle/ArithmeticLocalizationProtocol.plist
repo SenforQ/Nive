@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartStyleShape</key>
+	<string>fixedCollectionShade</string>
+	<key>constraintTypeState</key>
+	<string>memberViaTask</string>
+	<key>controllerEnvironmentHue</key>
+	<string>routerCycleShade</string>
+	<key>inactiveStateContrast</key>
+	<string>navigationAboutBuffer</string>
+	<key>remainderUntilMode</key>
+	<string>singletonBeyondComposite</string>
+	<key>sinkCycleCenter</key>
+	<string>matrixAtScope</string>
+	<key>statelessErrorStyle</key>
+	<string>ignoredSizedboxStatus</string>
+	<key>transformerAmongLevel</key>
+	<string>responseAboutState</string>
+</dict>
+</plist>

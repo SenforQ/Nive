@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionDuringAdapter</key>
+	<string>widgetCycleKind</string>
+	<key>cacheParamVelocity</key>
+	<string>localBitrateLocation</string>
+	<key>eagerSymbolMode</key>
+	<string>delegateActivityOffset</string>
+	<key>gramStateFormat</key>
+	<string>semanticSignScale</string>
+	<key>mediumModulusInteraction</key>
+	<string>primaryFactoryTint</string>
+	<key>positionedStructureSkewx</key>
+	<string>heroAtValue</string>
+	<key>requiredIndicatorBound</key>
+	<string>channelStyleVisible</string>
+	<key>scrollFunctionBound</key>
+	<string>extensionJobMode</string>
+</dict>
+</plist>

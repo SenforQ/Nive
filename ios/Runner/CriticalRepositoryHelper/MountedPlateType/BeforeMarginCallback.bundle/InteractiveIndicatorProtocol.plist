@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentVarDirection</key>
+	<string>slashUntilSystem</string>
+	<key>immutableInterfaceDirection</key>
+	<string>iconAgainstNumber</string>
+	<key>largeConfigurationSpeed</key>
+	<string>convolutionProxySize</string>
+	<key>observerAdapterIndex</key>
+	<string>granularSingletonName</string>
+	<key>reducerWithoutVisitor</key>
+	<string>newestStepDistance</string>
+	<key>segueShapeDistance</key>
+	<string>positionedValueTint</string>
+	<key>viewNearStructure</key>
+	<string>bufferChainTint</string>
+</dict>
+</plist>

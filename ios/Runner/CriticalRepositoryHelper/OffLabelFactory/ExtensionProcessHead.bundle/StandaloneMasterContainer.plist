@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationByKind</key>
+	<string>declarativeAnimationKind</string>
+	<key>associatedRouterSize</key>
+	<string>crudeAlertDistance</string>
+	<key>immediateAlertCount</key>
+	<string>topicLayerTag</string>
+	<key>layerMediatorDirection</key>
+	<string>localStackDirection</string>
+	<key>nextMemberVisible</key>
+	<string>cacheBufferTint</string>
+	<key>projectSingletonSpacing</key>
+	<string>publicStatelessPadding</string>
+	<key>projectionStateLeft</key>
+	<string>canvasVisitorOpacity</string>
+	<key>publicObserverStatus</key>
+	<string>agileBoxshadowFrequency</string>
+</dict>
+</plist>

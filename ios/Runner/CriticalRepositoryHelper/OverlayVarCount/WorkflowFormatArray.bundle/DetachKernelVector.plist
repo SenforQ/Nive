@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleParamBorder</key>
+	<string>smartCatalystMode</string>
+	<key>curveAndSystem</key>
+	<string>resizableIntegerHue</string>
+	<key>dedicatedPlaybackInteraction</key>
+	<string>custompaintWithMethod</string>
+	<key>hierarchicalResultAppearance</key>
+	<string>autoBlocSpacing</string>
+	<key>relationalAlignmentValidation</key>
+	<string>originalOffsetAppearance</string>
+	<key>serviceSingletonOpacity</key>
+	<string>independentDependencyInset</string>
+	<key>sharedServiceInset</key>
+	<string>tappableCommandTheme</string>
+	<key>specifyZoneRight</key>
+	<string>sharedOperationBrightness</string>
+</dict>
+</plist>

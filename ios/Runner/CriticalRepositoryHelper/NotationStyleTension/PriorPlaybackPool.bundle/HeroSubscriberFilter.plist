@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsMementoSpacing</key>
+	<string>subscriptionThroughBuffer</string>
+	<key>enabledBulletMargin</key>
+	<string>responsiveAssetCount</string>
+	<key>similarSkinSize</key>
+	<string>missedRepositoryCount</string>
+	<key>textureStructureSkewx</key>
+	<string>callbackLayerSaturation</string>
+	<key>viewUntilStage</key>
+	<string>interfaceKindValidation</string>
+</dict>
+</plist>

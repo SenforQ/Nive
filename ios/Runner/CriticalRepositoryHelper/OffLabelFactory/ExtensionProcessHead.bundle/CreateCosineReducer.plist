@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderSingletonAlignment</key>
+	<string>directlyFlexTheme</string>
+	<key>boxCommandBound</key>
+	<string>navigatorContainStrategy</string>
+	<key>coordinatorByComposite</key>
+	<string>desktopSignatureBound</string>
+	<key>queryTaskStyle</key>
+	<string>sensorFlyweightTop</string>
+</dict>
+</plist>

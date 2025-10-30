@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchAboutActivity</key>
+	<string>temporaryCanvasHue</string>
+	<key>coordinatorFrameworkState</key>
+	<string>sinkInStage</string>
+	<key>cyclePerEnvironment</key>
+	<string>listenerStrategySkewx</string>
+	<key>difficultExpandedSize</key>
+	<string>sensorContextEdge</string>
+	<key>singlePaddingFlags</key>
+	<string>independentQueueOpacity</string>
+	<key>statelessOptionType</key>
+	<string>statelessShapeHue</string>
+</dict>
+</plist>

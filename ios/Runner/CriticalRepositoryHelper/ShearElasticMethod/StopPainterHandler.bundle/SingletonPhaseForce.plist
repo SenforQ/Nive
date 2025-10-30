@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelSystemInterval</key>
+	<string>reducerObserverAppearance</string>
+	<key>cursorAroundSingleton</key>
+	<string>tweenVersusFlyweight</string>
+	<key>effectObserverFormat</key>
+	<string>customizedThreadOrientation</string>
+	<key>equalizationBesideKind</key>
+	<string>routeLayerPressure</string>
+	<key>labelBesideTier</key>
+	<string>radiusUntilCycle</string>
+	<key>mutableRectFormat</key>
+	<string>deferredStoreInterval</string>
+	<key>newestFrameResponse</key>
+	<string>textureInMediator</string>
+</dict>
+</plist>

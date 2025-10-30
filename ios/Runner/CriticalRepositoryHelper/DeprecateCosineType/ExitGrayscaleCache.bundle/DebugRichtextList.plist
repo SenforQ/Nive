@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseObserverAppearance</key>
+	<string>interfaceStateAppearance</string>
+	<key>behaviorUntilAction</key>
+	<string>unactivatedTernaryRotation</string>
+	<key>entityFrameworkTail</key>
+	<string>lossActivityPressure</string>
+	<key>gradientTaskShade</key>
+	<string>injectionAndEnvironment</string>
+	<key>textMementoSize</key>
+	<string>allocatorVisitorBottom</string>
+</dict>
+</plist>

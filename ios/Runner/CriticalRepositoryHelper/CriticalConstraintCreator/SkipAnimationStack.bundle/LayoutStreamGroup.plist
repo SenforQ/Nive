@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>managerMediatorStyle</key>
+	<string>viewPatternSize</string>
+	<key>paddingPlatformAppearance</key>
+	<string>accessoryVariableHue</string>
+	<key>queryByActivity</key>
+	<string>effectModeSkewx</string>
+	<key>reductionScopeDelay</key>
+	<string>rowSingletonCount</string>
+	<key>resourceLikeSingleton</key>
+	<string>catalystNearEnvironment</string>
+	<key>sampleWithoutStyle</key>
+	<string>sinkInsideCycle</string>
+	<key>ternaryOutsideBuffer</key>
+	<string>variantExceptProxy</string>
+</dict>
+</plist>

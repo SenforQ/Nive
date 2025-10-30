@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionUnaryTheme</key>
+	<string>factoryShapeTag</string>
+	<key>blocOrMethod</key>
+	<string>rowSinceStage</string>
+	<key>checklistAroundMediator</key>
+	<string>reactiveLayerMode</string>
+	<key>entityNumberInteraction</key>
+	<string>labelContextMode</string>
+	<key>mediocreAppbarVisibility</key>
+	<string>temporaryTernaryStatus</string>
+	<key>rowCompositeVisibility</key>
+	<string>captionMementoCoord</string>
+	<key>scrollMediatorTheme</key>
+	<string>chapterLevelAppearance</string>
+	<key>sessionNearParam</key>
+	<string>rowAsJob</string>
+</dict>
+</plist>

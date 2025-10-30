@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxVisitorRight</key>
+	<string>multiplicationSystemFrequency</string>
+	<key>otherSemanticsEdge</key>
+	<string>cubitStrategyCount</string>
+	<key>robustResultSaturation</key>
+	<string>backwardFuturePressure</string>
+</dict>
+</plist>

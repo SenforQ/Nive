@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectIncludeState</key>
+	<string>layoutAtCommand</string>
+	<key>clipperDespiteContext</key>
+	<string>interactorForTask</string>
+	<key>constWidgetResponse</key>
+	<string>sliderBesidePlatform</string>
+	<key>containerMethodHead</key>
+	<string>positionFlyweightOpacity</string>
+	<key>grayscaleAtScope</key>
+	<string>responsePerKind</string>
+	<key>rowAgainstForm</key>
+	<string>sampleDuringOperation</string>
+	<key>symbolVersusFacade</key>
+	<string>otherVariantValidation</string>
+	<key>timerPhaseCoord</key>
+	<string>binaryAsBridge</string>
+	<key>transformerMediatorIndex</key>
+	<string>commonLoopOffset</string>
+</dict>
+</plist>

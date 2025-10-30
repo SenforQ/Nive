@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoOptimizerInset</key>
+	<string>containerActivityRight</string>
+	<key>draggableProviderPosition</key>
+	<string>lastRectAppearance</string>
+	<key>memberOfJob</key>
+	<string>queueUntilPattern</string>
+	<key>multiDrawerInterval</key>
+	<string>semanticThemeSize</string>
+	<key>navigatorWithoutOperation</key>
+	<string>displayableSessionContrast</string>
+	<key>observerInterpreterDepth</key>
+	<string>chapterLikeMethod</string>
+	<key>routerStageRate</key>
+	<string>utilOutsideFlyweight</string>
+	<key>serviceKindInteraction</key>
+	<string>progressbarFunctionHue</string>
+	<key>utilAsParam</key>
+	<string>substantialLocalizationVisible</string>
+</dict>
+</plist>

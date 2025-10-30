@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationActivityBehavior</key>
+	<string>advancedResourceCenter</string>
+	<key>completerDecoratorLeft</key>
+	<string>sliderForParameter</string>
+	<key>concurrentAwaitRight</key>
+	<string>effectProcessBehavior</string>
+	<key>contractionSystemOrigin</key>
+	<string>animatedcontainerViaAction</string>
+	<key>cubitOperationInterval</key>
+	<string>nibProcessColor</string>
+	<key>flexibleBinaryInterval</key>
+	<string>mediumInjectionOpacity</string>
+	<key>notifierValueBorder</key>
+	<string>containerAsLevel</string>
+	<key>rectFromContext</key>
+	<string>diversifiedResolverSkewy</string>
+</dict>
+</plist>

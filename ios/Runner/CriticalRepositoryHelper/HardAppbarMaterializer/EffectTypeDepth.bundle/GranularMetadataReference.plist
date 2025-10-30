@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSensorRight</key>
+	<string>documentLevelSpacing</string>
+	<key>callbackFunctionEdge</key>
+	<string>isolateThroughEnvironment</string>
+	<key>chartFlyweightVisibility</key>
+	<string>labelInterpreterVelocity</string>
+	<key>drawerStyleOpacity</key>
+	<string>reductionAmongObserver</string>
+	<key>factoryAsStyle</key>
+	<string>dependencyMementoCount</string>
+	<key>listviewWithoutMemento</key>
+	<string>labelAwayStage</string>
+	<key>profileStrategyMargin</key>
+	<string>intensityThroughVariable</string>
+	<key>toolInAdapter</key>
+	<string>dimensionNumberRate</string>
+</dict>
+</plist>

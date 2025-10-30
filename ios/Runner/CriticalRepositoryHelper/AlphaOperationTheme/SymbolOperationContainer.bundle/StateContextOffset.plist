@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorAgainstObserver</key>
+	<string>similarCoordinatorFeedback</string>
+	<key>inheritedStatelessMargin</key>
+	<string>descriptorActionTransparency</string>
+	<key>singletonUntilMode</key>
+	<string>nativeIconVisibility</string>
+	<key>tensorNibType</key>
+	<string>animatedcontainerExceptTier</string>
+	<key>workflowAndFacade</key>
+	<string>otherSegmentDirection</string>
+</dict>
+</plist>

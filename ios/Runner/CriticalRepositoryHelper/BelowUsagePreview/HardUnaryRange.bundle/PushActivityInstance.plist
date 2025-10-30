@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerBeyondSingleton</key>
+	<string>gateKindBorder</string>
+	<key>equalizationTypeKind</key>
+	<string>tickerCompositeAlignment</string>
+	<key>gestureSystemFeedback</key>
+	<string>semanticSingletonScale</string>
+	<key>gridviewStagePressure</key>
+	<string>asyncSymbolFrequency</string>
+	<key>intuitiveRepositoryInteraction</key>
+	<string>sampleLayerTop</string>
+	<key>logarithmWorkPadding</key>
+	<string>decorationLevelType</string>
+	<key>queueStrategyRate</key>
+	<string>opaqueNavigationMomentum</string>
+	<key>robustChannelDepth</key>
+	<string>tabviewInterpreterInset</string>
+	<key>smallCapsuleRight</key>
+	<string>smallQueueInterval</string>
+</dict>
+</plist>

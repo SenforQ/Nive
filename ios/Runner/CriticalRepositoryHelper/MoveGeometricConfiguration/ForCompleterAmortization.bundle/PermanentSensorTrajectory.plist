@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalCallbackType</key>
+	<string>subtleTweenStyle</string>
+	<key>eventActionInset</key>
+	<string>signaturePlatformValidation</string>
+	<key>flexibleHeapLeft</key>
+	<string>grainBeyondFlyweight</string>
+	<key>immediateProgressbarInterval</key>
+	<string>capsuleLevelResponse</string>
+	<key>navigatorTempleVelocity</key>
+	<string>sizeStyleInteraction</string>
+	<key>retainedStackInset</key>
+	<string>reusableSegmentPadding</string>
+	<key>timerBufferCount</key>
+	<string>contractionStructureSize</string>
+</dict>
+</plist>

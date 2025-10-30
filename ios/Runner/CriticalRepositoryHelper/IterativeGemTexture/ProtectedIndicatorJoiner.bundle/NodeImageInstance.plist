@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyFrameworkTail</key>
+	<string>hardDescriptionFeedback</string>
+	<key>ephemeralOptionFormat</key>
+	<string>cosineTierBrightness</string>
+	<key>histogramParameterStatus</key>
+	<string>builderVersusSystem</string>
+	<key>liteBorderTop</key>
+	<string>mediaqueryInterpreterFlags</string>
+	<key>reductionAsNumber</key>
+	<string>concurrentSliderAcceleration</string>
+	<key>routerAndInterpreter</key>
+	<string>topicParameterForce</string>
+	<key>scrollablePopupInteraction</key>
+	<string>callbackNumberResponse</string>
+	<key>streamOutsideStyle</key>
+	<string>asyncPriorityTag</string>
+	<key>subscriptionFromShape</key>
+	<string>convolutionBesideComposite</string>
+	<key>textByPrototype</key>
+	<string>priorSpriteEdge</string>
+</dict>
+</plist>

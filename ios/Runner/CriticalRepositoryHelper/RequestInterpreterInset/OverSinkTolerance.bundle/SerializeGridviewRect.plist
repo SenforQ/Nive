@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticFrameworkInteraction</key>
+	<string>protectedBaseTheme</string>
+	<key>heapAroundLevel</key>
+	<string>sampleVarBound</string>
+	<key>navigatorProxyRotation</key>
+	<string>allocatorOperationTop</string>
+	<key>routerThroughMemento</key>
+	<string>arithmeticSingletonFeedback</string>
+	<key>singletonSinceScope</key>
+	<string>sustainableSessionMode</string>
+	<key>smartBinaryShape</key>
+	<string>transformerOrFunction</string>
+	<key>tappableLoopBound</key>
+	<string>cacheForDecorator</string>
+	<key>ternaryKindSize</key>
+	<string>flexibleProgressbarInteraction</string>
+</dict>
+</plist>

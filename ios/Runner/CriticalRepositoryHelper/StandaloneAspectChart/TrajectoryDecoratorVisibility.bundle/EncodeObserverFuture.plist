@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableRowCount</key>
+	<string>firstCubitCoord</string>
+	<key>globalGiftType</key>
+	<string>previewWithoutDecorator</string>
+	<key>persistentBulletSkewx</key>
+	<string>mutableEventInteraction</string>
+	<key>primaryButtonAppearance</key>
+	<string>finalPaddingInset</string>
+	<key>taskUntilActivity</key>
+	<string>errorDecoratorTension</string>
+</dict>
+</plist>

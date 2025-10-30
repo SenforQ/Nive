@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocShapeDepth</key>
+	<string>unaryBeyondProxy</string>
+	<key>characterStyleMargin</key>
+	<string>allocatorParameterState</string>
+	<key>explicitCharacterValidation</key>
+	<string>asyncInCycle</string>
+	<key>lossAgainstBuffer</key>
+	<string>paddingValueOpacity</string>
+	<key>metadataWithShape</key>
+	<string>futureForState</string>
+	<key>permanentPlaybackTheme</key>
+	<string>eventNumberVelocity</string>
+	<key>positionMediatorRotation</key>
+	<string>durationUntilState</string>
+	<key>responseStageOrigin</key>
+	<string>usageWithFramework</string>
+	<key>sortedChannelRight</key>
+	<string>diffableCurveSize</string>
+</dict>
+</plist>

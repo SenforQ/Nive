@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMetadataShape</key>
+	<string>managerByMethod</string>
+	<key>basicFrameFormat</key>
+	<string>asyncFragmentLeft</string>
+	<key>collectionFacadeInset</key>
+	<string>listenerAsDecorator</string>
+	<key>graphSingletonLocation</key>
+	<string>reusableBlocBottom</string>
+	<key>nodeShapeBehavior</key>
+	<string>sequentialStorageLeft</string>
+	<key>notifierExceptStrategy</key>
+	<string>usecaseStageForce</string>
+	<key>semanticsDecoratorFrequency</key>
+	<string>utilStyleContrast</string>
+	<key>significantWorkflowRight</key>
+	<string>frameStageRight</string>
+	<key>toolChainResponse</key>
+	<string>visibleManagerStyle</string>
+</dict>
+</plist>

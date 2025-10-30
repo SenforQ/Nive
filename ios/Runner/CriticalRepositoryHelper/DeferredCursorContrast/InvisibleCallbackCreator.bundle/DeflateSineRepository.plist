@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedInteractorCount</key>
+	<string>stackContextBorder</string>
+	<key>curveVisitorFeedback</key>
+	<string>protocolMediatorBottom</string>
+	<key>directTabviewContrast</key>
+	<string>requestThroughMode</string>
+	<key>diversifiedIsolateType</key>
+	<string>ephemeralFactoryLeft</string>
+	<key>offsetAsWork</key>
+	<string>seamlessBaselineOrigin</string>
+	<key>richtextLayerCenter</key>
+	<string>coordinatorObserverSaturation</string>
+	<key>routeParameterShade</key>
+	<string>declarativeUnaryInteraction</string>
+	<key>sceneInsideCommand</key>
+	<string>gridInEnvironment</string>
+	<key>singletonStructureResponse</key>
+	<string>convolutionValueBound</string>
+	<key>unaryOrContext</key>
+	<string>ephemeralSubscriptionShade</string>
+</dict>
+</plist>

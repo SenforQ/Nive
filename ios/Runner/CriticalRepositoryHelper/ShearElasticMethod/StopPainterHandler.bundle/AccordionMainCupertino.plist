@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedMarginOrientation</key>
+	<string>bufferStructureVisible</string>
+	<key>entropyLayerPressure</key>
+	<string>viewStrategyOffset</string>
+	<key>lossDespiteComposite</key>
+	<string>desktopFeatureBehavior</string>
+	<key>normNearFacade</key>
+	<string>independentCupertinoLeft</string>
+	<key>spriteAgainstMode</key>
+	<string>delicatePreviewFeedback</string>
+	<key>toolDecoratorAlignment</key>
+	<string>immutableCoordinatorLeft</string>
+</dict>
+</plist>

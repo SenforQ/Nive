@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorWorkMomentum</key>
+	<string>gemPatternSaturation</string>
+	<key>delegateTypeBehavior</key>
+	<string>lastGradientFrequency</string>
+	<key>lossInLevel</key>
+	<string>arithmeticFutureBrightness</string>
+	<key>missionLevelSize</key>
+	<string>resilientScrollDistance</string>
+	<key>pinchableIsolatePosition</key>
+	<string>geometricRouterInteraction</string>
+	<key>semanticGetxBrightness</key>
+	<string>viewEnvironmentBrightness</string>
+	<key>sinkOfCommand</key>
+	<string>similarIntensityDepth</string>
+	<key>sophisticatedConstraintRate</key>
+	<string>firstViewAlignment</string>
+	<key>taskChainBottom</key>
+	<string>requestPatternLeft</string>
+</dict>
+</plist>

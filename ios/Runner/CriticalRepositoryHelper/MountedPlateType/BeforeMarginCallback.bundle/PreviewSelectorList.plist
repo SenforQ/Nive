@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>liteStoreSaturation</key>
+	<string>sinkByCycle</string>
+	<key>pinchableConfigurationDelay</key>
+	<string>indicatorContextEdge</string>
+	<key>priorityAmongInterpreter</key>
+	<string>uniformStorageValidation</string>
+	<key>segueAmongParameter</key>
+	<string>resourceInterpreterLocation</string>
+	<key>storeOrCycle</key>
+	<string>customizedNavigatorHue</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowByType</key>
+	<string>sensorInStage</string>
+	<key>cupertinoFunctionRight</key>
+	<string>compositionalButtonMode</string>
+	<key>currentTextType</key>
+	<string>viewVariableBehavior</string>
+	<key>immutableTransitionInteraction</key>
+	<string>buttonPatternInset</string>
+	<key>materialIsolateLeft</key>
+	<string>providerWithoutJob</string>
+	<key>modulusByVariable</key>
+	<string>otherNavigatorSpacing</string>
+	<key>progressbarFromStyle</key>
+	<string>staticErrorVisibility</string>
+	<key>sensorVersusPattern</key>
+	<string>actionBridgeSpeed</string>
+	<key>ternaryInsideLayer</key>
+	<string>modulusExceptWork</string>
+</dict>
+</plist>

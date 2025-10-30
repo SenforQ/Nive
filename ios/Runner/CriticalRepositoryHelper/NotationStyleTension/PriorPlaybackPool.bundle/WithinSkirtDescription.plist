@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeTextScale</key>
+	<string>enabledSlashCount</string>
+	<key>getxMediatorKind</key>
+	<string>criticalCoordinatorStyle</string>
+	<key>layerAtPlatform</key>
+	<string>loopAndStage</string>
+	<key>lostSingletonShape</key>
+	<string>requiredTabviewBrightness</string>
+	<key>resizableQueueBrightness</key>
+	<string>scrollPerKind</string>
+	<key>responseLayerShape</key>
+	<string>uniqueAlignmentDensity</string>
+</dict>
+</plist>

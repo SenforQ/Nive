@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncLevelCenter</key>
+	<string>particleNumberMode</string>
+	<key>histogramExceptBuffer</key>
+	<string>uniformModalDepth</string>
+	<key>mainAllocatorBorder</key>
+	<string>inheritedPrecisionBottom</string>
+	<key>originalPreviewSize</key>
+	<string>providerAboutDecorator</string>
+	<key>singletonTaskTail</key>
+	<string>smallStateTheme</string>
+	<key>taskAwayObserver</key>
+	<string>greatTopicResponse</string>
+	<key>usecaseScopeSkewx</key>
+	<string>inheritedRiverpodTransparency</string>
+</dict>
+</plist>

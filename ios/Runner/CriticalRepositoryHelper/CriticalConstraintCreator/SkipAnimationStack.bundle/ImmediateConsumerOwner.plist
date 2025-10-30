@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionObserverShade</key>
+	<string>nodeObserverTail</string>
+	<key>semanticActionDuration</key>
+	<string>referenceFlyweightResponse</string>
+	<key>shaderContainWork</key>
+	<string>arithmeticPlaybackBrightness</string>
+	<key>storePerProcess</key>
+	<string>providerAwayBuffer</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileZoneMargin</key>
+	<string>visibleDescriptionBorder</string>
+	<key>gramCycleMargin</key>
+	<string>cubitExceptAdapter</string>
+	<key>inactiveToolRight</key>
+	<string>offsetJobDuration</string>
+	<key>primaryObserverTail</key>
+	<string>taskProcessAcceleration</string>
+</dict>
+</plist>

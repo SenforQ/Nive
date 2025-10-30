@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseTitlePadding</key>
+	<string>elasticMaterialDensity</string>
+	<key>effectModeTag</key>
+	<string>uniqueProgressbarSpacing</string>
+	<key>marginAgainstOperation</key>
+	<string>capsulePerScope</string>
+	<key>menuMementoAlignment</key>
+	<string>skirtForStage</string>
+	<key>positionCompositeLeft</key>
+	<string>curveProxyLeft</string>
+	<key>sceneTierSkewy</key>
+	<string>greatBinaryFrequency</string>
+	<key>statelessMenuPadding</key>
+	<string>effectParameterDensity</string>
+	<key>taskActivitySkewx</key>
+	<string>backwardAssetBorder</string>
+</dict>
+</plist>

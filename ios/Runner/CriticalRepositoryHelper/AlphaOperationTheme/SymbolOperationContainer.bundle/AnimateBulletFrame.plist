@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentSensorTheme</key>
+	<string>bitrateDespiteVar</string>
+	<key>consumerVersusVar</key>
+	<string>topicMediatorAppearance</string>
+	<key>firstListviewAlignment</key>
+	<string>eagerLocalizationDistance</string>
+	<key>loopSingletonCenter</key>
+	<string>directlyOptionSpacing</string>
+	<key>queuePlatformDepth</key>
+	<string>localAlignmentHead</string>
+	<key>similarCheckboxOrientation</key>
+	<string>largeBinaryBottom</string>
+	<key>skinAgainstDecorator</key>
+	<string>graphInterpreterDirection</string>
+	<key>usedInteractorDelay</key>
+	<string>otherConfigurationInteraction</string>
+	<key>usedMemberVelocity</key>
+	<string>positionedScopeDirection</string>
+</dict>
+</plist>

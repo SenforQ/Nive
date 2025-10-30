@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseForVisitor</key>
+	<string>positionedOutsideLevel</string>
+	<key>deferredStateInteraction</key>
+	<string>layerAmongNumber</string>
+	<key>flexStrategyDirection</key>
+	<string>errorPatternCount</string>
+	<key>promiseStrategyCenter</key>
+	<string>decorationPatternFeedback</string>
+	<key>reactiveOffsetRotation</key>
+	<string>futureOrMediator</string>
+	<key>sizedboxLevelStyle</key>
+	<string>reducerInterpreterCenter</string>
+	<key>streamIncludeParameter</key>
+	<string>threadScopeVisibility</string>
+	<key>streamProxyDensity</key>
+	<string>clipperPerProcess</string>
+	<key>tappableMobxStatus</key>
+	<string>publicPositionLocation</string>
+</dict>
+</plist>

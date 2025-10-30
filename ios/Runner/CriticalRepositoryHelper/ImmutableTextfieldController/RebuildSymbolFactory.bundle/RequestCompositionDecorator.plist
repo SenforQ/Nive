@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorForAdapter</key>
+	<string>managerStateTail</string>
+	<key>behaviorAroundFramework</key>
+	<string>fusedAllocatorDelay</string>
+	<key>curveVisitorVisibility</key>
+	<string>heroFacadeForce</string>
+	<key>durationStrategyBrightness</key>
+	<string>navigatorByKind</string>
+	<key>mutableViewHue</key>
+	<string>statelessScopeOpacity</string>
+	<key>statelessUntilFunction</key>
+	<string>parallelSubpixelBottom</string>
+	<key>tickerFlyweightState</key>
+	<string>exceptionStateOrigin</string>
+</dict>
+</plist>

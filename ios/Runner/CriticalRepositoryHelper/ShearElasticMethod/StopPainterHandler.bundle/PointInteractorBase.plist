@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCatalystStatus</key>
+	<string>subtleSpotMode</string>
+	<key>blocDecoratorDistance</key>
+	<string>parallelActivityTop</string>
+	<key>layoutDespiteComposite</key>
+	<string>composableBlocSaturation</string>
+	<key>methodLikeSystem</key>
+	<string>screenStageType</string>
+	<key>parallelFutureDensity</key>
+	<string>flexCommandBound</string>
+	<key>precisionFromType</key>
+	<string>positionedCycleBehavior</string>
+</dict>
+</plist>

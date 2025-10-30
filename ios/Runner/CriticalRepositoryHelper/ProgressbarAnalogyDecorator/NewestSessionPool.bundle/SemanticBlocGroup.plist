@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateParticleRate</key>
+	<string>cycleInterpreterEdge</string>
+	<key>durationPatternFeedback</key>
+	<string>significantRowHue</string>
+	<key>graphPatternTheme</key>
+	<string>presenterProxyInteraction</string>
+	<key>listenerProcessFormat</key>
+	<string>finalIntegerBrightness</string>
+	<key>providerObserverInteraction</key>
+	<string>clipperUntilPlatform</string>
+</dict>
+</plist>

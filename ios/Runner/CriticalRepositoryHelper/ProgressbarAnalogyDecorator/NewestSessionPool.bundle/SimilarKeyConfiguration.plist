@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerFacadeCoord</key>
+	<string>smallRadioType</string>
+	<key>exceptionOfObserver</key>
+	<string>notificationInScope</string>
+	<key>gesturedetectorOperationDepth</key>
+	<string>extensionByPlatform</string>
+	<key>loopJobCount</key>
+	<string>timerAtFunction</string>
+	<key>reductionWithPlatform</key>
+	<string>characterAlongAdapter</string>
+	<key>requestExceptSystem</key>
+	<string>resourceNumberStyle</string>
+	<key>sliderAroundProxy</key>
+	<string>pinchableLabelStatus</string>
+	<key>storageAboutMethod</key>
+	<string>activityAroundTask</string>
+	<key>textStrategyOrientation</key>
+	<string>baselineStateDistance</string>
+</dict>
+</plist>

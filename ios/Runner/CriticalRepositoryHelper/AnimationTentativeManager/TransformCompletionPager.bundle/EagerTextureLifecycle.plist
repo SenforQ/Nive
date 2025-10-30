@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerDecoratorPadding</key>
+	<string>progressbarAroundStructure</string>
+	<key>descriptorBeyondChain</key>
+	<string>subtleRectShade</string>
+	<key>documentMediatorFeedback</key>
+	<string>tappableConstraintResponse</string>
+	<key>iterativeAllocatorIndex</key>
+	<string>currentChartIndex</string>
+	<key>overlayCycleCount</key>
+	<string>swiftPerProxy</string>
+	<key>queryFrameworkCenter</key>
+	<string>viewFlyweightType</string>
+	<key>repositoryByStyle</key>
+	<string>cosineContainStyle</string>
+	<key>resilientVariantInset</key>
+	<string>cacheStyleTag</string>
+	<key>synchronousGraphPosition</key>
+	<string>intuitiveTweenState</string>
+</dict>
+</plist>

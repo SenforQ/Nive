@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyDialogsBound</key>
+	<string>enabledViewLeft</string>
+	<key>granularTextfieldResponse</key>
+	<string>histogramVariableCoord</string>
+	<key>mapActivityShape</key>
+	<string>rectOperationValidation</string>
+	<key>precisionBeyondComposite</key>
+	<string>singletonPlatformOpacity</string>
+	<key>progressbarOutsideProcess</key>
+	<string>petParameterCount</string>
+	<key>viewIncludeTemple</key>
+	<string>projectChainInterval</string>
+</dict>
+</plist>

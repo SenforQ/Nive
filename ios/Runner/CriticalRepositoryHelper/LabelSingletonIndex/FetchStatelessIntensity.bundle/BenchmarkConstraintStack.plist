@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCollectionVisible</key>
+	<string>autoPlateTransparency</string>
+	<key>containerCycleRate</key>
+	<string>finalChecklistMode</string>
+	<key>previewPrototypeLocation</key>
+	<string>animatedcontainerFacadeSaturation</string>
+	<key>resultLikeProxy</key>
+	<string>asynchronousSpriteMode</string>
+</dict>
+</plist>

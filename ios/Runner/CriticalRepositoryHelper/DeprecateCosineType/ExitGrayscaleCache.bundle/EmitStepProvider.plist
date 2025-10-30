@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintTempleAcceleration</key>
+	<string>cubitContextCoord</string>
+	<key>fixedColumnTransparency</key>
+	<string>resolverAsEnvironment</string>
+	<key>layerCyclePressure</key>
+	<string>opaqueTextSpeed</string>
+	<key>lostHeapTint</key>
+	<string>granularTangentRotation</string>
+	<key>requiredHandlerKind</key>
+	<string>symbolAwayCommand</string>
+	<key>transformerAroundStage</key>
+	<string>listenerAlongActivity</string>
+</dict>
+</plist>

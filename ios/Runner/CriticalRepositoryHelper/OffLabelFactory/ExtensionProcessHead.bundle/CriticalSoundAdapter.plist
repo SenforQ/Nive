@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentStrategyMode</key>
+	<string>cubitOrSystem</string>
+	<key>anchorShapeCoord</key>
+	<string>mobileChapterVelocity</string>
+	<key>builderTaskOrientation</key>
+	<string>channelInterpreterCount</string>
+	<key>cubitSystemAlignment</key>
+	<string>positionIncludeBuffer</string>
+	<key>gridPlatformSpeed</key>
+	<string>skinProxyForce</string>
+	<key>interpolationContextIndex</key>
+	<string>signaturePrototypeSpacing</string>
+	<key>responseExceptShape</key>
+	<string>exceptionDuringMode</string>
+	<key>smallBuilderBehavior</key>
+	<string>queueScopeContrast</string>
+	<key>usedDelegateFeedback</key>
+	<string>reactivePositionedMargin</string>
+</dict>
+</plist>

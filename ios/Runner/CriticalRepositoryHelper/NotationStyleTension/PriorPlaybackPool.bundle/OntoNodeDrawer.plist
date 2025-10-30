@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonSinceSystem</key>
+	<string>activatedUsecaseValidation</string>
+	<key>columnParamFrequency</key>
+	<string>cubitStructureDepth</string>
+	<key>controllerOrBridge</key>
+	<string>eventAndMemento</string>
+	<key>durationAsAction</key>
+	<string>curveAtBridge</string>
+	<key>globalEntityStatus</key>
+	<string>routerFromMode</string>
+	<key>parallelWorkflowBehavior</key>
+	<string>topicProcessSkewy</string>
+	<key>presenterInsideJob</key>
+	<string>labelSinceNumber</string>
+	<key>sizeOutsideObserver</key>
+	<string>nodeChainDuration</string>
+	<key>smartGradientBrightness</key>
+	<string>mapViaPattern</string>
+</dict>
+</plist>

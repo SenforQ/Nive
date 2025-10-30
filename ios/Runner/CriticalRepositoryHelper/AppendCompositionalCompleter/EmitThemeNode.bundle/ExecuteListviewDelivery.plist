@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTableSkewx</key>
+	<string>unactivatedGradientDelay</string>
+	<key>asyncZoneVisibility</key>
+	<string>requestBeyondParameter</string>
+	<key>layoutBridgeDirection</key>
+	<string>paddingFromParameter</string>
+	<key>queryAboutAction</key>
+	<string>spriteCommandHead</string>
+	<key>routerStructureDepth</key>
+	<string>nibBufferCoord</string>
+	<key>sequentialEntropyRotation</key>
+	<string>radiusOutsideParameter</string>
+</dict>
+</plist>

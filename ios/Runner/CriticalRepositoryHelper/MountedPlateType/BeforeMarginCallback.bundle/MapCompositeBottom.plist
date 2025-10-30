@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentExceptActivity</key>
+	<string>prevBinaryAcceleration</string>
+	<key>animatedRemainderTag</key>
+	<string>channelsVersusBuffer</string>
+	<key>completionMediatorDelay</key>
+	<string>progressbarPrototypeSpacing</string>
+	<key>featureContextFrequency</key>
+	<string>mobxAdapterDirection</string>
+	<key>localFutureRate</key>
+	<string>publicPositionedHue</string>
+	<key>protectedCoordinatorTransparency</key>
+	<string>durationStyleSaturation</string>
+	<key>storageIncludeStage</key>
+	<string>signatureSystemTheme</string>
+	<key>tickerAgainstLevel</key>
+	<string>animatedCupertinoPressure</string>
+	<key>transformerStructureFlags</key>
+	<string>previewAndPlatform</string>
+</dict>
+</plist>

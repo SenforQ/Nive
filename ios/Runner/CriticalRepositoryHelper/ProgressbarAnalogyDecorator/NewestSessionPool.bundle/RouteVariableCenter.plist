@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRadiusType</key>
+	<string>controllerWithoutPlatform</string>
+	<key>associatedChecklistContrast</key>
+	<string>mediocreFutureResponse</string>
+	<key>optionBufferAppearance</key>
+	<string>backwardPointRotation</string>
+	<key>similarGraphVisibility</key>
+	<string>projectionVarState</string>
+	<key>storeAlongPhase</key>
+	<string>requiredConsumerBound</string>
+</dict>
+</plist>

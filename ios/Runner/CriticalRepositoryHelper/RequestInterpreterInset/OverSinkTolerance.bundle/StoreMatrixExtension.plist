@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerAmongStyle</key>
+	<string>containerStrategyContrast</string>
+	<key>layoutByPrototype</key>
+	<string>semanticUnaryFeedback</string>
+	<key>memberInterpreterBrightness</key>
+	<string>concreteCheckboxPadding</string>
+	<key>memberUntilMediator</key>
+	<string>agileLocalizationHead</string>
+	<key>persistentMobxVisible</key>
+	<string>stateFunctionBound</string>
+	<key>uniformWidgetDistance</key>
+	<string>concreteMenuTransparency</string>
+	<key>unsortedCosineSpacing</key>
+	<string>expandedViaKind</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAwayBuffer</key>
+	<string>normalSliderCoord</string>
+	<key>missedMobileShape</key>
+	<string>callbackStageFrequency</string>
+	<key>operationTempleDuration</key>
+	<string>animatedUsecaseBrightness</string>
+	<key>primaryDescriptorCount</key>
+	<string>cacheMementoSize</string>
+	<key>reductionStageInteraction</key>
+	<string>parallelPreviewDepth</string>
+	<key>shaderStructureFeedback</key>
+	<string>hyperbolicGroupInset</string>
+	<key>singletonStrategyBrightness</key>
+	<string>backwardSubscriptionPadding</string>
+	<key>stampStrategyInteraction</key>
+	<string>observerStrategyMomentum</string>
+	<key>symmetricCurveVisible</key>
+	<string>imperativePetBottom</string>
+</dict>
+</plist>

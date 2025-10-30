@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredGateContrast</key>
+	<string>progressbarStrategyDistance</string>
+	<key>delegateAmongFramework</key>
+	<string>providerInterpreterMode</string>
+	<key>drawerThroughDecorator</key>
+	<string>localizationSystemOpacity</string>
+	<key>pivotalReductionFormat</key>
+	<string>ephemeralAllocatorSaturation</string>
+	<key>spineFrameworkFrequency</key>
+	<string>masterContainVisitor</string>
+</dict>
+</plist>

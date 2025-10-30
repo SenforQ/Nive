@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionPlatformVisibility</key>
+	<string>tweenOrFacade</string>
+	<key>histogramDespiteStrategy</key>
+	<string>gradientDespiteLayer</string>
+	<key>isolateAdapterRate</key>
+	<string>directChallengeDirection</string>
+	<key>localizationContextCenter</key>
+	<string>stepLikeOperation</string>
+	<key>originalThemeLocation</key>
+	<string>apertureShapePadding</string>
+	<key>scaleBufferMode</key>
+	<string>resilientProgressbarInterval</string>
+	<key>tickerMethodVisibility</key>
+	<string>bufferContainInterpreter</string>
+</dict>
+</plist>

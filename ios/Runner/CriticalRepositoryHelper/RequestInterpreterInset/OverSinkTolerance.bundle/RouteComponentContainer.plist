@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedFutureInset</key>
+	<string>directSignBehavior</string>
+	<key>cupertinoAsProcess</key>
+	<string>capacitiesIncludeFlyweight</string>
+	<key>cycleFrameworkTint</key>
+	<string>requestTempleTheme</string>
+	<key>immediateCupertinoState</key>
+	<string>interactiveAsyncSkewy</string>
+	<key>otherSignSpacing</key>
+	<string>titleTierHue</string>
+	<key>projectPatternStyle</key>
+	<string>delegateModeSkewy</string>
+	<key>scrollableLabelOrientation</key>
+	<string>relationalTitleAlignment</string>
+</dict>
+</plist>

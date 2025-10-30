@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationLikeFacade</key>
+	<string>mediumAlphaOrientation</string>
+	<key>asynchronousButtonValidation</key>
+	<string>completionPlatformInteraction</string>
+	<key>clipperInsideMode</key>
+	<string>immutableExceptionShape</string>
+	<key>exceptionSystemScale</key>
+	<string>effectPatternTail</string>
+	<key>requiredLogarithmSkewy</key>
+	<string>animatedcontainerDuringBuffer</string>
+	<key>swiftDuringSystem</key>
+	<string>metadataFlyweightStyle</string>
+	<key>taskFrameworkKind</key>
+	<string>buttonStrategyTheme</string>
+</dict>
+</plist>

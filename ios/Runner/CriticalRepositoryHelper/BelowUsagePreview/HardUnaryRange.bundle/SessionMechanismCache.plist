@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentBeyondKind</key>
+	<string>independentArithmeticFrequency</string>
+	<key>associatedCubitSaturation</key>
+	<string>inheritedPositionAcceleration</string>
+	<key>batchContainVar</key>
+	<string>geometricNodeValidation</string>
+	<key>channelAndContext</key>
+	<string>methodFromVisitor</string>
+	<key>factoryIncludeValue</key>
+	<string>draggableResourceKind</string>
+	<key>methodThroughFacade</key>
+	<string>extensionStageOrigin</string>
+</dict>
+</plist>

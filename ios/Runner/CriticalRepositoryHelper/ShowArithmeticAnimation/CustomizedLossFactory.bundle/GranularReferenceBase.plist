@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonStyleSpeed</key>
+	<string>offsetPerShape</string>
+	<key>cubitByFramework</key>
+	<string>tweenInterpreterOrigin</string>
+	<key>dialogsEnvironmentShape</key>
+	<string>firstAlphaType</string>
+	<key>enabledStoryboardRight</key>
+	<string>retainedTitleAppearance</string>
+	<key>newestSessionShape</key>
+	<string>subsequentResolverSaturation</string>
+	<key>persistentPetSize</key>
+	<string>parallelAnimationFeedback</string>
+	<key>rectInterpreterSize</key>
+	<string>descriptorOperationStatus</string>
+	<key>scaffoldActivityTransparency</key>
+	<string>commandViaPrototype</string>
+</dict>
+</plist>

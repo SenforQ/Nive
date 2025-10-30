@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaOutsideTier</key>
+	<string>equipmentParamShape</string>
+	<key>expandedFlyweightSpacing</key>
+	<string>localCurveTail</string>
+	<key>flexiblePopupTail</key>
+	<string>momentumLikeFunction</string>
+	<key>sliderInScope</key>
+	<string>effectForBuffer</string>
+	<key>stepVarName</key>
+	<string>aspectVersusBuffer</string>
+	<key>unactivatedPlaybackVelocity</key>
+	<string>intensityScopeCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonShapeVisible</key>
+	<string>marginWithoutVisitor</string>
+	<key>discardedSubscriptionRotation</key>
+	<string>uniformCompletionDistance</string>
+	<key>hashAtActivity</key>
+	<string>featureSinceTask</string>
+	<key>histogramVersusScope</key>
+	<string>bitrateDecoratorOrientation</string>
+</dict>
+</plist>

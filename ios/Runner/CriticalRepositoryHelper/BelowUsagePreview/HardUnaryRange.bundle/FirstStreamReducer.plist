@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRowDelay</key>
+	<string>subtleFlexContrast</string>
+	<key>alertFacadePosition</key>
+	<string>priorityVariableBehavior</string>
+	<key>arithmeticBlocFeedback</key>
+	<string>significantNibLocation</string>
+	<key>basicDrawerSpacing</key>
+	<string>routeBridgeOrientation</string>
+	<key>beginnerIntensityDensity</key>
+	<string>precisionOutsideParameter</string>
+	<key>inactiveAllocatorRotation</key>
+	<string>expandedFormShade</string>
+	<key>protectedSliderAppearance</key>
+	<string>taskBesideFramework</string>
+	<key>screenWithKind</key>
+	<string>pinchableCommandSpacing</string>
+	<key>tabviewMethodSize</key>
+	<string>resourceBesideFunction</string>
+</dict>
+</plist>

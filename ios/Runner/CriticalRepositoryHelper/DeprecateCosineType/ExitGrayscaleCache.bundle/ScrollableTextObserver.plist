@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousChannelFlags</key>
+	<string>gridWorkScale</string>
+	<key>descriptorAndActivity</key>
+	<string>binaryStructurePosition</string>
+	<key>dialogsCommandRotation</key>
+	<string>customizedSpriteSaturation</string>
+	<key>disabledDependencySkewx</key>
+	<string>navigatorFrameworkMode</string>
+	<key>effectLikeForm</key>
+	<string>sharedBoxFrequency</string>
+	<key>functionalInkwellStyle</key>
+	<string>toolValueTension</string>
+	<key>materialContainMode</key>
+	<string>boxshadowEnvironmentKind</string>
+	<key>paddingAndSystem</key>
+	<string>promiseLayerOpacity</string>
+	<key>zoneMediatorPosition</key>
+	<string>gateInterpreterIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentBuilderInset</key>
+	<string>builderWithoutPhase</string>
+	<key>layoutOperationPadding</key>
+	<string>segueKindIndex</string>
+	<key>mapViaProcess</key>
+	<string>checkboxChainOpacity</string>
+	<key>progressbarParameterLocation</key>
+	<string>bulletMementoTint</string>
+	<key>routerFromVar</key>
+	<string>layoutScopeSkewx</string>
+	<key>scrollableReductionDuration</key>
+	<string>optimizerStyleFrequency</string>
+	<key>variantKindMode</key>
+	<string>kernelStateCount</string>
+	<key>widgetWorkSize</key>
+	<string>sliderNumberCenter</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerPerProxy</key>
+	<string>accordionMatrixSize</string>
+	<key>customizedTopicDepth</key>
+	<string>resizableReducerTail</string>
+	<key>interfaceWithParam</key>
+	<string>channelsStateOffset</string>
+	<key>mainSceneOrigin</key>
+	<string>configurationViaAdapter</string>
+	<key>materialReductionAlignment</key>
+	<string>alertOutsideOperation</string>
+</dict>
+</plist>

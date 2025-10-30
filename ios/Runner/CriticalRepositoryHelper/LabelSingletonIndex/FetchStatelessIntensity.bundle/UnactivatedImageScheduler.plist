@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellKindMode</key>
+	<string>directDropdownbuttonInset</string>
+	<key>discardedButtonHue</key>
+	<string>memberOrValue</string>
+	<key>providerStructureEdge</key>
+	<string>curveOperationTint</string>
+	<key>radioAgainstFacade</key>
+	<string>listenerKindBound</string>
+	<key>subsequentControllerIndex</key>
+	<string>sizeActionCount</string>
+</dict>
+</plist>

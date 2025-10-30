@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartParamValidation</key>
+	<string>unaryExceptPrototype</string>
+	<key>draggableActionName</key>
+	<string>diffablePainterStatus</string>
+	<key>opaqueSpotMargin</key>
+	<string>mediaContextSaturation</string>
+	<key>pinchableChartDepth</key>
+	<string>completerLikeStage</string>
+	<key>queueOrForm</key>
+	<string>sinkDecoratorDuration</string>
+	<key>rectVisitorLeft</key>
+	<string>priorAlphaPressure</string>
+	<key>transformerOfTask</key>
+	<string>nativeSkirtIndex</string>
+</dict>
+</plist>

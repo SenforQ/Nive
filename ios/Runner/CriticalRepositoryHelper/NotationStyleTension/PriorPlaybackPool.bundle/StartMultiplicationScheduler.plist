@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesIncludeMediator</key>
+	<string>statefulTweenSize</string>
+	<key>disabledAnchorState</key>
+	<string>symmetricTransformerOffset</string>
+	<key>queueOfCommand</key>
+	<string>profileMementoDelay</string>
+	<key>responseTaskVisible</key>
+	<string>smartSingletonShade</string>
+	<key>scaleCommandShade</key>
+	<string>stateAmongLayer</string>
+	<key>serviceTaskType</key>
+	<string>listenerContainJob</string>
+	<key>skirtSinceVisitor</key>
+	<string>cosineExceptPlatform</string>
+	<key>tickerFrameworkResponse</key>
+	<string>resizableFeaturePadding</string>
+</dict>
+</plist>

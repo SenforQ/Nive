@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyIncludeContext</key>
+	<string>catalystForShape</string>
+	<key>functionalStorageSkewy</key>
+	<string>navigatorUntilBridge</string>
+	<key>futureProcessRotation</key>
+	<string>popupFlyweightDirection</string>
+	<key>layerUntilMediator</key>
+	<string>entityProxyFeedback</string>
+	<key>menuScopeVelocity</key>
+	<string>declarativeMapOrigin</string>
+	<key>navigatorFrameworkIndex</key>
+	<string>bufferScopeBehavior</string>
+	<key>singlePromiseOpacity</key>
+	<string>histogramProxyFeedback</string>
+</dict>
+</plist>

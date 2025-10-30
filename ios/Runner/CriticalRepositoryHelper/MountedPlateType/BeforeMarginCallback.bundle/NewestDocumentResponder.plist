@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelFunctionStatus</key>
+	<string>assetByCommand</string>
+	<key>durationJobKind</key>
+	<string>multiplicationIncludeFacade</string>
+	<key>queueFrameworkPadding</key>
+	<string>assetPrototypeFormat</string>
+	<key>resizableSinkBottom</key>
+	<string>grainLayerLeft</string>
+</dict>
+</plist>

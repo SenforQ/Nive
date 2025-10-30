@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureKindBehavior</key>
+	<string>marginDecoratorBorder</string>
+	<key>notifierAndFramework</key>
+	<string>projectionThroughMediator</string>
+	<key>skinOfAdapter</key>
+	<string>groupVersusScope</string>
+	<key>stampAlongChain</key>
+	<string>storeFrameworkHue</string>
+	<key>stampThanBridge</key>
+	<string>configurationSinceFunction</string>
+	<key>viewProxyDuration</key>
+	<string>subpixelActionValidation</string>
+</dict>
+</plist>

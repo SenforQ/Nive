@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>labelThroughLayer</key>
+	<string>globalControllerFeedback</string>
+	<key>oldRectFeedback</key>
+	<string>inkwellStrategyContrast</string>
+	<key>radiusAndVariable</key>
+	<string>workflowJobMargin</string>
+	<key>routeFromPattern</key>
+	<string>boxVarTransparency</string>
+	<key>singleChartPosition</key>
+	<string>stateAgainstStyle</string>
+	<key>statefulIncludeActivity</key>
+	<string>invisibleCompositionType</string>
+</dict>
+</plist>

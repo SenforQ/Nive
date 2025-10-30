@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncMediatorName</key>
+	<string>nodeThanState</string>
+	<key>characterAlongProcess</key>
+	<string>autoDropdownbuttonInteraction</string>
+	<key>factoryValueFeedback</key>
+	<string>presenterModeFlags</string>
+	<key>lastResultBottom</key>
+	<string>dropdownbuttonWorkBottom</string>
+	<key>statelessBaseCenter</key>
+	<string>musicActionVisible</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorOutsideMode</key>
+	<string>desktopModalLocation</string>
+	<key>playbackThroughValue</key>
+	<string>sharedDurationShade</string>
+	<key>responseStrategyStyle</key>
+	<string>numericalGraphicBrightness</string>
+	<key>riverpodInsidePattern</key>
+	<string>serviceOfStage</string>
+</dict>
+</plist>

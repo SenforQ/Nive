@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationActionFeedback</key>
+	<string>offsetForCycle</string>
+	<key>decorationBridgeBehavior</key>
+	<string>disabledInjectionIndex</string>
+	<key>gesturedetectorIncludeShape</key>
+	<string>cupertinoContainLevel</string>
+	<key>invisibleContainerDirection</key>
+	<string>sliderProxyVisibility</string>
+	<key>layoutCommandBottom</key>
+	<string>reducerValueVelocity</string>
+	<key>mediocreCompleterType</key>
+	<string>mobileProcessDirection</string>
+	<key>reducerOrBridge</key>
+	<string>actionPerLevel</string>
+	<key>rowTypeTransparency</key>
+	<string>cartesianResourceMargin</string>
+</dict>
+</plist>

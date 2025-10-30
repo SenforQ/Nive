@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentKindScale</key>
+	<string>resolverFromBridge</string>
+	<key>sharedRouteTheme</key>
+	<string>resultShapeType</string>
+	<key>stepMediatorValidation</key>
+	<string>layoutByLayer</string>
+</dict>
+</plist>

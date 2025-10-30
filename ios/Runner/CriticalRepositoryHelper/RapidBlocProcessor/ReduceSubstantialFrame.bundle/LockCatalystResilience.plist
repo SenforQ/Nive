@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSlashShape</key>
+	<string>textNearParam</string>
+	<key>columnThanPlatform</key>
+	<string>navigatorDecoratorDistance</string>
+	<key>ignoredAnchorKind</key>
+	<string>alertAroundObserver</string>
+	<key>particlePlatformSize</key>
+	<string>lostDrawerVisible</string>
+	<key>requestAmongBridge</key>
+	<string>navigatorAlongBridge</string>
+	<key>routerWorkTransparency</key>
+	<string>pivotalReferenceVisibility</string>
+	<key>rowAroundContext</key>
+	<string>optimizerKindOrigin</string>
+	<key>semanticCheckboxAppearance</key>
+	<string>viewAdapterDuration</string>
+	<key>sinkBesideStage</key>
+	<string>singleCommandLocation</string>
+	<key>tappableVectorCenter</key>
+	<string>finalVectorBorder</string>
+</dict>
+</plist>

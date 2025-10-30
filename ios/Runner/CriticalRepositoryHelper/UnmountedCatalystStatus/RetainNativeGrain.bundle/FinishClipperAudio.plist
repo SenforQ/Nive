@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRadioOpacity</key>
+	<string>commonShaderSkewy</string>
+	<key>arithmeticAsFacade</key>
+	<string>sharedCoordinatorVisibility</string>
+	<key>intermediateRepositoryCount</key>
+	<string>cupertinoRadioBehavior</string>
+	<key>memberChainResponse</key>
+	<string>routerContextPadding</string>
+	<key>priorActivityHue</key>
+	<string>cosineAlongTier</string>
+	<key>singletonPerState</key>
+	<string>prismaticSliderTail</string>
+	<key>unsortedScaleSkewx</key>
+	<string>ternaryDuringCycle</string>
+	<key>widgetPerValue</key>
+	<string>builderObserverKind</string>
+</dict>
+</plist>

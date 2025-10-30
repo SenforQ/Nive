@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorStageFormat</key>
+	<string>heapCycleFrequency</string>
+	<key>arithmeticVariableTint</key>
+	<string>shaderChainStatus</string>
+	<key>associatedBuilderDuration</key>
+	<string>spotStructureResponse</string>
+	<key>cartesianEquipmentRotation</key>
+	<string>desktopLoopKind</string>
+	<key>chartInterpreterAppearance</key>
+	<string>heapOutsideActivity</string>
+	<key>customPainterAppearance</key>
+	<string>gesturedetectorObserverSpacing</string>
+	<key>finalWidgetName</key>
+	<string>activatedExceptionFrequency</string>
+	<key>hardTaskStatus</key>
+	<string>entropyBridgeShade</string>
+	<key>standaloneSliderInteraction</key>
+	<string>persistentStorageOrigin</string>
+</dict>
+</plist>

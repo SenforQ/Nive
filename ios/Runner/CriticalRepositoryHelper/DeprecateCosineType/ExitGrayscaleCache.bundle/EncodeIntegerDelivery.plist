@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitOutsideMethod</key>
+	<string>textChainTint</string>
+	<key>consumerMementoTag</key>
+	<string>equalizationFromValue</string>
+	<key>decorationTypeOrigin</key>
+	<string>resourceStateBorder</string>
+	<key>loopAdapterBorder</key>
+	<string>invisibleChannelInteraction</string>
+	<key>mediaqueryValueRate</key>
+	<string>viewAgainstStrategy</string>
+	<key>observerFunctionFrequency</key>
+	<string>denseTweenName</string>
+	<key>singleUtilBorder</key>
+	<string>frameOfMediator</string>
+</dict>
+</plist>

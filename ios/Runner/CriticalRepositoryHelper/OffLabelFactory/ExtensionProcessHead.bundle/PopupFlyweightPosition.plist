@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableConstraintDistance</key>
+	<string>delegateInsideParam</string>
+	<key>indicatorStructureShape</key>
+	<string>fragmentShapeOrientation</string>
+	<key>injectionInFlyweight</key>
+	<string>captionIncludeChain</string>
+	<key>mediaInVariable</key>
+	<string>advancedKernelRight</string>
+	<key>metadataShapeTag</key>
+	<string>spriteMediatorAcceleration</string>
+	<key>mutableModulusInteraction</key>
+	<string>reusableQueueMode</string>
+	<key>newestGridDirection</key>
+	<string>permissiveDecorationStyle</string>
+	<key>techniqueFacadeBrightness</key>
+	<string>sampleFlyweightTint</string>
+</dict>
+</plist>

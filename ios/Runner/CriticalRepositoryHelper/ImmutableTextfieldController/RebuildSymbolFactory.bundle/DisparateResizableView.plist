@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constThreadResponse</key>
+	<string>checkboxModeRate</string>
+	<key>heroAboutStrategy</key>
+	<string>textfieldKindTint</string>
+	<key>isolateChainOpacity</key>
+	<string>tabbarDuringForm</string>
+	<key>labelMediatorMode</key>
+	<string>methodLikeAction</string>
+	<key>sophisticatedMissionOpacity</key>
+	<string>missedVectorHue</string>
+	<key>tabbarStageDirection</key>
+	<string>reducerForParam</string>
+	<key>webNodeMomentum</key>
+	<string>streamPhaseBehavior</string>
+</dict>
+</plist>

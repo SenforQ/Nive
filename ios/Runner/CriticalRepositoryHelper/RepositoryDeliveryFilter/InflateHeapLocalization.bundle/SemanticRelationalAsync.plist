@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainBeyondType</key>
+	<string>hyperbolicHistogramColor</string>
+	<key>grainVersusLayer</key>
+	<string>histogramContextMomentum</string>
+	<key>inkwellModeInset</key>
+	<string>normalPrioritySkewy</string>
+	<key>keyContainerState</key>
+	<string>interpolationSingletonBrightness</string>
+	<key>modelObserverRate</key>
+	<string>lazyCompleterDirection</string>
+</dict>
+</plist>

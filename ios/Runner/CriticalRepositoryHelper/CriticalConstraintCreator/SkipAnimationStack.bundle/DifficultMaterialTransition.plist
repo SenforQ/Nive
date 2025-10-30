@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterSingletonContrast</key>
+	<string>checklistPlatformSkewy</string>
+	<key>collectionViaFlyweight</key>
+	<string>usecaseDecoratorContrast</string>
+	<key>crucialViewAlignment</key>
+	<string>gridInAction</string>
+	<key>difficultRichtextTint</key>
+	<string>gramFrameworkOrigin</string>
+	<key>respectiveGraphScale</key>
+	<string>themePlatformName</string>
+</dict>
+</plist>

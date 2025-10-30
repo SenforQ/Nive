@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicBuilderValidation</key>
+	<string>missedEqualizationOrigin</string>
+	<key>concreteGraphicSkewy</key>
+	<string>interactiveNormInteraction</string>
+	<key>dimensionAdapterTransparency</key>
+	<string>disabledMenuBorder</string>
+	<key>gridBufferInset</key>
+	<string>vectorAwayLevel</string>
+	<key>richtextTaskContrast</key>
+	<string>disparateWidgetAlignment</string>
+	<key>roleProxyInset</key>
+	<string>standaloneBulletRight</string>
+	<key>sizeShapeAcceleration</key>
+	<string>pointCommandDelay</string>
+	<key>sliderInProxy</key>
+	<string>titleInLevel</string>
+</dict>
+</plist>

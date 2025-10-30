@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectPerShape</key>
+	<string>profileFrameworkLocation</string>
+	<key>factoryByAction</key>
+	<string>animationFacadeCenter</string>
+	<key>factoryScopeFormat</key>
+	<string>containerOperationOrientation</string>
+	<key>iconExceptJob</key>
+	<string>activityFunctionValidation</string>
+	<key>interpolationAdapterAcceleration</key>
+	<string>responsiveSubscriptionValidation</string>
+	<key>modalActivityDistance</key>
+	<string>adaptiveExpandedDuration</string>
+	<key>sensorStructureInteraction</key>
+	<string>diversifiedProjectStyle</string>
+	<key>transitionProcessOpacity</key>
+	<string>tensorDropdownbuttonFrequency</string>
+</dict>
+</plist>

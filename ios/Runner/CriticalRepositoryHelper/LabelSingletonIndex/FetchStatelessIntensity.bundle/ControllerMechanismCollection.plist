@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetMementoValidation</key>
+	<string>documentFormDirection</string>
+	<key>builderModeStyle</key>
+	<string>grainAgainstStyle</string>
+	<key>memberUntilProxy</key>
+	<string>errorPhaseFrequency</string>
+	<key>protocolStageFlags</key>
+	<string>localizationUntilSystem</string>
+	<key>textMementoRotation</key>
+	<string>transformerSinceMemento</string>
+</dict>
+</plist>

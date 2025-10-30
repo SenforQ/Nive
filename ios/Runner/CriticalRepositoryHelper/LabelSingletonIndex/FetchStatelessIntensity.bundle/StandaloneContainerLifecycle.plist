@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateEnvironmentFeedback</key>
+	<string>storageNearSingleton</string>
+	<key>chapterCycleSaturation</key>
+	<string>plateOperationRate</string>
+	<key>compositionalInteractorScale</key>
+	<string>disparateTickerSaturation</string>
+	<key>deferredCellInterval</key>
+	<string>denseDecorationTag</string>
+	<key>disabledGraphDuration</key>
+	<string>agileAlignmentState</string>
+	<key>explicitRadiusInteraction</key>
+	<string>missionForWork</string>
+	<key>modulusChainMode</key>
+	<string>storeLevelEdge</string>
+	<key>pinchableProgressbarFeedback</key>
+	<string>listenerBeyondJob</string>
+	<key>statefulStageLocation</key>
+	<string>parallelTransformerKind</string>
+</dict>
+</plist>

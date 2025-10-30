@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedRouterPadding</key>
+	<string>fusedCoordinatorTheme</string>
+	<key>localizationStageOrigin</key>
+	<string>vectorWithSystem</string>
+	<key>rapidRequestPosition</key>
+	<string>bufferParameterKind</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsOutsideStrategy</key>
+	<string>completionAdapterTag</string>
+	<key>customPriorityFeedback</key>
+	<string>gemInterpreterResponse</string>
+	<key>graphicBufferInteraction</key>
+	<string>subpixelPerBuffer</string>
+	<key>iconPatternSpacing</key>
+	<string>stampMethodShape</string>
+	<key>materialTweenMode</key>
+	<string>nativeReducerBrightness</string>
+	<key>mutableColumnAppearance</key>
+	<string>temporaryTableDirection</string>
+	<key>notifierCycleDelay</key>
+	<string>diversifiedAnimationAcceleration</string>
+	<key>significantGraphicTheme</key>
+	<string>grayscaleAndMode</string>
+	<key>sineAlongMode</key>
+	<string>serviceTempleCenter</string>
+	<key>tabbarSinceMemento</key>
+	<string>responsiveBinaryRotation</string>
+</dict>
+</plist>

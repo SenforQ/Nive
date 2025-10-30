@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelPerInterpreter</key>
+	<string>tensorModulusDistance</string>
+	<key>exceptionLevelName</key>
+	<string>descriptionSinceFunction</string>
+	<key>navigatorOrBuffer</key>
+	<string>requestKindResponse</string>
+	<key>normVersusNumber</key>
+	<string>subscriptionModeRate</string>
+	<key>notifierSystemTheme</key>
+	<string>inactiveNormBorder</string>
+	<key>requiredControllerBottom</key>
+	<string>mutableIsolateStyle</string>
+	<key>screenSystemTag</key>
+	<string>effectDecoratorState</string>
+	<key>tickerVersusVisitor</key>
+	<string>standaloneTextfieldState</string>
+	<key>webLayerInterval</key>
+	<string>directEffectFeedback</string>
+</dict>
+</plist>
